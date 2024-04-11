@@ -295,7 +295,9 @@ http://php.jdshipin.com:8880/bst.php?id=hxjchd/4000000
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 tvg-id="4K斗鱼影院台" tvg-name="4K斗鱼影院台" tvg-logo="http://epg.hackserver.net/logo/4K超高清电影.png" group-title="4K频道",4K斗鱼影院
 http://159.75.85.63:35455/douyu/9249162
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="4K频道",华数4K电影
+#EXTINF:-1 tvg-id="彼岸KARA" tvg-name="彼岸KARA" tvg-logo="http://epg.hackserver.net/logo/4K超高清电影.png" group-title="4K频道",彼岸KARA
+https://live.metshop.top/douyu/40471
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/huashu4k.png" group-title="4K频道",华数4K电影
 http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000003000004748&amp;livemode=1&amp;stbId=3
 
 
@@ -372,6 +374,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 #EXTINF:-1 tvg-id="newtv欢乐剧场" tvg-name="newtv欢乐剧场" tvg-logo="http://epg.hackserver.net/logo/newtv%E6%AC%A2%E4%B9%90%E5%89%A7%E5%9C%BA.png" group-title="NewTv",NewTv欢乐剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-id="newtv爱情喜剧" tvg-name="newtv爱情喜剧" tvg-logo="http://epg.hackserver.net/logo/newtv%E7%88%B1%E6%83%85%E5%96%9C%E5%89%A7.png" group-title="NewTv",NewTv爱情喜剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-id="newtv家庭剧场" tvg-name="newtv家庭剧场" tvg-logo="http://epg.hackserver.net/logo/newtv%E5%AE%B6%E5%BA%AD%E5%89%A7%E5%9C%BA.png" group-title="NewTv",NewTv家庭剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-id="newtv金牌综艺" tvg-name="newtv金牌综艺" tvg-logo="http://epg.hackserver.net/logo/newtv%E9%87%91%E7%89%8C%E7%BB%BC%E8%89%BA.png" group-title="NewTv",NewTv金牌综艺
@@ -456,6 +460,8 @@ https://itv.lat/tv/live.php?&line=1&id=ktxjx
 #电影.剧集轮播
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",伪装者•胡歌
 https://epg.pw/stream/5bc17e92b2b2db3b8fcb9c15d79d84f97803b8233b590312a3ac8f4591afef0d.ctv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",仙剑奇侠传•刘亦菲
+https://live.metshop.top/yy/1382749903
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",老三国
 https://live.metshop.top/huya/11602081
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",新三国
@@ -546,6 +552,14 @@ https://epg.pw/stream/1916117492dc9018156a54d147b9fbd49d5b26de13e4ddd4178a3c0998
 https://epg.pw/stream/0ca8b8b7590bd8d94754bc9bd197bb0076aa3a2efde8935abbd6dba20fa010ba.ctv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",斗罗大陆•唐家三少
 http://cfss.cc/cdn/hy/11352906.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",火影忍者
+https://live.metshop.top/yy/1355336008
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",外星+人2[韩]
+https://v.cdnlz2.com/20240201/28578_1ad90f25/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",来自星星的你[韩]
+https://live.metshop.top/yy/1354930976
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",三大队 剧版
+https://v.cdnlz12.com/20240215/11573_4cb789fb/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",yy电影1
 http://11.xmyxc.cn/api/php/yy.php?id=1382749892
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",yy电影2
@@ -794,6 +808,8 @@ http://159.75.85.63:35455/douyu/2793084
 http://159.75.85.63:35455/douyu/4332
 #EXTINF:-1 group-title="斗鱼点播",贝爷影厅✔原
 http://159.75.85.63:35455/douyu/252802
+#EXTINF:-1 group-title="斗鱼点播",不迷路点歌台✔原
+http://mmitv.top/test/douyu.php?id=3186217
 
 
 #舞曲MTV
