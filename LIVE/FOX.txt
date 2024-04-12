@@ -233,15 +233,20 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 老三国,https://live.metshop.top/huya/11602081
 新三国,https://live.metshop.top/huya/11352944
 新水浒,https://live.metshop.top/huya/11342384
+新世界•孙红雷,https://www.goodiptv.club/yy/1382736850
+红楼梦87经典版,https://www.goodiptv.club/yy/1382745084
 纪晓岚,https://live.metshop.top/huya/11342396
 庆馀年,https://live.metshop.top/huya/11352960
+欢乐颂,https://www.goodiptv.club/yy/1382735624
+白夜追凶,https://www.goodiptv.club/yy/1354932359
 雍正王朝,https://live.metshop.top/huya/11342439
 士兵突击,https://live.metshop.top/huya/11342430
 爱情公寓,https://live.metshop.top/huya/11336726
 家有儿女,https://live.metshop.top/huya/11352872
 武林外传,https://live.metshop.top/huya/21059598
-地下交通站,https://live.metshop.top/huya/11342433
 情满四合院,https://live.metshop.top/huya/11342426
+天  道,https://www.goodiptv.club/yy/1382735574
+血色浪漫,https://www.goodiptv.club/yy/1354926676
 鬼吹灯,https://epg.pw/stream/88fd55cb4bd809a7f5e29ba31a1cad7396a5f1ea128a8ce6458d7be306d34b53.ctv
 封神榜,http://cfss.cc/cdn/hy/23749096.flv
 西游记•张卫健版 I,http://cfss.cc/cdn/hy/23735126.flv
@@ -255,12 +260,13 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 法证先锋,http://cfss.cc/cdn/hy/23863804.flv
 陀枪师姐,http://cfss.cc/cdn/hy/23860039.flv
 笑傲江湖•吕颂贤,http://cfss.cc/cdn/hy/23865142.flv
+笑傲江湖•许晴,https://www.goodiptv.club/yy/1354282410
 洗冤录,http://cfss.cc/cdn/hy/23903130.flv
 我和僵屍有個約會•尹天照 万绮雯,https://epg.pw/stream/f01b1c9773fe819d5e3231107e9570f709e6b39d43198405d1923553a449eda1.ctv
 83射雕英雄傳,https://epg.pw/stream/2a0cf598fbf1be3b7cb3fda74d7bab67c3fcd6f2048d44596455233c84814258.ctv
 射雕之九阴真经•姜大卫 张智霖,https://epg.pw/stream/2245ffcbcc59ce19ec9d11555d4c748f4c7ca9d8566f22d58531fd7413431d01.ctv
 倚天屠龙记•吴启华,http://cfss.cc/cdn/hy/23734246.flv
-倚天屠龍記•苏有朋,https://epg.pw/stream/964f696000573b1c0a682da5d6b8f2b29e5ea796616bc92f8084af119c7fc24e.ctv
+倚天屠龍記•苏有朋,https://www.goodiptv.club/yy/1449856066
 神雕侠侣•古天乐,http://cfss.cc/cdn/hy/23865171.flv
 鉴证实录,http://cfss.cc/cdn/hy/23903183.flv
 创世纪,http://cfss.cc/cdn/hy/23749083.flv
@@ -276,8 +282,10 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 新白娘子傳奇•赵雅芝,https://epg.pw/stream/0ca8b8b7590bd8d94754bc9bd197bb0076aa3a2efde8935abbd6dba20fa010ba.ctv
 斗罗大陆•唐家三少,http://cfss.cc/cdn/hy/11352906.flv
 火影忍者,https://live.metshop.top/yy/1355336008
+灌篮高手,https://www.goodiptv.club/yy/1382735626
 外星+人2[韩],https://v.cdnlz2.com/20240201/28578_1ad90f25/2000k/hls/mixed.m3u8
 来自星星的你[韩],https://live.metshop.top/yy/1354930976
+请回答1988[韩],https://www.goodiptv.club/yy/1354932362
 三大队 剧版,https://v.cdnlz12.com/20240215/11573_4cb789fb/2000k/hls/mixed.m3u8
 yy电影1,http://11.xmyxc.cn/api/php/yy.php?id=1382749892
 yy电影2,http://11.xmyxc.cn/api/php/yy.php?id=1382736803
@@ -365,6 +373,7 @@ YY电影-欧美科幻,http://11.xmyxc.cn/api/php/yy.php?id=37988782
 变形金刚系列,https://epg.pw/stream/83fde3b0412ad7c75b334a87e0e2dd72613a32eaef6256c6e7073db115dd1ec6.ctv
 变种人系列,https://epg.pw/stream/f41827a1237e7180f5397cd04a3521f6bffe93737f13bd0f27dadeaa4f900746.ctv
 敢死队系列,https://epg.pw/stream/bd12ccfbfc776bddd838cfd69469441ee24686142de4824e8e9dd96c1ca9b869.ctv
+古惑仔系列,https://www.goodiptv.club/yy/1354507447
 罗翔 法外狂徒张三,https://epg.pw/stream/579bda6ddd0173d963834b88fb895b778fc45cf390b531fbc05c708035263c26.ctv
 治愈•放松,https://epg.pw/stream/0b1ea83347f864361362275aa13f7d292b5defaf43307ab0cbb8339694ff73ed.ctv
 新歌速递,https://tv.iill.top/huya/19439762
