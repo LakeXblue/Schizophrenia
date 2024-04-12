@@ -242,7 +242,7 @@ https://epg.pw/stream/d290befff40ea26516e35ccad44726d0923e8063f164c76ca294e4cb5f
 #EXTINF:-1 tvg-name="made in hollywood" tvg-id="" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png" group-title="港澳.外语",made in hollywood
 https://epg.pw/stream/9c60cfc4b5a062fc264fae9f3ec66eef1d6ffc0e88f3fbde003ede2c94ad186b.m3u8
 #EXTINF:-1 tvg-name="magic tv" tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624004025127408_48.png" group-title="港澳.外语",Magic TV
-https://epg.pw/stream/9047d8261c167e35fbcb0aea5bd93c443572fbacc09e1c2c62111959ad37c59e.m3u8
+https://epg.pw/stream/c3d5d3c9962973f090b0b8ff4a7b377aab2904fe04bdb9a216d80db30f604444.m3u8
 #EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="港澳.外语",「日」Animax动漫
 https://epg.pw/stream/c00127d805e82b76c7aadbc58c94e6c08d7e35f9fd07df19c05597173345fdaf.m3u8
 
@@ -258,8 +258,6 @@ http://php.jdshipin.com:8880/bst.php?id=mlyyhd/4000000
 https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 #EXTINF:-1 tvg-name="nba tv" tvg-id="nba tv" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/31/large/20170331001240076889_34.png" group-title="体育.竞技",NBA TV
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
-#EXTINF:-1 tvg-name="Stadium" tvg-id="Stadium" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174827139958_70.png" group-title="体育.竞技",Stadium
-https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://epg.pw/media/images/channel/2022/05/16/large/20220516155835221115_90.jpg" group-title="体育.竞技",Red Bull TV
 https://epg.pw/stream/f17178961b92fb483324e38af210410b1a1817905d74910f877ce1c43753a097.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://epg.pw/media/images/channel/2022/05/16/large/20220516155835221115_90.jpg" group-title="体育.竞技",Red Bull TV
@@ -273,9 +271,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 #EXTINF:-1 vg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="http://epg.hackserver.net/logo/newtv%E8%B6%85%E7%BA%A7%E4%BD%93%E8%82%B2.png" group-title="体育.竞技",NewTv超级体育
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育.竞技",五星体育
-http://php.jdshipin.com:8880/bst.php?id=wxtyhd8m/8000000
+https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
 #EXTINF:-1 tvg-id="jbty" tvg-name="劲爆体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jbty.png" group-title="体育.竞技",劲爆体育
-http://php.jdshipin.com:8880/bst.php?id=jbtyhd/4000000
+https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv
 
 
 #4K频道
@@ -310,7 +308,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="数字频道",CHC高清电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dsjc.png" group-title="数字频道",都市剧场
-https://itv.lat/tv/live.php?&line=1&id=dsjc
+https://epg.pw/stream/2eabe02805b061c8bec403738aa242cadc769f72b5711c5b2567abd96b669815.m3u8
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="6639" tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="数字频道",北京卡酷少儿
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
@@ -569,13 +567,13 @@ https://live.metshop.top/yy/1355336008
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",灌篮高手
 https://www.goodiptv.club/yy/1382735626
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",外星+人2[韩]
-https://v.cdnlz2.com/20240201/28578_1ad90f25/2000k/hls/mixed.m3u8
+https://v.cdnlz12.com/20240215/11573_4cb789fb/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",来自星星的你[韩]
 https://live.metshop.top/yy/1354930976
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",请回答1988[韩]
 https://www.goodiptv.club/yy/1354932362
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",三大队 剧版
-https://v.cdnlz12.com/20240215/11573_4cb789fb/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",三大队 
+https://v.cdnlz2.com/20240201/28578_1ad90f25/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",yy电影1
 http://11.xmyxc.cn/api/php/yy.php?id=1382749892
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",yy电影2
