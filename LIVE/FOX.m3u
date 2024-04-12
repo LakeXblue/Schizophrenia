@@ -268,9 +268,9 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 tvg-id="wssj" tvg-name="武术世界" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/wssj.png" group-title="体育.竞技",武术世界
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
-#EXTINF:-1 tvg-id="newtv武搏世界" tvg-name="newtv武搏世界" tvg-logo="http://epg.hackserver.net/logo/newtv武搏世界.png" group-title="体育.竞技",武搏世界
+#EXTINF:-1 tvg-id="newtv武搏世界" tvg-name="newtv武搏世界" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV14.png" group-title="体育.竞技",武搏世界
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 vg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="http://epg.hackserver.net/logo/newtv%E8%B6%85%E7%BA%A7%E4%BD%93%E8%82%B2.png" group-title="体育.竞技",NewTv超级体育
+#EXTINF:-1 vg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV22.png" group-title="体育.竞技",NewTv超级体育
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育.竞技",五星体育
 https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
@@ -360,35 +360,35 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/5529729098703832176/1.m3u8
 
 
 #NewTv
-#EXTINF:-1 tvg-id="newtv超级电视剧" tvg-name="newtv超级电视剧" tvg-logo="http://epg.hackserver.net/logo/newtv%E8%B6%85%E7%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="NewTv",NewTv超级电视剧
+#EXTINF:-1 tvg-id="newtv超级电视剧" tvg-name="newtv超级电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV25.png" group-title="NewTv",NewTv超级电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="http://epg.hackserver.net/logo/newtv%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1.png" group-title="NewTv",NewTv超级电影
+#EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV23.png" group-title="NewTv",NewTv超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="newtv超级综艺" tvg-name="newtv超级综艺" tvg-logo="http://epg.hackserver.net/logo/newtv%E8%B6%85%E7%BA%A7%E7%BB%BC%E8%89%BA.png" group-title="NewTv",NewTv超级综艺
+#EXTINF:-1 tvg-id="newtv超级综艺" tvg-name="newtv超级综艺" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV24.png" group-title="NewTv",NewTv超级综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-id="newtv潮妈辣婆" tvg-name="newtv潮妈辣婆" tvg-logo="http://epg.hackserver.net/logo/newtv%E6%BD%AE%E5%A6%88%E8%BE%A3%E5%A9%86.png" group-title="NewTv",NewTv潮妈辣婆
+#EXTINF:-1 tvg-id="newtv潮妈辣婆" tvg-name="newtv潮妈辣婆" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV15.png" group-title="NewTv",NewTv潮妈辣婆
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 tvg-id="newtv东北热剧" tvg-name="newtv东北热剧" tvg-logo="http://epg.hackserver.net/logo/newtv%E4%B8%9C%E5%8C%97%E7%83%AD%E5%89%A7.png" group-title="NewTv",NewTv东北热剧
+#EXTINF:-1 tvg-id="newtv东北热剧" tvg-name="newtv东北热剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV09.png" group-title="NewTv",NewTv东北热剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-id="newtv古装剧场" tvg-name="newtv古装剧场" tvg-logo="http://epg.hackserver.net/logo/newtv%E5%8F%A4%E8%A3%85%E5%89%A7%E5%9C%BA.png" group-title="NewTv",NewTv古装剧场
+#EXTINF:-1 tvg-id="newtv古装剧场" tvg-name="newtv古装剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV04.png" group-title="NewTv",NewTv古装剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 tvg-id="newtv欢乐剧场" tvg-name="newtv欢乐剧场" tvg-logo="http://epg.hackserver.net/logo/newtv%E6%AC%A2%E4%B9%90%E5%89%A7%E5%9C%BA.png" group-title="NewTv",NewTv欢乐剧场
+#EXTINF:-1 tvg-id="newtv欢乐剧场" tvg-name="newtv欢乐剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV13.png" group-title="NewTv",NewTv欢乐剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-id="newtv爱情喜剧" tvg-name="newtv爱情喜剧" tvg-logo="http://epg.hackserver.net/logo/newtv%E7%88%B1%E6%83%85%E5%96%9C%E5%89%A7.png" group-title="NewTv",NewTv爱情喜剧
+#EXTINF:-1 tvg-id="newtv爱情喜剧" tvg-name="newtv爱情喜剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV17.png" group-title="NewTv",NewTv爱情喜剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-id="newtv家庭剧场" tvg-name="newtv家庭剧场" tvg-logo="http://epg.hackserver.net/logo/newtv%E5%AE%B6%E5%BA%AD%E5%89%A7%E5%9C%BA.png" group-title="NewTv",NewTv家庭剧场
+#EXTINF:-1 tvg-id="newtv家庭剧场" tvg-name="newtv家庭剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV05.png" group-title="NewTv",NewTv家庭剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 tvg-id="newtv金牌综艺" tvg-name="newtv金牌综艺" tvg-logo="http://epg.hackserver.net/logo/newtv%E9%87%91%E7%89%8C%E7%BB%BC%E8%89%BA.png" group-title="NewTv",NewTv金牌综艺
+#EXTINF:-1 tvg-id="newtv金牌综艺" tvg-name="newtv金牌综艺" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV21.png" group-title="NewTv",NewTv金牌综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-id="newtv惊悚悬疑" tvg-name="newtv惊悚悬疑" tvg-logo="http://epg.hackserver.net/logo/newtv%E6%83%8A%E6%82%9A%E6%82%AC%E7%96%91.png" group-title="NewTv",NewTv惊悚悬疑
+#EXTINF:-1 tvg-id="newtv惊悚悬疑" tvg-name="newtv惊悚悬疑" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV10.png" group-title="NewTv",NewTv惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-id="newtv精品大剧" tvg-name="newtv精品大剧" tvg-logo="http://epg.hackserver.net/logo/newtv%E7%B2%BE%E5%93%81%E5%A4%A7%E5%89%A7.png" group-title="NewTv",NewTv精品大剧
+#EXTINF:-1 tvg-id="newtv精品大剧" tvg-name="newtv精品大剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV19.png" group-title="NewTv",NewTv精品大剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-id="newtv军旅剧场" tvg-name="newtv军旅剧场" tvg-logo="http://epg.hackserver.net/logo/newtv%E5%86%9B%E6%97%85%E5%89%A7%E5%9C%BA.png" group-title="NewTv",NewTv军旅剧场
+#EXTINF:-1 tvg-id="newtv军旅剧场" tvg-name="newtv军旅剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV02.png" group-title="NewTv",NewTv军旅剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 tvg-id="newtv军事评论" tvg-name="newtv军事评论" tvg-logo="http://epg.hackserver.net/logo/newtv%E5%86%9B%E4%BA%8B%E8%AF%84%E8%AE%BA.png" group-title="NewTv",NewTv军事评论
+#EXTINF:-1 tvg-id="newtv军事评论" tvg-name="newtv军事评论" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV01.png" group-title="NewTv",NewTv军事评论
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225757/index.m3u8
-#EXTINF:-1 tvg-id="newtv炫舞未来" tvg-name="newtv炫舞未来" tvg-logo="http://epg.hackserver.net/logo/newtv%E7%82%AB%E8%88%9E%E6%9C%AA%E6%9D%A5.png" group-title="NewTv",NewTv炫舞未来
+#EXTINF:-1 tvg-id="newtv炫舞未来" tvg-name="newtv炫舞未来" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV16.png" group-title="NewTv",NewTv炫舞未来
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 
 
