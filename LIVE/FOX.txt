@@ -243,26 +243,27 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 看天下精选,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=ktxjx
 
 电影.剧集轮播,#genre#
-伪装者•胡歌,https://epg.pw/stream/5bc17e92b2b2db3b8fcb9c15d79d84f97803b8233b590312a3ac8f4591afef0d.ctv
+伪装者•胡歌,https://live.metshop.top/yy/1354936244
 仙剑奇侠传•刘亦菲,https://live.metshop.top/yy/1382749903
 老三国,https://live.metshop.top/huya/11602081
 新三国,https://live.metshop.top/huya/11352944
 新水浒,https://live.metshop.top/huya/11342384
-新世界•孙红雷,https://www.goodiptv.club/yy/1382736850
-红楼梦87经典版,https://www.goodiptv.club/yy/1382745084
+新世界•孙红雷,https://live.metshop.top/yy/1382736850
+红楼梦87经典版,https://live.metshop.top/yy/1382745084
 纪晓岚,https://live.metshop.top/huya/11342396
 庆馀年,https://live.metshop.top/huya/11352960
-欢乐颂,https://www.goodiptv.club/yy/1382735624
-白夜追凶,https://www.goodiptv.club/yy/1354932359
+欢乐颂,https://live.metshop.top/yy/1382735624
+白夜追凶,https://live.metshop.top/yy/1354932359
 雍正王朝,https://live.metshop.top/huya/11342439
 士兵突击,https://live.metshop.top/huya/11342430
 爱情公寓,https://live.metshop.top/huya/11336726
 家有儿女,https://live.metshop.top/huya/11352872
 武林外传,https://live.metshop.top/huya/21059598
 情满四合院,https://live.metshop.top/huya/11342426
-天  道,https://www.goodiptv.club/yy/1382735574
-血色浪漫,https://www.goodiptv.club/yy/1354926676
+天  道,https://live.metshop.top/yy/1382735574
+血色浪漫,https://live.metshop.top/yy/1354926676
 鬼吹灯,https://epg.pw/stream/88fd55cb4bd809a7f5e29ba31a1cad7396a5f1ea128a8ce6458d7be306d34b53.ctv
+鬼吹灯系列123,https://live.metshop.top/douyu/11637508
 封神榜,http://cfss.cc/cdn/hy/23749096.flv
 西游记•张卫健版 I,http://cfss.cc/cdn/hy/23735126.flv
 西游记•张卫健版 II,http://cfss.cc/cdn/hy/23728660.flv
@@ -275,13 +276,14 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 法证先锋,http://cfss.cc/cdn/hy/23863804.flv
 陀枪师姐,http://cfss.cc/cdn/hy/23860039.flv
 笑傲江湖•吕颂贤,http://cfss.cc/cdn/hy/23865142.flv
-笑傲江湖•许晴,https://www.goodiptv.club/yy/1354282410
+笑傲江湖•吕颂贤,https://live.metshop.top/yy/1354930909
+笑傲江湖•许晴,https://live.metshop.top/yy/1354282410
 洗冤录,http://cfss.cc/cdn/hy/23903130.flv
-我和僵屍有個約會•尹天照 万绮雯,https://epg.pw/stream/f01b1c9773fe819d5e3231107e9570f709e6b39d43198405d1923553a449eda1.ctv
-83射雕英雄傳,https://epg.pw/stream/2a0cf598fbf1be3b7cb3fda74d7bab67c3fcd6f2048d44596455233c84814258.ctv
+我和僵屍有個約會•尹天照 万绮雯,https://live.metshop.top/yy/1354143966
+83射雕英雄傳,https://live.metshop.top/yy/1354210357
 射雕之九阴真经•姜大卫 张智霖,https://epg.pw/stream/2245ffcbcc59ce19ec9d11555d4c748f4c7ca9d8566f22d58531fd7413431d01.ctv
 倚天屠龙记•吴启华,http://cfss.cc/cdn/hy/23734246.flv
-倚天屠龍記•苏有朋,https://www.goodiptv.club/yy/1449856066
+倚天屠龍記•苏有朋,https://live.metshop.top/yy/1449856066
 神雕侠侣•古天乐,http://cfss.cc/cdn/hy/23865171.flv
 鉴证实录,http://cfss.cc/cdn/hy/23903183.flv
 创世纪,http://cfss.cc/cdn/hy/23749083.flv
@@ -292,16 +294,17 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 扫黄先锋,http://cfss.cc/cdn/hy/23903196.flv
 笑看风云,http://cfss.cc/cdn/hy/23865058.flv
 大时代,http://cfss.cc/cdn/hy/23865161.flv
-大明王朝1566•豆瓣最高分剧集,https://epg.pw/stream/98ca16bf22559c62329ee6ff1238ed3c1934fd136582e9ef7420f445a99ebbcb.ctv
-天下第一•叶璇 黄圣依,https://epg.pw/stream/1916117492dc9018156a54d147b9fbd49d5b26de13e4ddd4178a3c0998b975dd.ctv
-新白娘子傳奇•赵雅芝,https://epg.pw/stream/0ca8b8b7590bd8d94754bc9bd197bb0076aa3a2efde8935abbd6dba20fa010ba.ctv
+大明王朝1566•豆瓣最高分剧集,https://live.metshop.top/yy/1382736879
+天下第一•叶璇 黄圣依,https://live.metshop.top/yy/1382736838
+新白娘子傳奇•赵雅芝,https://live.metshop.top/yy/1354490667
+新白娘子傳奇•赵雅芝,https://live.metshop.top/yy/1354930969
 斗罗大陆•唐家三少,http://cfss.cc/cdn/hy/11352906.flv
 火影忍者,https://live.metshop.top/yy/1355336008
-灌篮高手,https://www.goodiptv.club/yy/1382735626
+灌篮高手,https://live.metshop.top/yy/1382735626
 外星+人2[韩],https://v.cdnlz12.com/20240215/11573_4cb789fb/2000k/hls/mixed.m3u8
 来自星星的你[韩],https://live.metshop.top/yy/1354930976
-请回答1988[韩],https://www.goodiptv.club/yy/1354932362
-三大队 ,https://v.cdnlz2.com/20240201/28578_1ad90f25/2000k/hls/mixed.m3u8
+请回答1988[韩],https://live.metshop.top/yy/1354932362
+憨豆先生 ,https://live.metshop.top/yy/1354930189
 yy电影1,http://11.xmyxc.cn/api/php/yy.php?id=1382749892
 yy电影2,http://11.xmyxc.cn/api/php/yy.php?id=1382736803
 yy电影-张国荣,http://43.138.170.29:35455/yy/1354930961
@@ -382,19 +385,21 @@ YY电影-欧美科幻,http://11.xmyxc.cn/api/php/yy.php?id=37988782
 电影_死神来了,https://live.metshop.top/huya/11352903
 电影_怪兽系列,https://live.metshop.top/huya/21059554
 搞笑_陈翔六点半,https://live.metshop.top/huya/11274154
-王子和史蒂文,https://epg.pw/stream/44338e882edd8a51e90e4d6560f8c9ee09bbe49cefe6e97a48995dba468bf0cb.ctv
+王子和史蒂文,https://live.metshop.top/douyu/9583975
 解说_恐怖电影解说,https://live.metshop.top/huya/16741179
-解说_代娛說美劇,https://epg.pw/stream/43a5581a656529ea7fb9456e2842ad5c9b454e1ded6cb5bc5ccebfc66fda1fa4.ctv
-科幻大片,https://epg.pw/stream/6671766ab3e8cae79a73a18f25cd5d145e99786bb8c52b406f7fdc9ac7f3cf89.ctv
-变形金刚系列,https://epg.pw/stream/83fde3b0412ad7c75b334a87e0e2dd72613a32eaef6256c6e7073db115dd1ec6.ctv
-变种人系列,https://epg.pw/stream/f41827a1237e7180f5397cd04a3521f6bffe93737f13bd0f27dadeaa4f900746.ctv
-敢死队系列,https://epg.pw/stream/bd12ccfbfc776bddd838cfd69469441ee24686142de4824e8e9dd96c1ca9b869.ctv
-古惑仔系列,https://www.goodiptv.club/yy/1354507447
+解说_代娛說美劇,https://live.metshop.top/douyu/9123570
+变形金刚系列,https://live.metshop.top/yy/1382736803
+敢死队系列,https://live.metshop.top/yy/1382735573
+古惑仔系列,https://live.metshop.top/yy/1354507447
 罗翔 法外狂徒张三,https://epg.pw/stream/579bda6ddd0173d963834b88fb895b778fc45cf390b531fbc05c708035263c26.ctv
+万合天宜,https://live.metshop.top/douyu/9220456
+文西与阿漆,https://live.metshop.top/douyu/8737695
 治愈•放松,https://epg.pw/stream/0b1ea83347f864361362275aa13f7d292b5defaf43307ab0cbb8339694ff73ed.ctv
 新歌速递,https://tv.iill.top/huya/19439762
 
 斗鱼点播,#genre#
+周杰伦点歌台✔原,https://live.metshop.top/douyu/7537296
+不迷路点歌台✔原,http://mmitv.top/test/douyu.php?id=3186217
 吃西瓜籽✔原,http://159.75.85.63:35455/douyu/315457
 冰冰经典✔原,http://159.75.85.63:35455/douyu/74374
 星爷影院✔原,http://159.75.85.63:35455/douyu/508118
@@ -428,7 +433,8 @@ YY电影-欧美科幻,http://11.xmyxc.cn/api/php/yy.php?id=37988782
 欧美大片✔原,http://159.75.85.63:35455/douyu/2793084
 贝爷max✔原,http://159.75.85.63:35455/douyu/4332
 贝爷影厅✔原,http://159.75.85.63:35455/douyu/252802
-不迷路点歌台✔原,http://mmitv.top/test/douyu.php?id=3186217
+漫威君✔原,https://live.metshop.top/douyu/1713615
+
 
 舞曲MTV,#genre#
 「中」林忆莲-存在,http://em.21dtv.com/songs/60013615.mkv
