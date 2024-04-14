@@ -87,6 +87,7 @@ CCTV兵器科技,http://gzly.softether.net:6005/udp/239.252.219.98:5140
 tbvs频道,http://mywlkj.ddns.net:754/tv/tw3.php?id=3
 八大戏剧,http://mywlkj.ddns.net:754/tv/tw3.php?id=4
 三立戏剧,http://mywlkj.ddns.net:754/tv/tw3.php?id=6
+纬来精彩,http://mywlkj.ddns.net:754/tv/tw3.php?id=9
 AMC电影,http://mywlkj.ddns.net:754/tv/tw3.php?id=7
 动物星球,http://mywlkj.ddns.net:754/tv/tw3.php?id=15
 半岛新闻「英语」,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
@@ -142,7 +143,6 @@ NBA TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
 Red Bull TV,https://epg.pw/stream/f17178961b92fb483324e38af210410b1a1817905d74910f877ce1c43753a097.m3u8
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-纬来精彩,http://mywlkj.ddns.net:754/tv/tw3.php?id=9
 武术世界,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
 武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 NewTv超级体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
