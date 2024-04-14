@@ -586,6 +586,8 @@ https://v.cdnlz2.com/20240201/28578_1ad90f25/2000k/hls/mixed.m3u8
 http://11.xmyxc.cn/api/php/yy.php?id=1382749892
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",yy电影2
 http://11.xmyxc.cn/api/php/yy.php?id=1382736803
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",yy电影-张国荣
+http://43.138.170.29:35455/yy/1354930961
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",yy电影-李连杰
 http://11.xmyxc.cn/api/php/yy.php?id=1459869766
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",YY电影-成龙
