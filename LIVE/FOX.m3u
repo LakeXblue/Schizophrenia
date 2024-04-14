@@ -164,6 +164,22 @@ https://iptv.hiper25.com/TVB/video.m3u8
 https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="港澳.外语",澳视澳门
 https://iptv.hiper25.com/TDM/video.m3u8
+#EXTINF:-1 tvg-id="東森電影HD" tvg-name="東森電影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC3.png" group-title="港澳.外语",東森電影HD
+http://171.108.239.92:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="東森洋片HD" tvg-name="東森洋片" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC4.png" group-title="港澳.外语",東森洋片HD
+http://171.108.239.92:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/typd.png" group-title="港澳.外语",天映频道
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/48
+#EXTINF:-1 tvg-id="tbvsnews" tvg-name="tbvsnews" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="港澳.外语",TVBS NEWS
+http://mywlkj.ddns.net:754/tv/tw3.php?id=3
+#EXTINF:-1 tvg-id="八大戏剧" tvg-name="八大戏剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV4.png" group-title="港澳.外语",八大戏剧
+http://mywlkj.ddns.net:754/tv/tw3.php?id=4
+#EXTINF:-1 tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET6.png" group-title="港澳.外语",三立戏剧
+http://mywlkj.ddns.net:754/tv/tw3.php?id=6
+#EXTINF:-1 tvg-id="AMC电影" tvg-name="AMC电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="港澳.外语",AMC电影
+http://mywlkj.ddns.net:754/tv/tw3.php?id=7
+#EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/animalplanet.png" group-title="港澳.外语",动物星球
+http://mywlkj.ddns.net:754/tv/tw3.php?id=15
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="港澳.外语",半岛新闻「英语」
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 #EXTINF:-1 tvg-name="aljazeera" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="港澳.外语",半岛新闻「英语」
@@ -215,7 +231,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
 #EXTINF:-1 tvg-name="Euronews" tvg-logo="https://live.fanmingming.com/tv/euronews.png" group-title="港澳.外语",Euronews Live
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/03/20170103081452608866_48.jpg" group-title="港澳.外语",AXS TV Now
-https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+https://epg.pw/stream/81ec9764658d2129309abc59a41c69de1b6b50e66ca984d1c04e8bed7f5b448e.m3u8
 #EXTINF:-1 tvg-name="ABCAustralia" tvg-logo="https://live.fanmingming.com/tv/abcaus.png" group-title="港澳.外语",ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-name="MovieSphere" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/02/05/20160205110651673288_12.png" group-title="港澳.外语",MovieSphere
@@ -245,7 +261,7 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-name="Taiwan Plus" tvg-logo="https://live.fanmingming.com/tv/TaiwanPlus.png" group-title="港澳.外语",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="http://epg.hackserver.net/logo/AXN.png" group-title="港澳.外语",AXN HD
-https://epg.pw/stream/d290befff40ea26516e35ccad44726d0923e8063f164c76ca294e4cb5f05a7a0.m3u8
+https://epg.pw/stream/f25e94d9355a7ce1bf7e7176d08fdd16f74f6465a33f352429d2cfd2daf4884f.ctv
 
 #EXTINF:-1 tvg-name="made in hollywood" tvg-id="" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png" group-title="港澳.外语",made in hollywood
 https://epg.pw/stream/9c60cfc4b5a062fc264fae9f3ec66eef1d6ffc0e88f3fbde003ede2c94ad186b.m3u8
@@ -261,7 +277,7 @@ https://epg.pw/stream/c00127d805e82b76c7aadbc58c94e6c08d7e35f9fd07df19c055971733
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕全民健身
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 vg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="体育.竞技",魅力足球
-http://php.jdshipin.com:8880/bst.php?id=mlyyhd/4000000
+http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=mlzq
 #EXTINF:-1 tvg-name="FIFA+" tvg-id="FIFA+" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/02/05/20160205110651673288_12.png" group-title="体育.竞技",FIFA+
 https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 #EXTINF:-1 tvg-name="nba tv" tvg-id="nba tv" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/31/large/20170331001240076889_34.png" group-title="体育.竞技",NBA TV
@@ -272,6 +288,8 @@ https://epg.pw/stream/f17178961b92fb483324e38af210410b1a1817905d74910f877ce1c437
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育.竞技",纬来体育
 https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来精彩" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育.竞技",纬来精彩
+http://mywlkj.ddns.net:754/tv/tw3.php?id=9
 #EXTINF:-1 tvg-id="wssj" tvg-name="武术世界" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/wssj.png" group-title="体育.竞技",武术世界
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
 #EXTINF:-1 tvg-id="newtv武搏世界" tvg-name="newtv武搏世界" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV14.png" group-title="体育.竞技",武搏世界
@@ -437,31 +455,31 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000050630/index.
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
 
-#百视ʰ（暂时失效）
+#百视ʰ
 #EXTINF:-1 tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",华语影院
-https://itv.lat/tv/live.php?&line=1&id=hyyy
+http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hyyy
 #EXTINF:-1 tvg-name="电竞天堂" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",电竞天堂
-https://itv.lat/tv/live.php?&line=1&id=djtt
+http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=djtt
 #EXTINF:-1 tvg-name="青春动漫" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",青春动漫
-https://itv.lat/tv/live.php?&line=1&id=qcdm
+http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=qcdm
 #EXTINF:-1 tvg-name="星光影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",星光影院
-https://itv.lat/tv/live.php?&line=1&id=xgyy
+http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=xgyy
 #EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",谍战剧场
-https://itv.lat/tv/live.php?&line=1&id=dzjc
+http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=dzjc
 #EXTINF:-1 tvg-name="全球大片" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",全球大片
-https://itv.lat/tv/live.php?&line=1&id=qqdp
+http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=qqdp
 #EXTINF:-1 tvg-name="热门剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",热门剧场
-https://itv.lat/tv/live.php?&line=1&id=rmjc
+http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=rmjc
 #EXTINF:-1 tvg-name="热门综艺" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",热门综艺
-https://itv.lat/tv/live.php?&line=1&id=rmzy
+http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=rmzy
 #EXTINF:-1 tvg-name="戏曲精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",戏曲精选
-https://itv.lat/tv/live.php?&line=1&id=xqjx
+http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=xqjx
 #EXTINF:-1 tvg-name="健康养生" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",健康养生
-https://itv.lat/tv/live.php?&line=1&id=jkys
+http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=jkys
 #EXTINF:-1 tvg-name="百变课堂" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",百变课堂
-https://itv.lat/tv/live.php?&line=1&id=bbkt
+http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=bbkt
 #EXTINF:-1 tvg-name="看天下精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",看天下精选
-https://itv.lat/tv/live.php?&line=1&id=ktxjx
+http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=ktxjx
 
 #电影.剧集轮播
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",伪装者•胡歌
