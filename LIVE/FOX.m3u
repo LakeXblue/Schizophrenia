@@ -218,7 +218,7 @@ https://epg.pw/stream/7f22b45978822677fd411db2846df01c0353c4804d7425015b8aed4b49
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 tvg-id="BBCEarth" tvg-name="BBCEarth" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="港澳.外语",BBC Earth
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
-#EXTINF:-1 tvg-id="nasa1" tvg-name="https://epg.pw/media/images/channel/2022/05/06/large/20220506164631208687_15.png" group-title="港澳.外语",NASA1
+#EXTINF:-1 tvg-id="nasa1" tvg-name="NASA1" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164631208687_15.png" group-title="港澳.外语",NASA1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://live.fanmingming.com/radio/abc.png" group-title="港澳.外语",ABC News Live
 https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
