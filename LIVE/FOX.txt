@@ -105,9 +105,12 @@ RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 「韩」CJ OnStyle,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 「泰」ASTV news 1,http://news1.live14.com/stream/news1_hi.m3u8
 「俄」IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+「以色列」24news,https://epg.pw/stream/541bfabedb421172ee1a63e7f8a44263bd353686093194fbd6a6241e50fee1cb.m3u8
+「意大利」Rai Movie,https://epg.pw/stream/36906e9ab49394a6baa2620b391903b039245dfcf8ad288d2ca35c3fd4ee7280.ctv
+「希腊」Skai ,https://epg.pw/stream/b6d02eaa17dc285e8687347bc0422e94677359fe4fd2eee468d254593248da96.m3u8
 CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-AMC,http://170.254.18.106/AMC/index.m3u8
-HBO,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
+AMC,https://epg.pw/stream/96401ee8a69617914e9bc5f99bb21c562f31a111d31df471b86f65ff5cd6790a.ctv
+HBO,https://epg.pw/stream/52df12597bd13caad939ce643758583b9bfe62fe8ecfa4e4023b51d405d7894e.ctv
 AMC+,https://epg.pw/stream/7f22b45978822677fd411db2846df01c0353c4804d7425015b8aed4b49abf3a9.m3u8
 BBC,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 BBC Earth,https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
@@ -131,10 +134,13 @@ Star,http://170.254.18.106/STAR/index.m3u8
 BET,https://epg.pw/stream/5bd6e67affdf175e5d655df198aa0d426e387a9db0934fc9587772147bd5ad87.ctv#https://epg.pw/stream/647911c6b800ccb880f040a58953f64def41770113925959b84db70686a64547.ctv#https://epg.pw/stream/5bd6e67affdf175e5d655df198aa0d426e387a9db0934fc9587772147bd5ad87.ctv
 TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-AXN HD,https://epg.pw/stream/f25e94d9355a7ce1bf7e7176d08fdd16f74f6465a33f352429d2cfd2daf4884f.ctv
-AXN HD,https://epg.pw/stream/bef5bf2c15dc53ee57d30d093be398f9566ff3d2cfa005e70532760118ad70a0.ctv
+AXN HD,https://epg.pw/stream/fb5e2d50bd144f00d18ff3a6c2eeb78c2f35116f13401566733f4b20930817f1.ctv
+AXN HD,https://epg.pw/stream/97feb760ea02e8ffddc8ea76ac740abc92ccbebd478bbb5aef84c32e362cf905.ctv
+AXN HD,https://epg.pw/stream/431d398852d953eb4c5feba62039f3c706f2d823074545bce575ce31a5fff6f7.ctv
+made in hollywood,https://epg.pw/stream/591e0f2e83132e57ed5dfd03f6502828ae2dbdf70e450e1f165c22c40503dae8.m3u8
 made in hollywood,https://epg.pw/stream/9c60cfc4b5a062fc264fae9f3ec66eef1d6ffc0e88f3fbde003ede2c94ad186b.m3u8
-Magic TV,https://epg.pw/stream/c3d5d3c9962973f090b0b8ff4a7b377aab2904fe04bdb9a216d80db30f604444.m3u8
+「罗马尼亚」Magic TV,https://epg.pw/stream/c3d5d3c9962973f090b0b8ff4a7b377aab2904fe04bdb9a216d80db30f604444.m3u8
+Magic TV2,https://epg.pw/stream/9047d8261c167e35fbcb0aea5bd93c443572fbacc09e1c2c62111959ad37c59e.m3u8
 「日」Animax动漫,https://epg.pw/stream/c00127d805e82b76c7aadbc58c94e6c08d7e35f9fd07df19c05597173345fdaf.m3u8
 
 体育.竞技,#genre#
