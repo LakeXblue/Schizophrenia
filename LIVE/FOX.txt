@@ -185,7 +185,7 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-乐游,http://wyhawk.x3322.net:8888/udp/238.1.78.151:7080
+乐游,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43040/index.m3u8
 纪实人文,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 佛卫慈悲,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 求索动物,http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=no
