@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="CCTV",CCTV-8K 超高清 HLG
 https://tv.cry33.com/ys4k.php?id=8k#https://tv.cry33.com/ys4k.php?id=8k25
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="CCTV",CCTV-4K 超高清 HLG
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="CCTV",CCTV16 4K HLG
 https://tv.cry33.com/ys4k.php?id=16-4k
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1 综合
@@ -70,8 +70,8 @@ http://gzly.softether.net:6005/udp/239.252.219.98:5140
 
 
 #CCTV备用
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="CCTV备用",CCTV-4K超高清
-http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="CCTV备用",CCTV-4K 超高清 HLG
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV 1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV备用",CCTV-1综合
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
 #EXTINF:-1 tvg-name="CCTV 2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV备用",CCTV-2财经
@@ -568,310 +568,310 @@ http://php.jdshipin.com:8880/bst.php?id=bbkt8m/8000000
 #EXTINF:-1 tvg-name="看天下精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",看天下精选
 http://php.jdshipin.com:8880/bst.php?id=ktxjx8m/8000000
 
-#电影.剧集轮播
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",伪装者•胡歌
+#影.剧轮播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",伪装者•胡歌
 https://live.metshop.top/yy/1354936244
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",仙剑奇侠传•刘亦菲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",仙剑奇侠传•刘亦菲
 https://live.metshop.top/yy/1382749903
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",老三国
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",老三国
 https://live.metshop.top/yy/1354936241
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",新三国
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",新三国
 https://live.metshop.top/yy/26744898
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",新水浒
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",新水浒
 https://live.metshop.top/huya/11342384
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",新世界•孙红雷
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",新世界•孙红雷
 https://live.metshop.top/yy/1382736850
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",红楼梦87经典版
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",红楼梦87经典版
 https://live.metshop.top/yy/1382745084
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",纪晓岚
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",纪晓岚
 https://live.metshop.top/huya/11342396
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",庆馀年
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",庆馀年
 https://live.metshop.top/huya/11352960
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",欢乐颂
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",欢乐颂
 https://live.metshop.top/yy/1382735624
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",白夜追凶
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",白夜追凶
 https://live.metshop.top/yy/1354932359
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",雍正王朝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",雍正王朝
 https://live.metshop.top/huya/11342439
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",士兵突击
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",士兵突击
 https://live.metshop.top/huya/11342430
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",爱情公寓
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",爱情公寓
 https://live.metshop.top/huya/11336726
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",家有儿女
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",家有儿女
 https://live.metshop.top/huya/11352872
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",武林外传
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",武林外传
 https://live.metshop.top/huya/21059598
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",情满四合院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",情满四合院
 https://live.metshop.top/huya/11342426
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",天  道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",天  道
 https://live.metshop.top/yy/1382735574
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",血色浪漫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",血色浪漫
 https://live.metshop.top/yy/1354926676
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",鬼吹灯
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鬼吹灯
 https://epg.pw/stream/88fd55cb4bd809a7f5e29ba31a1cad7396a5f1ea128a8ce6458d7be306d34b53.ctv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",封神榜
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",封神榜
 http://cfss.cc/cdn/hy/23749096.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",西游记•张卫健版 I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",西游记•张卫健版 I
 http://cfss.cc/cdn/hy/23735126.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",西游记•张卫健版 II
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",西游记•张卫健版 II
 http://cfss.cc/cdn/hy/23728660.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",楚汉骄雄
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",楚汉骄雄
 http://cfss.cc/cdn/hy/23740156.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",鹿鼎记•陈小春
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鹿鼎记•陈小春
 http://cfss.cc/cdn/hy/23865080.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",鹿鼎记•梁朝伟
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鹿鼎记•梁朝伟
 http://cfss.cc/cdn/hy/23734183.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",天龙八部•1997
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",天龙八部•1997
 http://cfss.cc/cdn/hy/23903123.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",刑事侦缉档案
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",刑事侦缉档案
 http://cfss.cc/cdn/hy/23734169.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",寻秦记•古天乐 郭羡妮
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",寻秦记•古天乐 郭羡妮
 http://cfss.cc/cdn/hy/23864973.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",法证先锋
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",法证先锋
 http://cfss.cc/cdn/hy/23863804.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",陀枪师姐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",陀枪师姐
 http://cfss.cc/cdn/hy/23860039.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",笑傲江湖•吕颂贤
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",笑傲江湖•吕颂贤
 https://live.metshop.top/yy/1354930909
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",笑傲江湖•许晴
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",笑傲江湖•许晴
 https://live.metshop.top/yy/1354282410
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",洗冤录
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",洗冤录
 http://cfss.cc/cdn/hy/23903130.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",我和僵屍有個約會•尹天照 万绮雯
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",我和僵屍有個約會•尹天照 万绮雯
 https://live.metshop.top/yy/1354143966
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",83射雕英雄傳
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",83射雕英雄傳
 https://live.metshop.top/yy/1354210357
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",射雕之九阴真经•姜大卫 张智霖
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",射雕之九阴真经•姜大卫 张智霖
 https://epg.pw/stream/2245ffcbcc59ce19ec9d11555d4c748f4c7ca9d8566f22d58531fd7413431d01.ctv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",倚天屠龙记•吴启华
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",倚天屠龙记•吴启华
 http://cfss.cc/cdn/hy/23734246.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",倚天屠龍記•苏有朋
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",倚天屠龍記•苏有朋
 https://live.metshop.top/yy/1449856066
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",神雕侠侣•古天乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",神雕侠侣•古天乐
 http://cfss.cc/cdn/hy/23865171.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",鉴证实录
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鉴证实录
 http://cfss.cc/cdn/hy/23903183.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",创世纪
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",创世纪
 http://cfss.cc/cdn/hy/23749083.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",使徒行者
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",使徒行者
 http://cfss.cc/cdn/hy/23734256.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",金枝欲孽
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",金枝欲孽
 http://cfss.cc/cdn/hy/23865036.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",大唐双龙传
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",大唐双龙传
 http://cfss.cc/cdn/hy/23728674.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",妙手仁心
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",妙手仁心
 http://cfss.cc/cdn/hy/23829543.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",扫黄先锋
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",扫黄先锋
 http://cfss.cc/cdn/hy/23903196.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",笑看风云
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",笑看风云
 http://cfss.cc/cdn/hy/23865058.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",大时代
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",大时代
 http://cfss.cc/cdn/hy/23865161.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",大明王朝1566•豆瓣最高分剧集
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",大明王朝1566•豆瓣最高分剧集
 https://live.metshop.top/yy/1382736879
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",天下第一•叶璇 黄圣依
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",天下第一•叶璇 黄圣依
 https://live.metshop.top/yy/1382736838
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",新白娘子傳奇•赵雅芝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",新白娘子傳奇•赵雅芝
 https://live.metshop.top/yy/1354490667
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",斗罗大陆•唐家三少
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",斗罗大陆•唐家三少
 http://cfss.cc/cdn/hy/11352906.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",火影忍者
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",火影忍者
 https://live.metshop.top/yy/1355336008
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",灌篮高手
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",灌篮高手
 https://live.metshop.top/yy/1382735626
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",外星+人2[韩]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",外星+人2[韩]
 https://v.cdnlz12.com/20240215/11573_4cb789fb/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",来自星星的你[韩]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",来自星星的你[韩]
 https://live.metshop.top/yy/1354930976
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",请回答1988[韩]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",请回答1988[韩]
 https://live.metshop.top/yy/1354932362
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",憨豆先生 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",憨豆先生 
 https://live.metshop.top/yy/1354930189
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",yy电影1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",yy电影1
 http://11.xmyxc.cn/api/php/yy.php?id=1382749892
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",yy电影2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",yy电影2
 http://11.xmyxc.cn/api/php/yy.php?id=1382736803
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",yy电影-张国荣
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",yy电影-张国荣
 http://43.138.170.29:35455/yy/1354930961
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",yy电影-李连杰
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",yy电影-李连杰
 http://11.xmyxc.cn/api/php/yy.php?id=1459869766
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",YY电影-成龙
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",YY电影-成龙
 http://11.xmyxc.cn/api/php/yy.php?id=1354888751
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",YY电影-欧美电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",YY电影-欧美电影
 http://11.xmyxc.cn/api/php/yy.php?id=24923327
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",YY电影-欧美科幻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",YY电影-欧美科幻
 http://11.xmyxc.cn/api/php/yy.php?id=37988782
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",周星驰
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",周星驰
 http://lxajh.top/tv/douyu.php?id=122402
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",周星驰粤语
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",周星驰粤语
 http://lxajh.top/tv/douyu.php?id=6566671
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_星爷
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_星爷
 https://live.metshop.top/huya/11342412
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",成龙
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",成龙
 http://lxajh.top/tv/douyu.php?id=3379942
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_成龙
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_成龙
 https://live.metshop.top/huya/11342386
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_英叔
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_英叔
 https://live.metshop.top/huya/11342421
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_发哥
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_发哥
 https://live.metshop.top/huya/11342387
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_王晶
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_王晶
 https://live.metshop.top/huya/11602058
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_沈腾
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_沈腾
 https://live.metshop.top/huya/11601968
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_黄渤
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_黄渤
 https://live.metshop.top/huya/11352876
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_强森
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_强森
 https://live.metshop.top/huya/21059581
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_漫威
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_漫威
 https://live.metshop.top/huya/11602034
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_宇宙
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_宇宙
 https://live.metshop.top/huya/11342428
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_怪兽
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_怪兽
 https://live.metshop.top/huya/21059577
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_武侠
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_武侠
 https://live.metshop.top/huya/11342427
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_警匪
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_警匪
 https://live.metshop.top/huya/11352886
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_罪犯
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_罪犯
 https://live.metshop.top/huya/11352962
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_枪战
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_枪战
 https://live.metshop.top/huya/21059579
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_海盗
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_海盗
 https://live.metshop.top/huya/21059595
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_赛车
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_赛车
 https://live.metshop.top/huya/11279247
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_推荐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_推荐
 https://live.metshop.top/huya/11602041
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_救援
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_救援
 https://live.metshop.top/huya/21059594
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_热血
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_热血
 https://live.metshop.top/huya/11352934
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_盗墓
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_盗墓
 https://live.metshop.top/huya/21059552
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_贺岁
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_贺岁
 https://live.metshop.top/huya/11601971
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_玄幻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_玄幻
 https://live.metshop.top/huya/11342414
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_谍战
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_谍战
 https://live.metshop.top/huya/21059585
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_战争
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_战争
 https://live.metshop.top/huya/21059592
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_喜剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_喜剧
 https://live.metshop.top/huya/11352877
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_港片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_港片
 https://live.metshop.top/huya/11602043
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_国产
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_国产
 https://live.metshop.top/huya/11352973
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_李连杰
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_李连杰
 https://live.metshop.top/huya/11342390
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_甄子丹
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_甄子丹
 https://epg.pw/stream/b3c5fb71d628359db3178eafbbacd4fa5379703565645966308ad63c0cefef6f.ctv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_洪金宝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_洪金宝
 https://live.metshop.top/huya/11279251
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_梁家辉
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_梁家辉
 https://live.metshop.top/huya/11342429
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_许冠英
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_许冠英
 https://live.metshop.top/huya/11601972
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_刘德华
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_刘德华
 https://live.metshop.top/huya/11342424
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_斯坦森
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_斯坦森
 https://live.metshop.top/huya/21059588
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_小鬼头
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_小鬼头
 https://live.metshop.top/huya/11352963
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_八点档
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_八点档
 https://live.metshop.top/huya/880261
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_蜘蛛侠
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_蜘蛛侠
 https://live.metshop.top/huya/21059599
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_贺岁片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_贺岁片
 https://live.metshop.top/huya/11601986
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_功夫片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_功夫片
 https://live.metshop.top/huya/11352941
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_黑帮片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_黑帮片
 https://live.metshop.top/huya/11336719
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_丧尸片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_丧尸片
 https://live.metshop.top/huya/21059578
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_灾难片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_灾难片
 https://live.metshop.top/huya/11602075
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_谍战片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_谍战片
 https://live.metshop.top/huya/21059587
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_战争片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_战争片
 https://live.metshop.top/huya/21059574
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_犯罪片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_犯罪片
 https://live.metshop.top/huya/11352974
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_古装片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_古装片
 https://live.metshop.top/huya/11336590
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_高分动作
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_高分动作
 https://live.metshop.top/huya/11352884
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_动作电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_动作电影
 https://live.metshop.top/huya/11602077
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_搞笑喜剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_搞笑喜剧
 https://live.metshop.top/huya/11342423
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_喜剧专场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_喜剧专场
 https://live.metshop.top/huya/11602044
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_欢笑影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_欢笑影院
 https://live.metshop.top/huya/11352894
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_不挤影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_不挤影院
 https://live.metshop.top/huya/11352897
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_国产悬疑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_国产悬疑
 https://live.metshop.top/huya/11342395
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_快意江湖
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_快意江湖
 https://live.metshop.top/huya/11342435
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_黑帮斗争
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_黑帮斗争
 https://live.metshop.top/huya/11342419
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_古墓系列
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_古墓系列
 https://live.metshop.top/huya/11352913
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_嫣然影厅
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_嫣然影厅
 https://live.metshop.top/huya/11601977
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_女神系列
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_女神系列
 https://live.metshop.top/huya/11336571
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_经典女神
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_经典女神
 https://live.metshop.top/huya/11352909
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_许氏三杰
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_许氏三杰
 https://live.metshop.top/huya/11602033
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_经典港片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_经典港片
 https://live.metshop.top/huya/11352965
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_镖行天下
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_镖行天下
 https://live.metshop.top/huya/11352969
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_高能反转
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_高能反转
 https://live.metshop.top/huya/11352887
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_喜乐影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_喜乐影院
 https://live.metshop.top/huya/21059580
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_蘑菇影厅
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_蘑菇影厅
 https://live.metshop.top/huya/11601981
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_搞笑恐怖
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_搞笑恐怖
 https://live.metshop.top/huya/11601960
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_死神来了
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_死神来了
 https://live.metshop.top/huya/11352903
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",电影_怪兽系列
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_怪兽系列
 https://live.metshop.top/huya/21059554
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",搞笑_陈翔六点半
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",搞笑_陈翔六点半
 https://live.metshop.top/huya/11274154
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",王子和史蒂文
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",王子和史蒂文
 https://live.metshop.top/douyu/9583975
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",解说_恐怖电影解说
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",解说_恐怖电影解说
 https://live.metshop.top/huya/16741179
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",解说_代娛說美劇
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",解说_代娛說美劇
 https://live.metshop.top/douyu/9123570
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",科幻大片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",科幻大片
 https://live.metshop.top/yy/1382747628
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",变形金刚系列
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",变形金刚系列
 https://live.metshop.top/yy/1382736803
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",敢死队系列
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",敢死队系列
 https://live.metshop.top/yy/1382735573
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",古惑仔系列
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",古惑仔系列
 https://live.metshop.top/yy/1354507447
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",万合天宜
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",万合天宜
 https://live.metshop.top/douyu/9220456
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",文西与阿漆
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",文西与阿漆
 https://live.metshop.top/douyu/8737695
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",罗翔 法外狂徒张三
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",罗翔 法外狂徒张三
 https://epg.pw/stream/579bda6ddd0173d963834b88fb895b778fc45cf390b531fbc05c708035263c26.ctv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",治愈•放松
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",治愈•放松
 https://epg.pw/stream/0b1ea83347f864361362275aa13f7d292b5defaf43307ab0cbb8339694ff73ed.ctv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影.剧集轮播",新歌速递
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",新歌速递
 https://tv.iill.top/huya/19439762
 
 #斗鱼点播
