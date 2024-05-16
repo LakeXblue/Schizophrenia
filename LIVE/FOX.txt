@@ -480,10 +480,12 @@ YY电影-欧美科幻,http://11.xmyxc.cn/api/php/yy.php?id=37988782
 罗翔 法外狂徒张三,https://epg.pw/stream/579bda6ddd0173d963834b88fb895b778fc45cf390b531fbc05c708035263c26.ctv
 万合天宜,https://live.metshop.top/douyu/9220456
 文西与阿漆,https://live.metshop.top/douyu/8737695
-治愈•放松,https://epg.pw/stream/0b1ea83347f864361362275aa13f7d292b5defaf43307ab0cbb8339694ff73ed.ctv
 新歌速递,https://tv.iill.top/huya/19439762
 
 斗鱼点播,#genre#
+音乐石榴✔原,http://live.iill.top/huya.php?id=17091681
+音乐速递✔原,http://live.iill.top/huya.php?id=19439762
+治愈放松✔原,http://live.iill.top/huya.php?id=21241811
 周杰伦点歌台✔原,https://live.metshop.top/douyu/7537296
 不迷路点歌台✔原,http://mmitv.top/test/douyu.php?id=3186217
 吃西瓜籽✔原,http://159.75.85.63:35455/douyu/315457

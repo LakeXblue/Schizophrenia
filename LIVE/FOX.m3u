@@ -861,6 +861,12 @@ https://epg.pw/stream/0b1ea83347f864361362275aa13f7d292b5defaf43307ab0cbb8339694
 https://tv.iill.top/huya/19439762
 
 #斗鱼点播
+#EXTINF:-1 group-title="斗鱼点播",音乐石榴✔原
+http://live.iill.top/huya.php?id=17091681
+#EXTINF:-1 group-title="斗鱼点播",音乐速递✔原
+http://live.iill.top/huya.php?id=19439762
+#EXTINF:-1 group-title="斗鱼点播",治愈放松✔原
+http://live.iill.top/huya.php?id=21241811
 #EXTINF:-1 group-title="斗鱼点播",周杰伦点歌台✔原
 https://live.metshop.top/douyu/7537296
 #EXTINF:-1 group-title="斗鱼点播",不迷路点歌台✔原
