@@ -44,29 +44,29 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV",CCTV-17 农业农村
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="CCTV",CCTV怀旧剧场
-http://60.223.72.150:8003/rtp/226.0.2.224:9704
+http://222.241.144.214:8888/udp/239.76.254.53:9000
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="CCTV",CCTV世界地理
-http://101.28.48.182:4022/rtp/239.253.92.131:6113
+http://222.241.144.214:8888/udp/239.76.254.57:9000
 #EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="CCTV",CCTV文化精品
-http://gzly.softether.net:6005/udp/239.252.219.81:5140
+http://222.241.144.214:8888/udp/239.76.254.56:9000
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="CCTV",CCTV央视台球
-http://gzly.softether.net:6005/udp/239.252.219.80:5140
+http://222.241.144.214:8888/udp/239.76.254.58:9000
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="CCTV",CCTV高尔夫网球
-http://gzly.softether.net:6005/udp/239.252.219.95:5140
+http://222.241.144.214:8888/udp/239.76.254.62:9000
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="CCTV",CCTV风云剧场
-http://gzly.softether.net:6005/udp/239.252.219.89:5140
+http://222.241.144.214:8888/udp/239.76.254.50:9000
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="CCTV",CCTV第一剧场
-http://gzly.softether.net:6005/udp/239.252.219.86:5140
+http://222.241.144.214:8888/udp/239.76.254.49:9000
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="CCTV",CCTV风云足球
-http://gzly.softether.net:6005/udp/239.252.219.96:5140
+http://222.241.144.214:8888/udp/239.76.254.52:9000
 #EXTINF:-1 tvg-id="9" tvg-name="电视指南" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdszn.png" group-title="CCTV",CCTV电视指南
-http://gzly.softether.net:6005/udp/239.252.219.97:5140
+http://222.241.144.214:8888/udp/239.76.254.61:9000
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="CCTV",CCTV风云音乐
-http://gzly.softether.net:6005/udp/239.252.219.87:5140
+http://222.241.144.214:8888/udp/239.76.254.51:9000
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="CCTV",CCTV女性时尚
-http://gzly.softether.net:6005/udp/239.252.219.94:5140
+http://222.241.144.214:8888/udp/239.76.254.55:9000
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVbqkj.png" group-title="CCTV",CCTV兵器科技
-http://gzly.softether.net:6005/udp/239.252.219.98:5140
+http://222.241.144.214:8888/udp/239.76.254.59:9000
 
 
 #CCTV备用
