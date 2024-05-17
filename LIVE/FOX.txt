@@ -210,7 +210,7 @@ FashionTV 4k「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_he
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
 华数4K电影,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
-SiTV欢笑剧场4K,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000009455
+SiTV欢笑剧场4K,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 4K斗鱼影院,http://159.75.85.63:35455/douyu/9249162
 彼岸KARA,https://live.metshop.top/douyu/40471
@@ -221,7 +221,7 @@ CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 都市剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
-都市剧场,https://epg.pw/stream/aeed1fd62be98710bed4f273aefbc3b80f86975e4eb7d86210c93bac52819bc2.ctv
+都市剧场,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 精彩影视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
 新视觉,http://php.jdshipin.com:8880/bst.php?id=xsjhd/4000000
 北京卡酷少儿,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010081/1.m3u8
@@ -234,7 +234,7 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 黑莓动画,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-乐游,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43040/index.m3u8
+乐游,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 纪实人文,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 纪实人文,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000365/index.m3u8?fmmv6
 金鹰纪实,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000482/index.m3u8?IAS
@@ -243,6 +243,10 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 求索记录,http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
 求索科学,http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no
 求索生活,http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=no
+求索动物,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
+求索记录,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
+求索科学,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
+求索生活,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/index.m3u8
 HOT高清娱乐,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000013
 
 
@@ -393,6 +397,7 @@ IHOT爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400
 外星+人2[韩],https://v.cdnlz12.com/20240215/11573_4cb789fb/2000k/hls/mixed.m3u8
 来自星星的你[韩],https://live.metshop.top/yy/1354930976
 请回答1988[韩],https://live.metshop.top/yy/1354932362
+超异能族[韩],https://www.goodiptv.club/huya/21059586
 憨豆先生 ,https://live.metshop.top/yy/1354930189
 yy电影1,http://11.xmyxc.cn/api/php/yy.php?id=1382749892
 yy电影2,http://11.xmyxc.cn/api/php/yy.php?id=1382736803
@@ -432,6 +437,11 @@ YY电影-欧美科幻,http://11.xmyxc.cn/api/php/yy.php?id=37988782
 电影_喜剧,https://live.metshop.top/huya/11352877
 电影_港片,https://live.metshop.top/huya/11602043
 电影_国产,https://live.metshop.top/huya/11352973
+电影_五福星,https://live.metshop.top/huya/11282233
+电影_邱淑贞,https://live.metshop.top/huya/11352949
+电影_古天乐,https://live.metshop.top/huya/11602041
+电影_徐克,https://live.metshop.top/huya/11352909
+电影_冯小刚,https://live.metshop.top/huya/11352906
 电影_李连杰,https://live.metshop.top/huya/11342390
 电影_甄子丹,https://epg.pw/stream/b3c5fb71d628359db3178eafbbacd4fa5379703565645966308ad63c0cefef6f.ctv
 电影_洪金宝,https://live.metshop.top/huya/11279251
@@ -490,40 +500,36 @@ YY电影-欧美科幻,http://11.xmyxc.cn/api/php/yy.php?id=37988782
 音乐速递✔原,http://live.iill.top/huya.php?id=19439762
 治愈放松✔原,http://live.iill.top/huya.php?id=21241811
 周杰伦点歌台✔原,https://live.metshop.top/douyu/7537296
-不迷路点歌台✔原,http://mmitv.top/test/douyu.php?id=3186217
-吃西瓜籽✔原,http://159.75.85.63:35455/douyu/315457
-冰冰经典✔原,http://159.75.85.63:35455/douyu/74374
-星爷影院✔原,http://159.75.85.63:35455/douyu/508118
-凌儿影院✔原,http://159.75.85.63:35455/douyu/1377142
-麓山迷踪✔原,http://159.75.85.63:35455/douyu/4505431
-瑶瑶恐怖✔原,http://159.75.85.63:35455/douyu/2935323
-怡寶影院✔原,http://159.75.85.63:35455/douyu/434971
-小黛兮影✔原,http://159.75.85.63:35455/douyu/11553944
-萌小鬼片✔原,http://159.75.85.63:35455/douyu/3928
+吃米滴虫✔原,http://43.138.170.29:35455/douyu/315457
+冰冰经典✔原,http://43.138.170.29:35455/douyu/74374
+星爷影院✔原,http://43.138.170.29:35455/yy/1354658049
+瑶瑶恐怖✔原,http://43.138.170.29:35455/douyu/2935323
+怡寶影院✔原,http://43.138.170.29:35455/douyu/434971
+萌小鬼片✔原,http://43.138.170.29:35455/douyu/3928
 神乐剧场✔原,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 神乐剧院✔原,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-神乐影剧✔原,http://159.75.85.63:35455/douyu/122402
-可乐影院✔原,http://159.75.85.63:35455/douyu/20415
-小宇60帧✔原,http://159.75.85.63:35455/douyu/323876
-恐怖惊悚✔原,http://159.75.85.63:35455/douyu/96577
-電影劇場✔原,http://159.75.85.63:35455/douyu/7575350
-豆瓣高分✔原,http://159.75.85.63:35455/douyu/8770422
-花卷陪看✔原,http://159.75.85.63:35455/douyu/52787
-漫威剧情✔原,http://159.75.85.63:35455/douyu/6140589
-霍格沃茨✔原,http://159.75.85.63:35455/douyu/8814650
-鱼宝恐怖✔原,http://159.75.85.63:35455/douyu/1165374
-鬼片恐怖✔原,http://159.75.85.63:35455/douyu/2935323
-小u*鬼片✔原,http://159.75.85.63:35455/douyu/96577
-小u*鬼片✔原,http://mmitv.top/test/douyu.php?id=96577&u=4150734&cate
-吃木瓜虫✔原,http://159.75.85.63:35455/douyu/263824
-变种人片✔原,http://159.75.85.63:35455/douyu/9651304
-喜剧电影✔原,http://159.75.85.63:35455/douyu/9292492
-女神电影✔原,http://159.75.85.63:35455/douyu/747764
-华语经典✔原,http://159.75.85.63:35455/douyu/434971
-避风影院✔原,http://159.75.85.63:35455/douyu/9826611
-欧美大片✔原,http://159.75.85.63:35455/douyu/2793084
-贝爷max✔原,http://159.75.85.63:35455/douyu/4332
-贝爷影厅✔原,http://159.75.85.63:35455/douyu/252802
+小宇60帧✔原,http://maomao.kandiantv.cn/douyu1.php?id=323876
+恐怖惊悚✔原,http://maomao.kandiantv.cn/douyu1.php?id=96577
+電影劇場✔原,http://maomao.kandiantv.cn/douyu1.php?id=7575350
+豆瓣高分✔原,http://maomao.kandiantv.cn/douyu1.php?id=8770422
+漫威剧情✔原,http://maomao.kandiantv.cn/douyu1.php?id=6140589
+霍格沃茨✔原,http://maomao.kandiantv.cn/douyu1.php?id=8814650
+鱼宝恐怖✔原,http://maomao.kandiantv.cn/douyu1.php?id=1165374
+鬼片恐怖✔原,http://maomao.kandiantv.cn/douyu1.php?id=2935323
+小u*鬼片✔原,http://maomao.kandiantv.cn/douyu1.php?id=96577
+吃木瓜虫✔原,http://maomao.kandiantv.cn/douyu1.php?id=263824
+变种人片✔原,http://maomao.kandiantv.cn/douyu1.php?id=9651304
+喜剧电影✔原,http://maomao.kandiantv.cn/douyu1.php?id=9292492
+女神电影✔原,http://maomao.kandiantv.cn/douyu1.php?id=747764
+华语经典✔原,http://maomao.kandiantv.cn/douyu1.php?id=434971
+欧美大片✔原,http://maomao.kandiantv.cn/douyu1.php?id=2793084
+贝爷max✔原,http://43.138.170.29:35455/douyu/4332
+贝爷影厅✔原,http://maomao.kandiantv.cn/douyu1.php?id=252802
+邦德影院✔原,http://43.138.170.29:35455/douyu/9292499
+看美剧✔原,http://43.138.170.29:35455/douyu/8869614
+轮播电影1Y✔原,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+轮播电影2Y✔原,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+轮播电影3Y✔原,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 漫威君✔原,https://live.metshop.top/douyu/1713615
 
 

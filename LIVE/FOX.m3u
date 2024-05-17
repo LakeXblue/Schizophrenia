@@ -406,7 +406,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="数字频道",CHC高清电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dsjc.png" group-title="数字频道",都市剧场
-http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jcys.png" group-title="数字频道",精彩影视
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/xsj.png" group-title="数字频道",新视觉
@@ -425,7 +425,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="hhxd" tvg-name="哈哈炫动" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hhxd.png" group-title="数字频道",哈哈炫动
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-id="leyou" tvg-name="乐游" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/leyou.png" group-title="数字频道",乐游
-http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43040/index.m3u8
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="jsrw" tvg-name="纪实人文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsrw.png" group-title="数字频道",纪实人文
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="jyjs" tvg-name="金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan9.png" group-title="数字频道",金鹰纪实
@@ -668,6 +668,8 @@ https://v.cdnlz12.com/20240215/11573_4cb789fb/2000k/hls/mixed.m3u8
 https://live.metshop.top/yy/1354930976
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",请回答1988[韩]
 https://live.metshop.top/yy/1354932362
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",超异能族[韩]
+https://www.goodiptv.club/huya/21059586
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",憨豆先生 
 https://live.metshop.top/yy/1354930189
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",yy电影1
@@ -748,6 +750,16 @@ https://live.metshop.top/huya/11352877
 https://live.metshop.top/huya/11602043
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_国产
 https://live.metshop.top/huya/11352973
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_五福星
+https://live.metshop.top/huya/11282233
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_邱淑贞
+https://live.metshop.top/huya/11352949
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_古天乐
+https://live.metshop.top/huya/11602041
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_徐克
+https://live.metshop.top/huya/11352909
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_冯小刚
+https://live.metshop.top/huya/11352906
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_李连杰
 https://live.metshop.top/huya/11342390
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_甄子丹
@@ -866,74 +878,68 @@ http://live.iill.top/huya.php?id=19439762
 http://live.iill.top/huya.php?id=21241811
 #EXTINF:-1 group-title="斗鱼点播",周杰伦点歌台✔原
 https://live.metshop.top/douyu/7537296
-#EXTINF:-1 group-title="斗鱼点播",不迷路点歌台✔原
-http://mmitv.top/test/douyu.php?id=3186217
-#EXTINF:-1 group-title="斗鱼点播",吃西瓜籽✔原
-http://159.75.85.63:35455/douyu/315457
+#EXTINF:-1 group-title="斗鱼点播",吃米滴虫✔原
+http://43.138.170.29:35455/douyu/315457
 #EXTINF:-1 group-title="斗鱼点播",冰冰经典✔原
-http://159.75.85.63:35455/douyu/74374
+http://43.138.170.29:35455/douyu/74374
 #EXTINF:-1 group-title="斗鱼点播",星爷影院✔原
-http://159.75.85.63:35455/douyu/508118
-#EXTINF:-1 group-title="斗鱼点播",凌儿影院✔原
-http://159.75.85.63:35455/douyu/1377142
+http://43.138.170.29:35455/yy/1354658049
 #EXTINF:-1 group-title="斗鱼点播",麓山迷踪✔原
 http://159.75.85.63:35455/douyu/4505431
 #EXTINF:-1 group-title="斗鱼点播",瑶瑶恐怖✔原
-http://159.75.85.63:35455/douyu/2935323
+http://43.138.170.29:35455/douyu/2935323
 #EXTINF:-1 group-title="斗鱼点播",怡寶影院✔原
-http://159.75.85.63:35455/douyu/434971
-#EXTINF:-1 group-title="斗鱼点播",小黛兮影✔原
-http://159.75.85.63:35455/douyu/11553944
+http://43.138.170.29:35455/douyu/434971
 #EXTINF:-1 group-title="斗鱼点播",萌小鬼片✔原
-http://159.75.85.63:35455/douyu/3928
+http://43.138.170.29:35455/douyu/3928
 #EXTINF:-1 group-title="斗鱼点播",神乐剧场✔原
 https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 #EXTINF:-1 group-title="斗鱼点播",神乐剧院✔原
 https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-#EXTINF:-1 group-title="斗鱼点播",神乐影剧✔原
-http://159.75.85.63:35455/douyu/122402
-#EXTINF:-1 group-title="斗鱼点播",可乐影院✔原
-http://159.75.85.63:35455/douyu/20415
 #EXTINF:-1 group-title="斗鱼点播",小宇60帧✔原
-http://159.75.85.63:35455/douyu/323876
+http://maomao.kandiantv.cn/douyu1.php?id=323876
 #EXTINF:-1 group-title="斗鱼点播",恐怖惊悚✔原
-http://159.75.85.63:35455/douyu/96577
+http://maomao.kandiantv.cn/douyu1.php?id=96577
 #EXTINF:-1 group-title="斗鱼点播",電影劇場✔原
-http://159.75.85.63:35455/douyu/7575350
+http://maomao.kandiantv.cn/douyu1.php?id=7575350
 #EXTINF:-1 group-title="斗鱼点播",豆瓣高分✔原
-http://159.75.85.63:35455/douyu/8770422
-#EXTINF:-1 group-title="斗鱼点播",花卷陪看✔原
-http://159.75.85.63:35455/douyu/52787
+http://maomao.kandiantv.cn/douyu1.php?id=8770422
 #EXTINF:-1 group-title="斗鱼点播",漫威剧情✔原
-http://159.75.85.63:35455/douyu/6140589
+http://maomao.kandiantv.cn/douyu1.php?id=6140589
 #EXTINF:-1 group-title="斗鱼点播",霍格沃茨✔原
-http://159.75.85.63:35455/douyu/8814650
+http://maomao.kandiantv.cn/douyu1.php?id=8814650
 #EXTINF:-1 group-title="斗鱼点播",鱼宝恐怖✔原
-http://159.75.85.63:35455/douyu/1165374
+http://maomao.kandiantv.cn/douyu1.php?id=1165374
 #EXTINF:-1 group-title="斗鱼点播",鬼片恐怖✔原
-http://159.75.85.63:35455/douyu/2935323
+http://maomao.kandiantv.cn/douyu1.php?id=2935323
 #EXTINF:-1 group-title="斗鱼点播",小u*鬼片✔原
-http://159.75.85.63:35455/douyu/96577
-#EXTINF:-1 group-title="斗鱼点播",小u*鬼片✔原
-http://mmitv.top/test/douyu.php?id=96577&u=4150734&cate
+http://maomao.kandiantv.cn/douyu1.php?id=96577
 #EXTINF:-1 group-title="斗鱼点播",吃木瓜虫✔原
-http://159.75.85.63:35455/douyu/263824
+http://maomao.kandiantv.cn/douyu1.php?id=263824
 #EXTINF:-1 group-title="斗鱼点播",变种人片✔原
-http://159.75.85.63:35455/douyu/9651304
+http://maomao.kandiantv.cn/douyu1.php?id=9651304
 #EXTINF:-1 group-title="斗鱼点播",喜剧电影✔原
-http://159.75.85.63:35455/douyu/9292492
+http://maomao.kandiantv.cn/douyu1.php?id=9292492
 #EXTINF:-1 group-title="斗鱼点播",女神电影✔原
-http://159.75.85.63:35455/douyu/747764
+http://maomao.kandiantv.cn/douyu1.php?id=747764
 #EXTINF:-1 group-title="斗鱼点播",华语经典✔原
-http://159.75.85.63:35455/douyu/434971
-#EXTINF:-1 group-title="斗鱼点播",避风影院✔原
-http://159.75.85.63:35455/douyu/9826611
+http://maomao.kandiantv.cn/douyu1.php?id=434971
 #EXTINF:-1 group-title="斗鱼点播",欧美大片✔原
-http://159.75.85.63:35455/douyu/2793084
+http://maomao.kandiantv.cn/douyu1.php?id=2793084
 #EXTINF:-1 group-title="斗鱼点播",贝爷max✔原
-http://159.75.85.63:35455/douyu/4332
+http://43.138.170.29:35455/douyu/4332
 #EXTINF:-1 group-title="斗鱼点播",贝爷影厅✔原
-http://159.75.85.63:35455/douyu/252802
+http://maomao.kandiantv.cn/douyu1.php?id=252802
+#EXTINF:-1 group-title="斗鱼点播",邦德影院✔原
+http://43.138.170.29:35455/douyu/9292499
+#EXTINF:-1 group-title="斗鱼点播",看美剧✔原
+http://43.138.170.29:35455/douyu/8869614
+#EXTINF:-1 group-title="斗鱼点播",轮播电影1Y✔原
+http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+#EXTINF:-1 group-title="斗鱼点播",轮播电影2Y✔原
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+#EXTINF:-1 group-title="斗鱼点播",轮播电影3Y✔原
+http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 #EXTINF:-1 group-title="斗鱼点播",漫威君✔原
 https://live.metshop.top/douyu/1713615
 
