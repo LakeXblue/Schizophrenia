@@ -120,16 +120,16 @@ CCTV-17农业农村,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980
 康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 
 港澳.外语,#genre#
+第一财经,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 第一财经,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000027146
 第一财经,http://xxw.me0.cn/api/bestv.php?id=dycj
 凤凰中文,http://cdn8.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰中文,http://113.64.145.231:8081/hls/37/index.m3u8
-凤凰中文,https://epg.pw/stream/a7d73b5ffe9e9d33a8b774a4df3d623b2ba01a36f6ef70f20d1f3f9b27836330.ctv
-凤凰中文,http://113.64.145.195:8081/hls/37/index.m3u8
+凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://cdn8.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰资讯,http://113.64.145.195:8081/hls/36/index.m3u8
-凤凰资讯,https://epg.pw/stream/30cd5e1750b4964bc1bedfea45649cec7531987a88a0f5dc2fb8c773b5c582f7.ctv
-凤凰香港,https://epg.pw/stream/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d6518982ef.m3u8
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://cdn8.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰香港,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 凤凰香港,http://113.64.145.231:8081/hls/38/index.m3u8
@@ -156,7 +156,7 @@ RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 「意大利」Rai Movie,https://epg.pw/stream/36906e9ab49394a6baa2620b391903b039245dfcf8ad288d2ca35c3fd4ee7280.ctv
 「希腊」Skai ,https://epg.pw/stream/b6d02eaa17dc285e8687347bc0422e94677359fe4fd2eee468d254593248da96.m3u8
 CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-AMC,https://epg.pw/stream/96401ee8a69617914e9bc5f99bb21c562f31a111d31df471b86f65ff5cd6790a.ctv
+AMC,http://170.254.18.106/AMC/index.m3u8
 HBO,https://epg.pw/stream/52df12597bd13caad939ce643758583b9bfe62fe8ecfa4e4023b51d405d7894e.ctv
 AMC+,https://epg.pw/stream/7f22b45978822677fd411db2846df01c0353c4804d7425015b8aed4b49abf3a9.m3u8
 BBC,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
@@ -178,7 +178,7 @@ Bloomberg Originals,https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
 CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 A&E,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
 Star,http://170.254.18.106/STAR/index.m3u8
-BET,https://epg.pw/stream/5bd6e67affdf175e5d655df198aa0d426e387a9db0934fc9587772147bd5ad87.ctv#https://epg.pw/stream/647911c6b800ccb880f040a58953f64def41770113925959b84db70686a64547.ctv#https://epg.pw/stream/5bd6e67affdf175e5d655df198aa0d426e387a9db0934fc9587772147bd5ad87.ctv
+BET,http://170.254.18.106/BET/index.m3u8#https://epg.pw/stream/647911c6b800ccb880f040a58953f64def41770113925959b84db70686a64547.ctv#https://epg.pw/stream/5bd6e67affdf175e5d655df198aa0d426e387a9db0934fc9587772147bd5ad87.ctv
 TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 AXN HD,https://epg.pw/stream/fb5e2d50bd144f00d18ff3a6c2eeb78c2f35116f13401566733f4b20930817f1.ctv
@@ -197,7 +197,7 @@ Magic TV2,https://epg.pw/stream/9047d8261c167e35fbcb0aea5bd93c443572fbacc09e1c2c
 魅力足球,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=mlzq
 魅力足球,http://php.jdshipin.com:8880/bst.php?id=mlyyhd/4000000
 FIFA+,https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
-NBA TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
+NBA TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/136 
 Red Bull TV,https://epg.pw/stream/f17178961b92fb483324e38af210410b1a1817905d74910f877ce1c43753a097.m3u8
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
@@ -205,9 +205,11 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 NewTv武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 NewTv超级体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 NewTv精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+五星体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 五星体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000007
 五星体育,https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
 五星体育,https://epg.pw/stream/4ef66089dbf5be44fbd9ce48d16aa33ea8182fa8c54cbf5b0b57617fb2a0f114.ctv
+劲爆体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000008
 劲爆体育,https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv
 
@@ -316,21 +318,17 @@ IHOT爱悬疑,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400
 IHOT爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000034
 
 百视ʰ,#genre#
-华语影院,http://cfss.cc/Cf/bst/hyyy-74848.m3u8
-电竞天堂,http://php.jdshipin.com:8880/bst.php?id=djtt8m/8000000
-青春动漫,http://php.jdshipin.com:8880/bst.php?id=qcdm8m/8000000
-星光影院,http://php.jdshipin.com:8880/bst.php?id=xgyy8m/8000000
-谍战剧场,http://php.jdshipin.com:8880/bst.php?id=dzjc8m/8000000
-全球大片,http://php.jdshipin.com:8880/bst.php?id=qqdp8m/8000000
-热门剧场,http://php.jdshipin.com:8880/bst.php?id=rmjc8m/8000000
-热门综艺,http://php.jdshipin.com:8880/bst.php?id=rmzy8m/8000000
-戏曲精选,http://php.jdshipin.com:8880/bst.php?id=xqjx8m/8000000
-健康养生,http://php.jdshipin.com:8880/bst.php?id=jkys8m/8000000
-百变课堂,http://php.jdshipin.com:8880/bst.php?id=bbkt8m/8000000
+华语影院,http://nas.jumping.wang:5555/udp/239.93.0.138:5140
+青春动漫,http://nas.jumping.wang:5555/udp/239.93.0.146:5140
+星光影院,http://nas.jumping.wang:5555/udp/239.93.0.139:5140
+谍战剧场,http://nas.jumping.wang:5555/udp/239.93.0.95:5140
+全球大片,http://nas.jumping.wang:5555/udp/239.93.0.105:5140
+热门剧场,http://nas.jumping.wang:5555/udp/239.93.0.140:5140
+热门综艺,http://nas.jumping.wang:5555/udp/239.93.0.151:5140
+戏曲精选,http://nas.jumping.wang:5555/udp/239.93.0.144:5140
 看天下精选,http://php.jdshipin.com:8880/bst.php?id=ktxjx8m/8000000
 
 华语影院,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hyyy
-电竞天堂,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=djtt
 青春动漫,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=qcdm
 星光影院,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=xgyy
 谍战剧场,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=dzjc
@@ -338,8 +336,6 @@ IHOT爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400
 热门剧场,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=rmjc
 热门综艺,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=rmzy
 戏曲精选,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=xqjx
-健康养生,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=jkys
-百变课堂,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=bbkt
 看天下精选,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=ktxjx
 
 
@@ -524,8 +520,6 @@ YY电影-欧美科幻,http://11.xmyxc.cn/api/php/yy.php?id=37988782
 漫威剧情✔原,http://maomao.kandiantv.cn/douyu1.php?id=6140589
 霍格沃茨✔原,http://maomao.kandiantv.cn/douyu1.php?id=8814650
 鱼宝恐怖✔原,http://maomao.kandiantv.cn/douyu1.php?id=1165374
-鬼片恐怖✔原,http://maomao.kandiantv.cn/douyu1.php?id=2935323
-小u*鬼片✔原,http://maomao.kandiantv.cn/douyu1.php?id=96577
 吃木瓜虫✔原,http://maomao.kandiantv.cn/douyu1.php?id=263824
 变种人片✔原,http://maomao.kandiantv.cn/douyu1.php?id=9651304
 喜剧电影✔原,http://maomao.kandiantv.cn/douyu1.php?id=9292492
@@ -541,6 +535,40 @@ YY电影-欧美科幻,http://11.xmyxc.cn/api/php/yy.php?id=37988782
 轮播电影3Y✔原,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 漫威君✔原,https://live.metshop.top/douyu/1713615
 
+斯巴达克斯,#genre#
+斯巴达克斯第一季1,https://v.cdnlz20.com/20240428/6158_f9665afe/index.m3u8
+2,https://v.cdnlz20.com/20240428/6159_85cdafdb/index.m3u8
+3,https://v.cdnlz20.com/20240428/6160_cb82525a/index.m3u8
+4,https://v.cdnlz20.com/20240428/6161_4c6618ed/index.m3u8
+5,https://v.cdnlz20.com/20240428/6162_7fb51d59/index.m3u8
+6,https://v.cdnlz20.com/20240428/6163_8b573f18/index.m3u8
+7,https://v.cdnlz20.com/20240428/6164_d97bef12/index.m3u8
+8,ahttps://v.cdnlz20.com/20240428/6165_eafd9612/index.m3u8
+9,https://v.cdnlz20.com/20240428/6166_f756b469/index.m3u8
+10,https://v.cdnlz20.com/20240428/6167_989b5986/index.m3u8
+11,https://v.cdnlz20.com/20240428/6168_8051c2d7/index.m3u8
+12,https://v.cdnlz20.com/20240428/6169_08bca5d3/index.m3u8
+13,https://v.cdnlz20.com/20240428/6170_3bc372ca/index.m3u8
+斯巴达克斯第二季1,https://v.cdnlz20.com/20240428/6171_3a73fc91/index.m3u8
+2,https://v.cdnlz20.com/20240428/6172_3d539f81/index.m3u8
+3,https://v.cdnlz20.com/20240428/6173_64e012cf/index.m3u8
+4,https://v.cdnlz20.com/20240428/6174_f3dbc030/index.m3u8
+5,https://v.cdnlz20.com/20240428/6175_725417b6/index.m3u8
+6,https://v.cdnlz20.com/20240428/6176_486621d8/index.m3u8
+7,https://v.cdnlz20.com/20240428/6177_8f5d3718/index.m3u8
+8,https://v.cdnlz20.com/20240428/6178_d6a1a40b/index.m3u8
+9,https://v.cdnlz20.com/20240428/6179_d40ddd9b/index.m3u8
+10,https://v.cdnlz20.com/20240428/6180_f2c537e3/index.m3u8
+斯巴达克斯第三季1,https://v.cdnlz20.com/20240428/6181_6183beb5/index.m3u8
+2,https://v.cdnlz20.com/20240428/6182_0f30505e/index.m3u8
+3,https://v.cdnlz20.com/20240428/6183_99685e14/index.m3u8
+4,https://v.cdnlz20.com/20240428/6184_927171f4/index.m3u8
+5,https://v.cdnlz20.com/20240428/6185_3d5ca79f/index.m3u8
+6,https://v.cdnlz20.com/20240428/6186_18a07dd6/index.m3u8
+7,https://v.cdnlz20.com/20240428/6187_caaf157d/index.m3u8
+8,https://v.cdnlz20.com/20240428/6188_7ae3cdd8/index.m3u8
+9,https://v.cdnlz20.com/20240428/6189_31fbf6c4/index.m3u8
+10,https://v.cdnlz20.com/20240428/6190_6edf0839/index.m3u8
 
 舞曲MTV,#genre#
 「中」林忆莲-存在,http://em.21dtv.com/songs/60013615.mkv
