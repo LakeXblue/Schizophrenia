@@ -303,8 +303,6 @@ IHOT爱体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400
 IHOT爱电竞,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000054
 IHOT爱谍战,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000038
 IHOT爱动漫,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000059
-IHOT爱都市,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000039
-IHOT爱怀旧,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000057
 IHOT爱经典,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000037
 IHOT爱科幻,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000033
 IHOT爱科学,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000047
