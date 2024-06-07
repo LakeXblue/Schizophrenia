@@ -139,7 +139,7 @@ TVB Plus频道,http://nz171l122.bb60246.ctm.net:8892/bysid/82
 半岛新闻「英语」,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛新闻「阿拉伯」,https://epg.pw/stream/bc588575cbb017bfbbee10c06ccd54fe2d1063a8a1fd0a8e0604159fe7cdf294.m3u8
 半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
-CNA亚洲新闻,https://epg.pw/stream/7e5df337a98e3174cd5d6d87404197cb3f88828d880f686ba7465f68066ee59c.m3u8
+CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 RT News,https://epg.pw/stream/85a812d12967aa5310f0ef6b7d5f09c0a161ad6bad9df6dd5b9e16cd1ae0530b.m3u8
@@ -213,7 +213,10 @@ NewTv精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/
 
 4K频道,#genre#
 Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-FashionTV 4k「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+FashionTV 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+FTV MAGAZINE「时尚」,https://epg.pw/stream/ea5ca79782937a18e87abb1cc786f0c30aa7fdfe2b781f7bcf6d18d38fd2669c.m3u8
+FTV TOP MODELS「时尚」,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+FTV SWIMWEAR「时尚」,https://epg.pw/stream/f9a23ab55b6fc6f2b49f1794c41cb5d042b4e9065ef130300125b8c2e0876bd4.ctv
 咪咕体育4K,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
@@ -336,6 +339,8 @@ IHOT爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400
 
 
 影.剧轮播,#genre#
+万合天宜,https://live.metshop.top/douyu/9220456
+文西与阿漆,https://live.metshop.top/douyu/8737695
 伪装者•胡歌,https://live.metshop.top/yy/1354936244
 仙剑奇侠传•刘亦菲,https://live.metshop.top/yy/1382749903
 老三国,https://live.metshop.top/yy/1354936241
