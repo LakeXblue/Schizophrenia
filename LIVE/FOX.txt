@@ -28,17 +28,17 @@ CCTV世界地理,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380
 CCTV央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
 CCTV高尔夫网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 
-CCTV怀旧剧场,http://222.241.144.214:8888/udp/239.76.254.53:9000
+CCTV怀旧剧场,https://epg.pw/stream/64118614da901fa555c5610863ebf1a8a8b974569476259a8a5d3d014e16e6f3.m3u8
 CCTV世界地理,http://222.241.144.214:8888/udp/239.76.254.57:9000
-CCTV文化精品,http://222.241.144.214:8888/udp/239.76.254.56:9000
+CCTV文化精品,https://epg.pw/stream/70666105717759ad2b87b61789ef3e4ef7aad472a2adc319c102e6488cbc70ad.ctv
 CCTV央视台球,http://222.241.144.214:8888/udp/239.76.254.58:9000
 CCTV高尔夫网球,http://222.241.144.214:8888/udp/239.76.254.62:9000
-CCTV风云剧场,http://222.241.144.214:8888/udp/239.76.254.50:9000
+CCTV风云剧场,https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b04001f0e77cb0c2a88830bf.ctv
 CCTV第一剧场,http://222.241.144.214:8888/udp/239.76.254.49:9000
 CCTV风云足球,http://222.241.144.214:8888/udp/239.76.254.52:9000
-CCTV电视指南,http://222.241.144.214:8888/udp/239.76.254.61:9000
+CCTV电视指南,https://epg.pw/stream/9e948bbd5453affbe5fe879bc1c4145203aac9b993b01e7db9b1148e40815499.m3u8
 CCTV风云音乐,http://222.241.144.214:8888/udp/239.76.254.51:9000
-CCTV女性时尚,http://222.241.144.214:8888/udp/239.76.254.55:9000
+CCTV女性时尚,https://epg.pw/stream/1077cc124885bf8775068ce65630acf3ef9480488700f3b093314c6070bdb3e0.m3u8
 CCTV兵器科技,http://222.241.144.214:8888/udp/239.76.254.59:9000
 
 
@@ -94,7 +94,7 @@ CCTV-17农业农村,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980
 东南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225585/2/index.m3u8
 湖北卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225596/2/index.m3u8
 广东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225701/index.m3u8
-广东珠江,http://glive.grtn.cn/live/lizhi.m3u8
+广东珠江,https://epg.pw/stream/72a0372fa098a8e50619f1d4f1b5d3185bbd8c1e0198402d5fb8e3d08995bfac.m3u8
 广西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225731/2/index.m3u8
 深圳卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225598/2/index.m3u8
 四川卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225487/2/index.m3u8
@@ -124,14 +124,10 @@ CCTV-17农业农村,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980
 第一财经,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000027146
 第一财经,http://xxw.me0.cn/api/bestv.php?id=dycj
 凤凰中文,http://www.cdtriot.cn:9999/udp/239.93.0.162:2192
-凤凰中文,http://cdn8.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰中文,http://113.64.145.231:8081/hls/37/index.m3u8
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://cdn8.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰资讯,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰香港,http://cdn8.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰香港,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 凤凰香港,http://113.64.145.231:8081/hls/38/index.m3u8
 翡翠台,http://gzcyl001.3322.org:8081/hls/30/index.m3u8
@@ -829,23 +825,5 @@ S3.10,https://v.cdnlz20.com/20240428/6190_6edf0839/index.m3u8
 「韩」太妍31,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240237453313.mp4
 「韩」太妍32,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240130092025.mp4
 「韩」太妍33,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240478207039.mp4
-「欧美」迈克尔杰克逊,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw9ma4gUo3YLDvgU.mp4
-「欧美」艾娃·麦克斯-我也是,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwv_h7QUolM7fswM.mp4
-「欧美」我心永恒,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_uCa4gUo7Irtnwc.mp4
-「欧美」1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
-「欧美」2,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgianW4gUoj9-Aaw.mp4
-「欧美」3,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpdia4gUo7oWfiAE.mp4
-「印度」1,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOCe9wUotr-RqQU.mp4
-「印度」2,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguuCe9wUoyKfU-gI.mp4
-「印度」3,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgl_Ce9wUo6t-WdQ.mp4
-「印度」4,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmeCe9wUoiJmTxgc.mp4
-「印度」5,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgj_Ce9wUoqtHxJQ.mp4
-「印度」6,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmuCe9wUokNHLuAQ.mp4
-「印度」7,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgneCe9wUouKLe8Ac.mp4
-「印度」8,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3N_e9wUogdbOaQ.mp4
-「印度」9,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1t_e9wUouM_i8wM.mp4
-「印度」10,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg45qY9wUonJT41gc.mp4
-「印度」11,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvZ6k4wUo0cGkhgQ.mp4
-「印度」12,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghrTW4gUojKzXlwI.mp4
 
 
