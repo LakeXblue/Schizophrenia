@@ -230,8 +230,6 @@ http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-id="PH03" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="港澳.外语",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-id="PH03" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="港澳.外语",凤凰香港
-https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
-#EXTINF:-1 tvg-id="PH03" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="港澳.外语",凤凰香港
 http://113.64.145.231:8081/hls/38/index.m3u8
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="港澳.外语",TVB Plus频道
@@ -333,11 +331,11 @@ https://epg.pw/stream/fb5e2d50bd144f00d18ff3a6c2eeb78c2f35116f13401566733f4b2093
 #EXTINF:-1 tvg-name="made in hollywood" tvg-id="" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hollywood.png" group-title="港澳.外语",made in hollywood
 https://epg.pw/stream/591e0f2e83132e57ed5dfd03f6502828ae2dbdf70e450e1f165c22c40503dae8.m3u8
 #EXTINF:-1 tvg-name="magic tv" tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624004025127408_48.png" group-title="港澳.外语",「罗马尼亚」Magic TV
-https://epg.pw/stream/c3d5d3c9962973f090b0b8ff4a7b377aab2904fe04bdb9a216d80db30f604444.m3u8
+https://epg.pw/stream/c3d5d3c9962973f090b0b8ff4a7b377aab2904fe04bdb9a216d80db30f604444.m3u8?user=fox
 #EXTINF:-1 tvg-name="magic tv2" tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624004025127408_48.png" group-title="港澳.外语",Magic TV2
-https://epg.pw/stream/9047d8261c167e35fbcb0aea5bd93c443572fbacc09e1c2c62111959ad37c59e.m3u8
+https://epg.pw/stream/9047d8261c167e35fbcb0aea5bd93c443572fbacc09e1c2c62111959ad37c59e.m3u8?user=fox
 #EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Animax.png" group-title="港澳.外语",「日」Animax动漫
-https://epg.pw/stream/c00127d805e82b76c7aadbc58c94e6c08d7e35f9fd07df19c05597173345fdaf.m3u8
+https://epg.pw/stream/c00127d805e82b76c7aadbc58c94e6c08d7e35f9fd07df19c05597173345fdaf.m3u8?user=fox
 
 
 
@@ -379,7 +377,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="4K频道",FashionTV 4k「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="4K频道",FTV MAGAZINE「时尚」
-https://epg.pw/stream/ea5ca79782937a18e87abb1cc786f0c30aa7fdfe2b781f7bcf6d18d38fd2669c.m3u8
+https://epg.pw/stream/ea5ca79782937a18e87abb1cc786f0c30aa7fdfe2b781f7bcf6d18d38fd2669c.m3u8?user=fox
 #EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="4K频道",FTV TOP MODELS「时尚」
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="4K频道",FTV SWIMWEAR「时尚」
@@ -551,7 +549,7 @@ http://php.jdshipin.com:8880/bst.php?id=ktxjx8m/8000000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",万合天宜
 https://live.metshop.top/douyu/9220456
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",文西与阿漆
-https://live.metshop.top/douyu/8737695
+https://live.metshop.top/douyu/8737695?user=fox
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",伪装者•胡歌
 https://live.metshop.top/yy/1354936244
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",仙剑奇侠传•刘亦菲
