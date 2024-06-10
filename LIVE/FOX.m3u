@@ -263,7 +263,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 https://epg.pw/stream/541bfabedb421172ee1a63e7f8a44263bd353686093194fbd6a6241e50fee1cb.m3u8
 #EXTINF:-1 tvg-name="Rai Movie" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174833582148_22.png" group-title="港澳.外语",「意大利」Rai Movie
 https://epg.pw/stream/36906e9ab49394a6baa2620b391903b039245dfcf8ad288d2ca35c3fd4ee7280.ctv
-#EXTINF:-1 tvg-name="france24" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://live.fanmingming.com/tv/france24" group-title="港澳.外语",「法国」France 24
+#EXTINF:-1 tvg-name="france24" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://live.fanmingming.com/tv/france24.png" group-title="港澳.外语",「法国」France 24
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE&checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="skai" tvg-id="" tvg-country="Greece" tvg-language="Ελληνικά" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530202856236041_62.png" group-title="港澳.外语",「希腊」Skai 
 https://epg.pw/stream/b6d02eaa17dc285e8687347bc0422e94677359fe4fd2eee468d254593248da96.m3u8
