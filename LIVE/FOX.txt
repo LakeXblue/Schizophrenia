@@ -214,9 +214,11 @@ NewTv精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/
 4K频道,#genre#
 Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 FashionTV 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-FTV MAGAZINE「时尚」,https://epg.pw/stream/ea5ca79782937a18e87abb1cc786f0c30aa7fdfe2b781f7bcf6d18d38fd2669c.m3u8
-FTV TOP MODELS「时尚」,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-FTV SWIMWEAR「时尚」,https://epg.pw/stream/f9a23ab55b6fc6f2b49f1794c41cb5d042b4e9065ef130300125b8c2e0876bd4.ctv
+FashionTV 4K「时尚」,https://epg.pw/stream/65d726061b82da69b383f5403bb31b63aeefc60c1649a0c39d54a0eacc2e8c1a.m3u8
+FashionTV 4K「时尚」,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+FashionTV EU「时尚」,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+FashionTV EN「时尚」,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+
 咪咕体育4K,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
@@ -316,15 +318,15 @@ IHOT爱悬疑,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400
 IHOT爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000034
 
 百视ʰ,#genre#
-华语影院,http://nas.jumping.wang:5555/udp/239.93.0.138:5140
-青春动漫,http://nas.jumping.wang:5555/udp/239.93.0.146:5140
-星光影院,http://nas.jumping.wang:5555/udp/239.93.0.139:5140
-谍战剧场,http://nas.jumping.wang:5555/udp/239.93.0.95:5140
-全球大片,http://nas.jumping.wang:5555/udp/239.93.0.105:5140
-热门剧场,http://nas.jumping.wang:5555/udp/239.93.0.140:5140
-热门综艺,http://nas.jumping.wang:5555/udp/239.93.0.151:5140
-戏曲精选,http://nas.jumping.wang:5555/udp/239.93.0.144:5140
-看天下精选,http://php.jdshipin.com:8880/bst.php?id=ktxjx8m/8000000
+华语影院,http://118.112.148.228:4022/rtp/239.93.0.138:5140?Cf=cfss.cc
+青春动漫,http://118.112.148.228:4022/rtp/239.93.0.146:5140?Cf=cfss.cc
+星光影院,http://118.112.148.228:4022/rtp/239.93.0.139:5140?Cf=cfss.cc
+谍战剧场,http://118.112.148.228:4022/rtp/239.93.0.95:5140?Cf=cfss.cc
+全球大片,http://118.112.148.228:4022/rtp/239.93.0.105:5140?Cf=cfss.cc
+热门剧场,http://118.112.148.228:4022/rtp/239.93.0.140:5140?Cf=cfss.cc
+热门综艺,http://118.112.148.228:4022/rtp/239.93.0.151:5140?Cf=cfss.cc
+戏曲精选,http://118.112.148.228:4022/rtp/239.93.0.144:5140?Cf=cfss.cc
+看天下精选,http://118.112.148.228:4022/rtp/239.93.0.198:9044?Cf=cfss.cc
 
 华语影院,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hyyy
 青春动漫,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=qcdm
@@ -498,8 +500,7 @@ YY电影-欧美科幻,http://11.xmyxc.cn/api/php/yy.php?id=37988782
 古惑仔系列,https://live.metshop.top/yy/1354507447
 速度与激情全集,https://live.metshop.top/yy/1382749892
 罗翔 法外狂徒张三,https://epg.pw/stream/579bda6ddd0173d963834b88fb895b778fc45cf390b531fbc05c708035263c26.ctv
-万合天宜,https://live.metshop.top/douyu/9220456
-文西与阿漆,https://live.metshop.top/douyu/8737695
+
 
 
 斗鱼点播,#genre#
@@ -509,7 +510,7 @@ YY电影-欧美科幻,http://11.xmyxc.cn/api/php/yy.php?id=37988782
 周杰伦点歌台✔原,https://live.metshop.top/douyu/7537296
 吃米滴虫✔原,https://www.goodiptv.club/douyu/315457
 冰冰经典✔原,https://www.goodiptv.club/douyu/74374
-星爷影院✔原,https://epg.pw/stream/697d8897aa092fac7beb31b9806dfd4bb3197e96d9b15e752766d89f5fb66672.ctv
+星爷影院✔原,https://www.goodiptv.club/douyu/508118
 老港影院✔原,https://www.goodiptv.club/douyu/3637778
 瑶瑶恐怖✔原,https://www.goodiptv.club/douyu/2935323
 怡寶影院✔原,https://www.goodiptv.club/douyu/434971
