@@ -187,7 +187,6 @@ TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 AXN HD,https://stream.freetv.fun/axn-9.ctv
 AXN HD,https://stream.freetv.fun/axn-4.ctv
-AXN HD,https://epg.pw/stream/431d398852d953eb4c5feba62039f3c706f2d823074545bce575ce31a5fff6f7.ctv
 made in hollywood,https://epg.pw/stream/591e0f2e83132e57ed5dfd03f6502828ae2dbdf70e450e1f165c22c40503dae8.m3u8
 made in hollywood,https://epg.pw/stream/9c60cfc4b5a062fc264fae9f3ec66eef1d6ffc0e88f3fbde003ede2c94ad186b.m3u8
 「罗马尼亚」Magic TV,https://epg.pw/stream/c3d5d3c9962973f090b0b8ff4a7b377aab2904fe04bdb9a216d80db30f604444.m3u8
