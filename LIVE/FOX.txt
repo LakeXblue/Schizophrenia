@@ -1,6 +1,7 @@
 CCTV,#genre#
 CCTV-8K超高清,https://tv.cry33.com/ys4k.php?id=8k#https://tv.cry33.com/ys4k.php?id=8k25
 CCTV-4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV-4K超高清,https://stream.freetv.fun/4e0a62b4a7d8d848aef37226f943dbdf1be67bb8e4c756cc9b3c50892ec30d85.m3u8
 CCTV16 4K,https://tv.cry33.com/ys4k.php?id=16-4k
 CCTV-1综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2财经,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
@@ -222,6 +223,7 @@ NewTv精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/
 
 4K频道,#genre#
 Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+求索记录 4K,https://stream.freetv.fun/df1aa46605b8818946c2898c710a70a6272c489121a71bfc4a62bbd9d50e726b.m3u8
 FashionTV 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 FashionTV 4K「时尚」,https://epg.pw/stream/65d726061b82da69b383f5403bb31b63aeefc60c1649a0c39d54a0eacc2e8c1a.m3u8
 FashionTV 4K「时尚」,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
@@ -235,7 +237,8 @@ FashionTV EN「时尚」,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 华数4K电影,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
 SiTV欢笑剧场4K,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-4K斗鱼影院,http://159.75.85.63:35455/douyu/9249162
+百事通4K电影,https://stream.freetv.fun/b5f7a146fb28515e6f53c350a2e171eaa478a836dd84159139ef9b5b52a735d9.ctv
+百事通4K儿童,https://stream.freetv.fun/094c86529d6c72bc574cd30a7168be319d29ab933b0526507868b846a66f971c.ctv
 彼岸KARA,https://live.metshop.top/douyu/40471
 
 

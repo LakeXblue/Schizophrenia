@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="CCTV",CCTV-8K 超高清 HLG
 https://tv.cry33.com/ys4k.php?id=8k#https://tv.cry33.com/ys4k.php?id=8k25
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="CCTV",CCTV-4K 超高清 HLG
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="CCTV",CCTV16 4K HLG
 https://tv.cry33.com/ys4k.php?id=16-4k
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1 综合
@@ -71,7 +71,9 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?
 
 #CCTV备用
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="CCTV备用",CCTV-4K 超高清 HLG
-http://159.75.85.63:5679/cctv4k.php
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8 
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="CCTV备用",CCTV-4K 超高清 HLG
+https://stream.freetv.fun/4e0a62b4a7d8d848aef37226f943dbdf1be67bb8e4c756cc9b3c50892ec30d85.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV备用",CCTV-1综合
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV备用",CCTV-2财经
@@ -392,7 +394,8 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?
 #4K频道
 #EXTINF:-1 tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="4K频道",Love Nrture 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
+#EXTINF:-1 tvg-id="求索记录4K" tvg-name="求索记录4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo5.png" group-title="4K频道",求索记录 4K
+https://stream.freetv.fun/df1aa46605b8818946c2898c710a70a6272c489121a71bfc4a62bbd9d50e726b.m3u8
 #EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="4K频道",FashionTV 4k「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="4K频道",FashionTV EU「时尚」
@@ -416,8 +419,10 @@ http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000009455
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="4K频道",北京纪实8K
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF:-1 tvg-id="4K斗鱼影院台" tvg-name="4K斗鱼影院台" tvg-logo="http://epg.hackserver.net/logo/4K超高清电影.png" group-title="4K频道",4K斗鱼影院
-http://159.75.85.63:35455/douyu/9249162
+#EXTINF:-1 tvg-id="百事通4k电影" tvg-name="百事通4k电影" tvg-logo="http://epg.hackserver.net/logo/BesTV4K.png" group-title="4K频道",百事通4K电影
+https://stream.freetv.fun/b5f7a146fb28515e6f53c350a2e171eaa478a836dd84159139ef9b5b52a735d9.ctv
+#EXTINF:-1 tvg-id="百事通4k儿童" tvg-name="百事通4k儿童" tvg-logo="http://epg.hackserver.net/logo/BesTV4K.png" group-title="4K频道",百事通4K儿童
+https://stream.freetv.fun/094c86529d6c72bc574cd30a7168be319d29ab933b0526507868b846a66f971c.ctv
 #EXTINF:-1 tvg-id="彼岸KARA" tvg-name="彼岸KARA" tvg-logo="http://epg.hackserver.net/logo/4K超高清电影.png" group-title="4K频道",彼岸KARA
 https://live.metshop.top/douyu/40471
 
