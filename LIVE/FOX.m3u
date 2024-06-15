@@ -413,8 +413,8 @@ http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="4K频道",咪咕体育4K高码
 https://stream.freetv.fun/e9e3eb597c57d0a699d033ed257686d7be2dd92ac7fe60cd8193757b192f1391.m3u8
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="4K频道",咪咕体育4K
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="4K频道",咪咕体育4K高码
+https://stream.freetv.fun/5ae380dc4b8fcace26f83564985e6466130914d2c9c7facd1f1d30835b7c0240.m3u8
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="4K频道",咪咕体育4K
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="4K频道",爱上4K

@@ -195,6 +195,7 @@ Magic TV2,https://epg.pw/stream/9047d8261c167e35fbcb0aea5bd93c443572fbacc09e1c2c
 
 体育.竞技,#genre#
 咪咕全民健身,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+咪咕全民健身,https://stream.freetv.fun/e58c39c146674076c7383dbb0cc52a3b727d297da480cfca7b154ead62af7245.m3u8
 咪咕体育𝟙*,https://stream.freetv.fun/719331c9156a38f54cafa7ec522c5d8958a70a8312a8716639a835d337ba7c4e.m3u8
 咪咕体育𝟚*,https://stream.freetv.fun/20e3520624eef93dc1e36bfbca089c3574de1cd932032eb469e63849b417da98.ctv
 咪咕体育𝟛*,https://stream.freetv.fun/c26787e8d4b59384ff6002748a812bc665ebccbcb223dd2fd62e6014180bdf8b.ctv
@@ -234,7 +235,7 @@ FashionTV 4K「时尚」,http://fash2043.cloudycdn.services//slive/_definst_/ftv
 FashionTV EU「时尚」,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 FashionTV EN「时尚」,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 咪咕体育4K高码,https://stream.freetv.fun/e9e3eb597c57d0a699d033ed257686d7be2dd92ac7fe60cd8193757b192f1391.m3u8
-咪咕体育4K,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
+咪咕体育4K高码,https://stream.freetv.fun/5ae380dc4b8fcace26f83564985e6466130914d2c9c7facd1f1d30835b7c0240.m3u8
 咪咕体育4K,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
