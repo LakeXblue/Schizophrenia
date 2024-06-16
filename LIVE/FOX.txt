@@ -38,7 +38,7 @@ CCTV风云剧场,https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b
 CCTV第一剧场,http://222.241.144.214:8888/udp/239.76.254.49:9000
 CCTV风云足球,http://222.241.144.214:8888/udp/239.76.254.52:9000
 CCTV电视指南,https://epg.pw/stream/9e948bbd5453affbe5fe879bc1c4145203aac9b993b01e7db9b1148e40815499.m3u8
-CCTV风云音乐,http://222.241.144.214:8888/udp/239.76.254.51:9000
+CCTV风云音乐,https://stream.freetv.fun/e4977369a8bc1caa222c70da37e7c2478d9a83991b36647021a2ec5133f4fe63.m3u8
 CCTV女性时尚,https://epg.pw/stream/1077cc124885bf8775068ce65630acf3ef9480488700f3b093314c6070bdb3e0.m3u8
 CCTV兵器科技,http://222.241.144.214:8888/udp/239.76.254.59:9000
 
@@ -130,7 +130,7 @@ CCTV-17农业农村,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980
 凤凰中文,https://stream.freetv.fun/72d84f92913ca494af3fc278402cbc84cb371aa17c90b241c1f6f9c9db2fad8d.ctv
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://113.64.145.126:8081/hls/36/index.m3u8
-凤凰资讯,https://stream.freetv.fun/b5d918869ad35ba4c99c6a12cfa87469e8783cb4b7d8d8342dcbba12c71d21b3.m3u8
+凤凰资讯,https://stream.freetv.fun/6a18a5b48dd18355b53011a2ed5b8d9a3c044e189435f374f1fbe8d30dca0bf9.ctv
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
@@ -139,6 +139,7 @@ CCTV-17农业农村,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980
 
 TVB Plus频道,http://zsntlqj.xicp.net:8896/bysid/82.m3u8
 明珠台,http://zsntlqj.xicp.net:8896/bysid/83
+澳视澳门,https://stream.freetv.fun/6bf8b2d5d63527504623778e40d5da27c470b9c03d84c8676596e10b5643a367.ctv
 澳视澳门,https://histar.zapi.us.kg/?id=tdm
 天映频道,https://histar.zapi.us.kg/?id=celestial
 半岛新闻「英语」,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
@@ -196,14 +197,29 @@ Magic TV2,https://epg.pw/stream/9047d8261c167e35fbcb0aea5bd93c443572fbacc09e1c2c
 体育.竞技,#genre#
 咪咕全民健身,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 咪咕全民健身,https://stream.freetv.fun/e58c39c146674076c7383dbb0cc52a3b727d297da480cfca7b154ead62af7245.m3u8
+
 咪咕体育𝟙*,https://stream.freetv.fun/719331c9156a38f54cafa7ec522c5d8958a70a8312a8716639a835d337ba7c4e.m3u8
-咪咕体育𝟚*,https://stream.freetv.fun/20e3520624eef93dc1e36bfbca089c3574de1cd932032eb469e63849b417da98.ctv
-咪咕体育𝟛*,https://stream.freetv.fun/c26787e8d4b59384ff6002748a812bc665ebccbcb223dd2fd62e6014180bdf8b.ctv
-咪咕体育𝟜*,https://stream.freetv.fun/4c1aa54800fb5d5f92c8a64fe47ee6b7e2f18d5c92f0b6d6ac254031faa4e5f3.m3u8
-咪咕体育𝟝*,https://stream.freetv.fun/0eee1df5b489d4192c44aea658b3c5d94122e929e12b7bd6d7c72f4e100a7cae.m3u8
-咪咕体育𝟞*,https://stream.freetv.fun/dacd51ccf34e461829b3356fb352e0d7e919ad87bff8302827aae96e6a39ef06.m3u8
-咪咕体育𝟟*,https://stream.freetv.fun/027a50ef187ea75792fd372df3cbbc7a2e9cf23d3e504ff2d44c0af3816f47fa.m3u8
-咪咕体育𝟠*,https://stream.freetv.fun/3c7a8e5751a5e715569017548b2091c799b18ac1a8cc8a833a89ab5856112a1f.m3u8
+
+咪咕体育𝟚*,https://stream.freetv.fun/4c1aa54800fb5d5f92c8a64fe47ee6b7e2f18d5c92f0b6d6ac254031faa4e5f3.m3u8
+咪咕体育𝟚*,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+
+咪咕体育𝟛*,https://stream.freetv.fun/0eee1df5b489d4192c44aea658b3c5d94122e929e12b7bd6d7c72f4e100a7cae.m3u8
+咪咕体育𝟛*,https://stream.freetv.fun/3c7a8e5751a5e715569017548b2091c799b18ac1a8cc8a833a89ab5856112a1f.m3u8
+咪咕体育𝟛*,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕体育𝟛*,https://stream.freetv.fun/20e3520624eef93dc1e36bfbca089c3574de1cd932032eb469e63849b417da98.ctv
+
+咪咕体育𝟜*,https://stream.freetv.fun/dacd51ccf34e461829b3356fb352e0d7e919ad87bff8302827aae96e6a39ef06.m3u8
+咪咕体育𝟜*,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+
+咪咕体育𝟝*,https://stream.freetv.fun/027a50ef187ea75792fd372df3cbbc7a2e9cf23d3e504ff2d44c0af3816f47fa.m3u8
+咪咕体育𝟝*,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+
+咪咕体育𝟞*,https://stream.freetv.fun/46ef4e8b0cfcf5d6ef3ebcc697e43faae4cc3991021049404a0b252dc8561f27.ctv
+
+咪咕体育𝟟*,https://stream.freetv.fun/b96d5424df74f8d9e6323d986a7808b9311947450430ae11f8f4501eb9b58147.ctv
+
+咪咕体育𝟠*,https://stream.freetv.fun/6567e62785552fefec1d31f5e58aa36e5e5cb68d04ef5687ba8b0427cfe33146.ctv
+
 篮球长镜头,https://epg.pw/stream/1ece6e27daea56c2563b94db8f5953e8d9c68a9b49044541f8ddb903a4e74ba2.ctv
 魅力足球,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
 魅力足球,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=mlzq
@@ -232,8 +248,12 @@ Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m
 FashionTV 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 FashionTV 4K「时尚」,https://epg.pw/stream/65d726061b82da69b383f5403bb31b63aeefc60c1649a0c39d54a0eacc2e8c1a.m3u8
 FashionTV 4K「时尚」,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+FashionTV EU「时尚」,https://stream.freetv.fun/fashiontv-asia-1.m3u8  
 FashionTV EU「时尚」,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-FashionTV EN「时尚」,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+FashionTV EU「时尚」,https://stream.freetv.fun/016e9d73d68c84070ece9dfc1c7278c279fb6653e6a29a20d39b1e83255b51b1.m3u8
+FashionTV EU「时尚」,https://stream.freetv.fun/4e395d34efc0b5fc235bdc6b10af4eb07a0e2e8669ad4a22bafd355aac511ba5.m3u8
+FashionTV EN「时尚」,https://stream.freetv.fun/8fb0f2a610c7b494a5f64f2798a0fabce11172b52908ae9ea213184c3cb1c9d9.ctv
+https://stream.freetv.fun/8fb0f2a610c7b494a5f64f2798a0fabce11172b52908ae9ea213184c3cb1c9d9.ctv
 咪咕体育4K高码,https://stream.freetv.fun/e9e3eb597c57d0a699d033ed257686d7be2dd92ac7fe60cd8193757b192f1391.m3u8
 咪咕体育4K高码,https://stream.freetv.fun/5ae380dc4b8fcace26f83564985e6466130914d2c9c7facd1f1d30835b7c0240.m3u8
 咪咕体育4K,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8

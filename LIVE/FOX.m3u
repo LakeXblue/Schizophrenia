@@ -62,7 +62,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?
 #EXTINF:-1 tvg-id="9" tvg-name="电视指南" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdszn.png" group-title="CCTV",CCTV电视指南
 https://epg.pw/stream/9e948bbd5453affbe5fe879bc1c4145203aac9b993b01e7db9b1148e40815499.m3u8
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="CCTV",CCTV风云音乐
-http://222.241.144.214:8888/udp/239.76.254.51:9000
+https://stream.freetv.fun/e4977369a8bc1caa222c70da37e7c2478d9a83991b36647021a2ec5133f4fe63.m3u8
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="CCTV",CCTV女性时尚
 https://epg.pw/stream/1077cc124885bf8775068ce65630acf3ef9480488700f3b093314c6070bdb3e0.m3u8
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVbqkj.png" group-title="CCTV",CCTV兵器科技
@@ -232,7 +232,7 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="港澳.外语",凤凰资讯
 http://113.64.145.126:8081/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="港澳.外语",凤凰资讯
-https://stream.freetv.fun/b5d918869ad35ba4c99c6a12cfa87469e8783cb4b7d8d8342dcbba12c71d21b3.m3u8
+https://stream.freetv.fun/6a18a5b48dd18355b53011a2ed5b8d9a3c044e189435f374f1fbe8d30dca0bf9.ctv
 #EXTINF:-1 tvg-id="PH03" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="港澳.外语",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-id="PH03" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="港澳.外语",凤凰香港
@@ -245,7 +245,7 @@ http://zsntlqj.xicp.net:8896/bysid/82.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳.外语",明珠台
 http://zsntlqj.xicp.net:8896/bysid/83.m3u8
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="港澳.外语",澳视澳门
-https://histar.zapi.us.kg/?id=tdm
+https://stream.freetv.fun/6bf8b2d5d63527504623778e40d5da27c470b9c03d84c8676596e10b5643a367.ctv
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/typd.png" group-title="港澳.外语",天映频道
 https://histar.zapi.us.kg/?id=celestial
 
@@ -352,24 +352,37 @@ https://epg.pw/stream/c00127d805e82b76c7aadbc58c94e6c08d7e35f9fd07df19c055971733
 
 
 #体育.竞技
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕全民健身
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕全民健身 IPV6*
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟙*
 https://stream.freetv.fun/719331c9156a38f54cafa7ec522c5d8958a70a8312a8716639a835d337ba7c4e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟚*
-https://stream.freetv.fun/20e3520624eef93dc1e36bfbca089c3574de1cd932032eb469e63849b417da98.ctv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟛*
-https://stream.freetv.fun/c26787e8d4b59384ff6002748a812bc665ebccbcb223dd2fd62e6014180bdf8b.ctv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟜*
 https://stream.freetv.fun/4c1aa54800fb5d5f92c8a64fe47ee6b7e2f18d5c92f0b6d6ac254031faa4e5f3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟝*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟚 IPV6*
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟛*
 https://stream.freetv.fun/0eee1df5b489d4192c44aea658b3c5d94122e929e12b7bd6d7c72f4e100a7cae.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟞*
-https://stream.freetv.fun/dacd51ccf34e461829b3356fb352e0d7e919ad87bff8302827aae96e6a39ef06.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟟*
-https://stream.freetv.fun/027a50ef187ea75792fd372df3cbbc7a2e9cf23d3e504ff2d44c0af3816f47fa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟠*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟛*
 https://stream.freetv.fun/3c7a8e5751a5e715569017548b2091c799b18ac1a8cc8a833a89ab5856112a1f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟛 IPV6*
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟛*
+https://stream.freetv.fun/20e3520624eef93dc1e36bfbca089c3574de1cd932032eb469e63849b417da98.ctv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟜*
+https://stream.freetv.fun/dacd51ccf34e461829b3356fb352e0d7e919ad87bff8302827aae96e6a39ef06.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟜 IPV6*
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟝*
+https://stream.freetv.fun/027a50ef187ea75792fd372df3cbbc7a2e9cf23d3e504ff2d44c0af3816f47fa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟝 IPV6*
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟞*
+https://stream.freetv.fun/46ef4e8b0cfcf5d6ef3ebcc697e43faae4cc3991021049404a0b252dc8561f27.ctv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟟*
+https://stream.freetv.fun/b96d5424df74f8d9e6323d986a7808b9311947450430ae11f8f4501eb9b58147.ctv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",咪咕体育𝟠*
+https://stream.freetv.fun/6567e62785552fefec1d31f5e58aa36e5e5cb68d04ef5687ba8b0427cfe33146.ctv
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育.竞技",篮球长镜头
 https://epg.pw/stream/1ece6e27daea56c2563b94db8f5953e8d9c68a9b49044541f8ddb903a4e74ba2.ctv
@@ -407,9 +420,13 @@ https://stream.freetv.fun/df1aa46605b8818946c2898c710a70a6272c489121a71bfc4a62bb
 #EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="4K频道",FashionTV 4k「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="4K频道",FashionTV EU「时尚」
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+https://stream.freetv.fun/fashiontv-asia-1.m3u8 
+#EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="4K频道",FashionTV EU「时尚」
+https://stream.freetv.fun/016e9d73d68c84070ece9dfc1c7278c279fb6653e6a29a20d39b1e83255b51b1.m3u8
+#EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="4K频道",FashionTV EU「时尚」
+https://stream.freetv.fun/4e395d34efc0b5fc235bdc6b10af4eb07a0e2e8669ad4a22bafd355aac511ba5.m3u8
 #EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="4K频道",FashionTV EN「时尚」
-http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+https://stream.freetv.fun/8fb0f2a610c7b494a5f64f2798a0fabce11172b52908ae9ea213184c3cb1c9d9.ctv
 
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="4K频道",咪咕体育4K高码
 https://stream.freetv.fun/e9e3eb597c57d0a699d033ed257686d7be2dd92ac7fe60cd8193757b192f1391.m3u8
