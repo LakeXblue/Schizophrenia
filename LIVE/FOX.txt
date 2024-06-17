@@ -3,24 +3,24 @@ CCTV-8K超高清,https://tv.cry33.com/ys4k.php?id=8k#https://tv.cry33.com/ys4k.p
 CCTV-4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-4K超高清,https://stream.freetv.fun/4e0a62b4a7d8d848aef37226f943dbdf1be67bb8e4c756cc9b3c50892ec30d85.m3u8
 CCTV16 4K,https://tv.cry33.com/ys4k.php?id=16-4k
-CCTV-1综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV-2财经,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV-3综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV-4中文国际,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV-5体育,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5+体育赛事,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-CCTV-6电影,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
-CCTV-7国防军事,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
-CCTV-8电视剧,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8
-CCTV-9纪录,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
-CCTV-10科教,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8
-CCTV-11戏曲,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-CCTV-12社会与法,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8
-CCTV-13新闻,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV-14少儿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
-CCTV-15音乐,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
+CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV-4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
+CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
+CCTV-7国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
+CCTV-8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8
+CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
+CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8
+CCTV-11戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+CCTV-12社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8
+CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
+CCTV-15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
 CCTV-16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-17农业农村,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
+CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 
 CCTV兵器科技,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2
 CCTV风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
@@ -86,8 +86,8 @@ CCTV-17农业农村,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980
 
 卫视高清,#genre#
 北京卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225600/2/index.m3u8
-湖南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-浙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 辽宁卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225601/2/index.m3u8
 安徽卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225691/2/index.m3u8
 江苏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225488/2/index.m3u8
@@ -117,8 +117,8 @@ CCTV-17农业农村,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980
 陕西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225729/2/index.m3u8
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701_fhd.m3u8
-安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
-康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
+康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 
 港澳.外语,#genre#
 第一财经,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
@@ -194,31 +194,26 @@ made in hollywood,https://epg.pw/stream/9c60cfc4b5a062fc264fae9f3ec66eef1d6ffc0e
 Magic TV2,https://epg.pw/stream/9047d8261c167e35fbcb0aea5bd93c443572fbacc09e1c2c62111959ad37c59e.m3u8
 「日」Animax动漫,https://epg.pw/stream/c00127d805e82b76c7aadbc58c94e6c08d7e35f9fd07df19c05597173345fdaf.m3u8
 
+
+
+
 体育.竞技,#genre#
-咪咕全民健身,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+咪咕全民健身,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 咪咕全民健身,https://stream.freetv.fun/e58c39c146674076c7383dbb0cc52a3b727d297da480cfca7b154ead62af7245.m3u8
-
-咪咕体育𝟙*,https://stream.freetv.fun/719331c9156a38f54cafa7ec522c5d8958a70a8312a8716639a835d337ba7c4e.m3u8
-
-咪咕体育𝟚*,https://stream.freetv.fun/4c1aa54800fb5d5f92c8a64fe47ee6b7e2f18d5c92f0b6d6ac254031faa4e5f3.m3u8
-咪咕体育𝟚*,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-
-咪咕体育𝟛*,https://stream.freetv.fun/0eee1df5b489d4192c44aea658b3c5d94122e929e12b7bd6d7c72f4e100a7cae.m3u8
-咪咕体育𝟛*,https://stream.freetv.fun/3c7a8e5751a5e715569017548b2091c799b18ac1a8cc8a833a89ab5856112a1f.m3u8
-咪咕体育𝟛*,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-咪咕体育𝟛*,https://stream.freetv.fun/20e3520624eef93dc1e36bfbca089c3574de1cd932032eb469e63849b417da98.ctv
-
-咪咕体育𝟜*,https://stream.freetv.fun/dacd51ccf34e461829b3356fb352e0d7e919ad87bff8302827aae96e6a39ef06.m3u8
-咪咕体育𝟜*,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-
-咪咕体育𝟝*,https://stream.freetv.fun/027a50ef187ea75792fd372df3cbbc7a2e9cf23d3e504ff2d44c0af3816f47fa.m3u8
-咪咕体育𝟝*,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-
-咪咕体育𝟞*,https://stream.freetv.fun/46ef4e8b0cfcf5d6ef3ebcc697e43faae4cc3991021049404a0b252dc8561f27.ctv
-
-咪咕体育𝟟*,https://stream.freetv.fun/b96d5424df74f8d9e6323d986a7808b9311947450430ae11f8f4501eb9b58147.ctv
-
-咪咕体育𝟠*,https://stream.freetv.fun/6567e62785552fefec1d31f5e58aa36e5e5cb68d04ef5687ba8b0427cfe33146.ctv
+咪咕体育1*,https://stream.freetv.fun/719331c9156a38f54cafa7ec522c5d8958a70a8312a8716639a835d337ba7c4e.m3u8
+咪咕体育2*,https://stream.freetv.fun/4c1aa54800fb5d5f92c8a64fe47ee6b7e2f18d5c92f0b6d6ac254031faa4e5f3.m3u8
+咪咕体育2*,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+咪咕体育3*,https://stream.freetv.fun/0eee1df5b489d4192c44aea658b3c5d94122e929e12b7bd6d7c72f4e100a7cae.m3u8
+咪咕体育3*,https://stream.freetv.fun/3c7a8e5751a5e715569017548b2091c799b18ac1a8cc8a833a89ab5856112a1f.m3u8
+咪咕体育3*,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕体育3*,https://stream.freetv.fun/20e3520624eef93dc1e36bfbca089c3574de1cd932032eb469e63849b417da98.ctv
+咪咕体育4*,https://stream.freetv.fun/dacd51ccf34e461829b3356fb352e0d7e919ad87bff8302827aae96e6a39ef06.m3u8
+咪咕体育4*,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+咪咕体育5*,https://stream.freetv.fun/027a50ef187ea75792fd372df3cbbc7a2e9cf23d3e504ff2d44c0af3816f47fa.m3u8
+咪咕体育5*,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+咪咕体育6*,https://stream.freetv.fun/46ef4e8b0cfcf5d6ef3ebcc697e43faae4cc3991021049404a0b252dc8561f27.ctv
+咪咕体育7*,https://stream.freetv.fun/b96d5424df74f8d9e6323d986a7808b9311947450430ae11f8f4501eb9b58147.ctv
+咪咕体育8*,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
 
 篮球长镜头,https://epg.pw/stream/1ece6e27daea56c2563b94db8f5953e8d9c68a9b49044541f8ddb903a4e74ba2.ctv
 魅力足球,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
@@ -231,7 +226,7 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 武术世界,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
 NewTv武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-NewTv超级体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+NewTv超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 NewTv精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 五星体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 五星体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000007
@@ -248,15 +243,10 @@ Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m
 FashionTV 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 FashionTV 4K「时尚」,https://epg.pw/stream/65d726061b82da69b383f5403bb31b63aeefc60c1649a0c39d54a0eacc2e8c1a.m3u8
 FashionTV 4K「时尚」,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-FashionTV EU「时尚」,https://stream.freetv.fun/fashiontv-asia-1.m3u8  
-FashionTV EU「时尚」,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-FashionTV EU「时尚」,https://stream.freetv.fun/016e9d73d68c84070ece9dfc1c7278c279fb6653e6a29a20d39b1e83255b51b1.m3u8
-FashionTV EU「时尚」,https://stream.freetv.fun/4e395d34efc0b5fc235bdc6b10af4eb07a0e2e8669ad4a22bafd355aac511ba5.m3u8
-FashionTV EN「时尚」,https://stream.freetv.fun/8fb0f2a610c7b494a5f64f2798a0fabce11172b52908ae9ea213184c3cb1c9d9.ctv
-https://stream.freetv.fun/8fb0f2a610c7b494a5f64f2798a0fabce11172b52908ae9ea213184c3cb1c9d9.ctv
+咪咕体育4K高码,http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
 咪咕体育4K高码,https://stream.freetv.fun/e9e3eb597c57d0a699d033ed257686d7be2dd92ac7fe60cd8193757b192f1391.m3u8
 咪咕体育4K高码,https://stream.freetv.fun/5ae380dc4b8fcace26f83564985e6466130914d2c9c7facd1f1d30835b7c0240.m3u8
-咪咕体育4K,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
+咪咕体育4KHLG,http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
 华数4K电影,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
@@ -264,10 +254,11 @@ SiTV欢笑剧场4K,http://[2409:8087:5e08:24::12]:6610/000000001000/200000000200
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 百事通4K电影,https://stream.freetv.fun/b5f7a146fb28515e6f53c350a2e171eaa478a836dd84159139ef9b5b52a735d9.ctv
 百事通4K儿童,https://stream.freetv.fun/094c86529d6c72bc574cd30a7168be319d29ab933b0526507868b846a66f971c.ctv
-彼岸KARA,https://live.metshop.top/douyu/40471
+彼岸KARA 4K,https://live.metshop.top/douyu/40471
 
 
 数字频道,#genre#
+HOT综艺娱乐,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000013
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
@@ -279,7 +270,7 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 北京卡酷少儿,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
 动漫秀场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031113
 金鹰卡通,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
-金鹰卡通,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
 黑莓动画,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
@@ -294,12 +285,15 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 求索记录,http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
 求索科学,http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no
 求索生活,http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=no
-求索动物,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
-求索记录,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
-求索科学,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
-求索生活,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/index.m3u8
-HOT综艺娱乐,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000013
-
+求索动物,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
+求索记录,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
+求索科学,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
+求索生活,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
+FashionTV EU「时尚」,https://stream.freetv.fun/fashiontv-asia-1.m3u8  
+FashionTV EU「时尚」,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+FashionTV EU「时尚」,https://stream.freetv.fun/016e9d73d68c84070ece9dfc1c7278c279fb6653e6a29a20d39b1e83255b51b1.m3u8
+FashionTV EU「时尚」,https://stream.freetv.fun/4e395d34efc0b5fc235bdc6b10af4eb07a0e2e8669ad4a22bafd355aac511ba5.m3u8
+FashionTV EN「时尚」,https://stream.freetv.fun/8fb0f2a610c7b494a5f64f2798a0fabce11172b52908ae9ea213184c3cb1c9d9.ctv
 
 
 
@@ -870,4 +864,149 @@ S3.10,https://v.cdnlz20.com/20240428/6190_6edf0839/index.m3u8
 「韩」太妍32,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240130092025.mp4
 「韩」太妍33,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240478207039.mp4
 
+_9999,#genre#
+限制级电影,http://cdn.adultiptv.net/blonde.m3u8?streamType=liv
+俄罗斯5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+俄罗斯4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+俄罗斯3台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+俄罗斯2台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+俄罗斯1台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+一本欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
+二本欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
+k频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+松视3欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
+松视3欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8 
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+粉台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
+二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
+Adult IPTV (18+),http://cdn.adultiptv.net/bigass.m3u8
+一本欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+俄罗斯4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+俄罗斯5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+卫星机房专用30,http://194.116.150.47:1935/vxtv/live_720p/chunklist_w1156491225.m3u8
+卫星机房专用36,http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
+迈阿密电,http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
+迈阿密电,http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
+迈阿密电,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+迈阿密电,http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
+迈阿密电,http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
+松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+俄罗斯4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+一本欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
+粉台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+俄罗斯3台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+夜1,http://live.redtraffic.xyz:80/interracial.m3u8
+午夜2,http://live.redtraffic.xyz:80/bigtits.m3u8
+午夜3,http://live.redtraffic.xyz:80/threesome.m3u8
+午夜4,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+午夜5,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+午夜6,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+午夜6,http://cdn.adultiptv.net/lesbian.m3u8
+午夜7,http://live.redtraffic.xyz:80/teen.m3u8
+午夜8,http://live.redtraffic.xyz:80/pornstar.m3u8
+午夜8,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+午夜9,http://live.redtraffic.xyz:80/milf.m3u8
+午夜9,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+午夜10,http://live.redtraffic.xyz:80/cuckold.m3u8
+
+BigAss,http://cdn.adultiptv.net/bigass.m3u8
+Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
+Brunette,http://cdn.adultiptv.net/brunette.m3u8
+Compilation,http://cdn.adultiptv.net/compilation.m3u8
+Fetish,http://cdn.adultiptv.net/fetish.m3u8
+Gay,http://cdn.adultiptv.net/gay.m3u8
+LiveCams,http://cdn.adultiptv.net/livecams.m3u8
+PornStar,http://cdn.adultiptv.net/pornstar.m3u8
+POV,http://cdn.adultiptv.net/pov.m3u8
+Rough,http://cdn.adultiptv.net/rough.m3u8
+Teen,http://cdn.adultiptv.net/teen.m3u8
+BigDick,http://live.redtraffic.xyz/bigdick.m3u8
+BigTits,http://live.redtraffic.xyz/bigtits.m3u8
+Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
+Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
+Threesome,http://live.redtraffic.xyz/threesome.m3u8
+heyzo-0705,https://fc.maa1808.com/e/hacddcsdtd/hacddcsdtd.m3u8
+carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
+carib-004,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
+carib-146,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
+carib-182,https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
+carib-206,https://fc.maa1808.com/d/oduhcvyunk/oduhcvyunk.m3u8
+carib-239,https://fc.maa1808.com/n/uvbinnjany/uvbinnjany.m3u8
+carib-288,https://fc.maa1808.com/m/jtzgqcaxvw/jtzgqcaxvw.m3u8
+carib-311,https://fc.maa1808.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
+carib-337,https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
+carib-339,https://fc.maa1808.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
+carib-363,https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
+carib-375,https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
+carib-375,https://fc.maa1808.com/n/qwpcalfmpo/qwpcalfmpo.m3u8
+carib-420,https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
+carib-431,https://fc.maa1808.com/d/jestvkpubl/jestvkpubl.m3u8
+carib-433,https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
+carib-449,https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
+carib-457,https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
+carib-474,https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
+carib-477,https://fc.maa1808.com/c/avmrmbmugl/avmrmbmugl.m3u8
+carib-478,https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
+carib-495,https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
+carib-531,https://fc.maa1808.com/n/cekgvsrnrr/cekgvsrnrr.m3u8
+carib-533,https://fc.maa1808.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
+carib-541,https://fc.maa1808.com/c/rhmiiydppe/rhmiiydppe.m3u8
+carib-563,https://fc.maa1808.com/f/pwkupqugdm/pwkupqugdm.m3u8
+carib-563,https://fc.maa1808.com/d/qscypinana/qscypinana.m3u8
+carib-589,https://fc.maa1808.com/n/okjmiigqsr/okjmiigqsr.m3u8
+carib-639,https://fc.maa1808.com/n/rpsqccbbug/rpsqccbbug.m3u8
+carib-665,https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
+carib-665,https://fc.maa1808.com/g/oplnohpsmh/oplnohpsmh.m3u8
+carib-674,https://fc.maa1808.com/g/jtlmkjipqv/jtlmkjipqv.m3u8
+carib-675,https://fc.maa1808.com/c/qmlpmophlh/qmlpmophlh.m3u8
+carib-710,https://fc.maa1808.com/h/mesmnroogk/mesmnroogk.m3u8
+carib-717,https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
+carib-744,https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
+carib-758,https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
+heyzo-1199,https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
+heyzo-1243,https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
+heyzo-1262,https://fc.maa1808.com/d/fhctzryess/fhctzryess.m3u8
+heyzo-1275,https://fc.maa1808.com/m/yifrmmuwzg/yifrmmuwzg.m3u8
+heyzo-1395,https://fc.maa1808.com/n/navpsngdew/navpsngdew.m3u8
+heyzo-1478,https://fc.maa1808.com/c/tbpdlnyuix/tbpdlnyuix.m3u8
+heyzo-1544,https://fc.maa1808.com/h/xfjsphiogs/xfjsphiogs.m3u8
+heyzo-1570,https://fc.maa1808.com/b/xisxqtvjhu/xisxqtvjhu.m3u8
+heyzo-1590,https://fc.maa1808.com/m/qyqycucecx/qyqycucecx.m3u8
+heyzo-1601,https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8
+heyzo-1638,https://fc.maa1808.com/n/hvxlbaoohy/hvxlbaoohy.m3u8
+heyzo-1691,https://fc.maa1808.com/d/gxoiwurbtv/gxoiwurbtv.m3u8
+heyzo-1722,https://fc.maa1808.com/f/xbztwfweja/xbztwfweja.m3u8
+heyzo-1786,https://fc.maa1808.com/b/ehazmnswdt/ehazmnswdt.m3u8
+pondo-273,https://fc.maa1808.com/g/pzvktykubw/pzvktykubw.m3u8
+pondo-311,https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
+pondo-350,https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
+pondo-366,https://fc.maa1808.com/c/wgucctcnwb/wgucctcnwb.m3u8
+pondo-419,https://fc.maa1808.com/b/ptytphcyus/ptytphcyus.m3u8
+pondo-450,https://fc.maa1808.com/f/omlrqipols/omlrqipols.m3u8
+pondo-488,https://fc.maa1808.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
+pondo-518,https://fc.maa1808.com/h/uglvzhiqwb/uglvzhiqwb.m3u8
+pondo-559,https://fc.maa1808.com/h/ibogkqnaah/ibogkqnaah.m3u8
+pondo-597,https://fc.maa1808.com/n/iqphtushdl/iqphtushdl.m3u8
+pondo-613,https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
+pondo-618,https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
+pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
+pondo-793,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
 
