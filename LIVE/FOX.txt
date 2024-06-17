@@ -244,7 +244,7 @@ FashionTV 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_he
 FashionTV 4K「时尚」,https://epg.pw/stream/65d726061b82da69b383f5403bb31b63aeefc60c1649a0c39d54a0eacc2e8c1a.m3u8
 FashionTV 4K「时尚」,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 咪咕体育4K高码,http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
-咪咕体育4K高码,https://stream.freetv.fun/e9e3eb597c57d0a699d033ed257686d7be2dd92ac7fe60cd8193757b192f1391.m3u8
+咪咕体育4K高码,https://stream.freetv.fun/c1129ed5abab44a8f34c35138e0ce5f113a9746e9a382f731f40588f3e3e8802.ctv
 咪咕体育4K高码,https://stream.freetv.fun/5ae380dc4b8fcace26f83564985e6466130914d2c9c7facd1f1d30835b7c0240.m3u8
 咪咕体育4KHLG,http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
