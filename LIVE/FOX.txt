@@ -125,16 +125,17 @@ CCTV-17农业农村,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980
 第一财经,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000027146
 第一财经,http://xxw.me0.cn/api/bestv.php?id=dycj
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰中文,http://113.64.145.126:8081/hls/37/index.m3u8
+凤凰中文,https://stream.freetv.fun/03fa44bc510bac215c386e4e02bb5ecf4236b348e53ff4e3f0b8bd721cbaf142.ctv
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
 凤凰中文,https://stream.freetv.fun/72d84f92913ca494af3fc278402cbc84cb371aa17c90b241c1f6f9c9db2fad8d.ctv
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://113.64.145.126:8081/hls/36/index.m3u8
+凤凰资讯,https://stream.freetv.fun/f7e68fd608138dfdaf65c123b8d96906a9b612e027b768b0f22473f43d2c2e4d.ctv
+凤凰资讯,https://stream.freetv.fun/ef8604e01a7fb4c5ca1c4ebd7d257a0eb177ed122ef87e1e565b3e3025e7d255.ctv
 凤凰资讯,https://stream.freetv.fun/6a18a5b48dd18355b53011a2ed5b8d9a3c044e189435f374f1fbe8d30dca0bf9.ctv
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
-凤凰香港,http://113.64.145.231:8081/hls/38/index.m3u8
+凤凰香港,https://stream.freetv.fun/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.ctv
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 
 TVB Plus频道,http://zsntlqj.xicp.net:8896/bysid/82.m3u8
@@ -211,9 +212,7 @@ Magic TV2,https://epg.pw/stream/9047d8261c167e35fbcb0aea5bd93c443572fbacc09e1c2c
 咪咕体育4*,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕体育5*,https://stream.freetv.fun/027a50ef187ea75792fd372df3cbbc7a2e9cf23d3e504ff2d44c0af3816f47fa.m3u8
 咪咕体育5*,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-咪咕体育6*,https://stream.freetv.fun/46ef4e8b0cfcf5d6ef3ebcc697e43faae4cc3991021049404a0b252dc8561f27.ctv
-咪咕体育7*,https://stream.freetv.fun/b96d5424df74f8d9e6323d986a7808b9311947450430ae11f8f4501eb9b58147.ctv
-咪咕体育8*,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+咪咕体育6*,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 
 篮球长镜头,https://epg.pw/stream/1ece6e27daea56c2563b94db8f5953e8d9c68a9b49044541f8ddb903a4e74ba2.ctv
 魅力足球,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
