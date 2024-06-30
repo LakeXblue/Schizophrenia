@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="CCTV",CCTV-8K 超高清 HLG
 https://tv.cry33.com/ys4k.php?id=8k#https://tv.cry33.com/ys4k.php?id=8k25
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="CCTV",CCTV-8K 超高清 HLG 120M
-http://113.207.38.119/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="CCTV",CCTV-4K 超高清 HLG
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="CCTV",CCTV16 4K HLG
