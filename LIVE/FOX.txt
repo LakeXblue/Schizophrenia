@@ -1,9 +1,10 @@
 CCTV,#genre#
 CCTV-8K超高清,https://tv.cry33.com/ys4k.php?id=8k#https://tv.cry33.com/ys4k.php?id=8k25
-CCTV-8K超高清 120M,http://27.222.3.214/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
+CCTV-8K超高清 120M,http://113.207.38.119/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
 CCTV-4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-4K超高清,https://stream1.freetv.fun/ce32a55eb347ed4c31cc8242938adc53b38f9ad5746980dd65964b84f1c6d32f.ctv
 CCTV16 4K,https://tv.cry33.com/ys4k.php?id=16-4k
+CCTV16 4K,https://stream1.freetv.fun/2ed90371e0a6472f6228cfcde8f8a2837d55f161e7a8660d960bfd22c452dd43.ctv
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
