@@ -1,4 +1,6 @@
 CCTV,#genre#
+CCTV-8K超高清 30m,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
+CCTV-8K超高清 30m,http://113.207.38.119/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
 CCTV-8K超高清,https://tv.cry33.com/ys4k.php?id=8k#https://tv.cry33.com/ys4k.php?id=8k25
 CCTV-8K超高清 120M,http://113.207.38.119/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
 CCTV-4K超高清,https://pi.0472.org/itv/ys4Kcq_2000.m3u8
