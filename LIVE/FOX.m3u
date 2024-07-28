@@ -558,6 +558,25 @@ https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
 #EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="数字频道",FashionTV IU「时尚」
 https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/stream.m3u8
 
+#华数
+#EXTINF:-1 tvg-id="Hot高清娱乐" tvg-name="Hot高清娱乐" tvg-logo="http://epg.hackserver.net/logo/HOT.png" group-title="华数",Hot高清娱乐
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="Hot风尚音乐" tvg-name="Hot风尚音乐" tvg-logo="http://epg.hackserver.net/logo/HOT.png" group-title="华数",Hot风尚音乐
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="Hot精品剧场" tvg-name="Hot精品剧场" tvg-logo="http://epg.hackserver.net/logo/HOT.png" group-title="华数",Hot精品剧场
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="Hot亚洲影院" tvg-name="Hot亚洲影院" tvg-logo="http://epg.hackserver.net/logo/HOT.png" group-title="华数",Hot亚洲影院
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="Hot欧美影院" tvg-name="Hot欧美影院" tvg-logo="http://epg.hackserver.net/logo/HOT.png" group-title="华数",Hot欧美影院
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="Hot少儿动漫" tvg-name="Hot少儿动漫" tvg-logo="http://epg.hackserver.net/logo/HOT.png" group-title="华数",Hot少儿动漫
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="Hot电子竞技" tvg-name="Hot电子竞技" tvg-logo="http://epg.hackserver.net/logo/HOT.png" group-title="华数",Hot电子竞技
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="Hot炫动3D" tvg-name="Hot炫动3D" tvg-logo="http://epg.hackserver.net/logo/HOT.png" group-title="华数",Hot炫动3D
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228578/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="Hot漫游世界" tvg-name="Hot漫游世界" tvg-logo="http://epg.hackserver.net/logo/HOT.png" group-title="华数",Hot漫游世界
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/01.m3u8?fmt=ts2hls
 
 
 #NewTV

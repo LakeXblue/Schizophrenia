@@ -338,6 +338,17 @@ FashionTV EN「时尚」,https://fashs043.cloudycdn.services/scte/africa/playlis
 FashionTV IN「时尚」,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
 FashionTV IU「时尚」,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/stream.m3u8
 
+华数,#genre#
+Hot高清娱乐,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/01.m3u8?fmt=ts2hls
+Hot风尚音乐,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/01.m3u8?fmt=ts2hls
+Hot精品剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls
+Hot亚洲影院,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/01.m3u8?fmt=ts2hls
+Hot欧美影院,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
+Hot少儿动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/01.m3u8?fmt=ts2hls
+Hot电子竞技,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572/01.m3u8?fmt=ts2hls
+Hot炫动3D,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228578/01.m3u8?fmt=ts2hls
+Hot漫游世界,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/01.m3u8?fmt=ts2hls
+
 
 NewTv,#genre#
 NewTv超级电视剧,http://gslbservzqhsw.itv.cmvideo.cn/1000000006000268003/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=3
