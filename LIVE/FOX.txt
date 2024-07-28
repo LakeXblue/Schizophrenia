@@ -3,10 +3,10 @@ CCTV-8K超高清 30m,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K36M/playlis
 CCTV-8K超高清 30m,http://113.207.38.119/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
 CCTV-8K超高清,https://tv.cry33.com/ys4k.php?id=8k#https://tv.cry33.com/ys4k.php?id=8k25
 CCTV-8K超高清 120M,http://113.207.38.119/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
+CCTV-4K超高清,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/01.m3u8?fmt=ts2hls
 CCTV-4K超高清,https://pi.0472.org/itv/ys4Kcq_2000.m3u8
 CCTV-4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-4K超高清,http://113.207.38.119/liveali-tp4k.cctv.cn/live/4K0219.stream/playlist.m3u8
-CCTV-4K超高清,https://stream1.freetv.fun/ce32a55eb347ed4c31cc8242938adc53b38f9ad5746980dd65964b84f1c6d32f.ctv
 CCTV16 4K,http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV16 4K,https://tv.cry33.com/ys4k.php?id=16-4k
 CCTV16 4K,https://stream1.freetv.fun/8dcce62b7895de90709f8d2860001f0880a7841e2f1a2f4b52856dd54af8ecb8.ctv
@@ -57,17 +57,17 @@ CCTV世界地理,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380
 CCTV央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
 CCTV高尔夫网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 
-CCTV怀旧剧场,https://stream1.freetv.fun/08ba65280e07110d59f6ea2981f1b528c928551817c8dcc33c8e0e8a52f3b16f.m3u8
+CCTV怀旧剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.252:6430
 CCTV世界地理,http://222.241.144.214:8888/udp/239.76.254.57:9000
-CCTV文化精品,https://epg.pw/stream/70666105717759ad2b87b61789ef3e4ef7aad472a2adc319c102e6488cbc70ad.ctv
+CCTV文化精品,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.175:6439
 CCTV央视台球,http://222.241.144.214:8888/udp/239.76.254.58:9000
 CCTV高尔夫网球,http://222.241.144.214:8888/udp/239.76.254.62:9000
-CCTV风云剧场,https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b04001f0e77cb0c2a88830bf.ctv
+CCTV风云剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.251:6429
 CCTV第一剧场,http://222.241.144.214:8888/udp/239.76.254.49:9000
 CCTV风云足球,http://222.241.144.214:8888/udp/239.76.254.52:9000
-CCTV电视指南,https://epg.pw/stream/9e948bbd5453affbe5fe879bc1c4145203aac9b993b01e7db9b1148e40815499.m3u8
-CCTV风云音乐,https://stream1.freetv.fun/d112994c6f942c2812a9dfc4132bebf620959d2179d54758cc2b0b8590b7c77c.m3u8
-CCTV女性时尚,https://stream1.freetv.fun/12dcbe703f53014039e023a39492154b9a9004d8a80a030c8094c6e734ca739d.m3u8
+CCTV电视指南,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.249:6427
+CCTV风云音乐,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.253:6431
+CCTV女性时尚,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.144:6114
 CCTV兵器科技,http://222.241.144.214:8888/udp/239.76.254.59:9000
 
 
@@ -109,6 +109,20 @@ CCTV-14少儿,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980001020
 CCTV-15音乐,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8
 CCTV-16奥林匹克,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8
 CCTV-17农业农村,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
+
+央视风云.江西移动,#genre#
+CCTV第一剧场,http://39.135.140.104:6610/PLTV/88888888/224/3221226284/2/index.m3u8
+CCTV风云剧场,http://39.135.140.104:6610/PLTV/88888888/224/3221226315/2/index.m3u8
+CCTV怀旧剧场,http://39.135.140.104:6610/PLTV/88888888/224/3221226318/2/index.m3u8
+CCTV世界地理,http://39.135.140.104:6610/PLTV/88888888/224/3221226290/2/index.m3u8
+CCTV兵器科技,http://39.135.140.104:6610/PLTV/88888888/224/3221226321/2/index.m3u8
+CCTV风云音乐,http://39.135.140.104:6610/PLTV/88888888/224/3221226287/2/index.m3u8
+CCTV风云足球,http://39.135.140.104:6610/PLTV/88888888/224/3221226302/2/index.m3u8
+CCTV央视台球,http://39.135.140.104:6610/PLTV/88888888/224/3221226339/2/index.m3u8
+CCTV文化精品,http://39.135.140.104:6610/PLTV/88888888/224/3221226296/2/index.m3u8
+CCTV高尔夫网球,http://39.135.140.104:6610/PLTV/88888888/224/3221226299/2/index.m3u8
+CCTV女性时尚,http://39.135.140.104:6610/PLTV/88888888/224/3221226293/2/index.m3u8
+CCTV电视指南,http://39.135.140.104:6610/PLTV/88888888/224/3221226359/2/index.m3u8
 
 
 
@@ -155,10 +169,11 @@ CCTV-17农业农村,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980
 第一财经,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000027146
 第一财经,http://xxw.me0.cn/api/bestv.php?id=dycj
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰中文,https://stream1.freetv.fun/fe3d3346f748e4ec230691be958aff27e91c225b43b5855685cd1fbe79c56f60.ctv
+凤凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
 凤凰中文,https://stream.freetv.fun/72d84f92913ca494af3fc278402cbc84cb371aa17c90b241c1f6f9c9db2fad8d.ctv
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
 凤凰资讯,https://stream1.freetv.fun/5d7829f1e2f83754bf297d6f0876f1a859e5b39bc9d000e4d1041c2a44340812.ctv
 凤凰资讯,https://stream1.freetv.fun/ef8604e01a7fb4c5ca1c4ebd7d257a0eb177ed122ef87e1e565b3e3025e7d255.ctv
 凤凰资讯,https://stream.freetv.fun/6a18a5b48dd18355b53011a2ed5b8d9a3c044e189435f374f1fbe8d30dca0bf9.ctv
@@ -274,8 +289,7 @@ FashionTV 4K「时尚」,http://fash2043.cloudycdn.services//slive/_definst_/ftv
 纯享4K,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
 纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
 华数4K电影,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
-SiTV欢笑剧场4K,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-SiTV欢笑剧场4K,http://gslbservzqhsw.itv.cmvideo.cn/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
+SiTV欢笑剧场4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/1/index.m3u8?fmt=ts2hls
 北京纪实8K,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031204/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031204
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 彼岸KARA 4K,https://live.metshop.top/douyu/40471
@@ -286,6 +300,8 @@ HOT综艺娱乐,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
+SiTV欢笑剧场,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+SiTV欢笑剧场,http://gslbservzqhsw.itv.cmvideo.cn/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
 都市剧场,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
 都市剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
 都市剧场,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -317,9 +333,10 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 数字电影1,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 数字电影2,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 FashionTV EU「时尚」,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-FashionTV EU「时尚」,https://stream1.freetv.fun/e1bfde7671b19a3cd26cfe0ad3ea9c5c56f6c2bb042cbad06c5ea30c428e04ab.m3u8
-FashionTV EN「时尚」,https://stream1.freetv.fun/f20956a125c9670ce154f5a62ba3bb860ab730738d62802d10304205da690f83.m3u8
-
+FashionTV EU「时尚」,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+FashionTV EN「时尚」,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+FashionTV IN「时尚」,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
+FashionTV IU「时尚」,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/stream.m3u8
 
 
 NewTv,#genre#
@@ -653,6 +670,7 @@ S3.10,https://v.cdnlz20.com/20240428/6190_6edf0839/index.m3u8
 「中」林忆莲-匆匆,http://em.21dtv.com/songs/60013474.mkv
 「中」李丽芬-得意的笑,http://vdown.kuwo.cn/resource//t4/22/49/ZAlSw_dVq1Q.mp4
 「中」邓丽君-漫步人生路,http://em.21dtv.com/songs/60028564.mkv
+「中」毛不易-给你给我,https://vdse.bdstatic.com//4d056936c317b35f886ced83147ad7e8.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A42%3A28Z%2F-1%2Fhost%2F13c0f2dda852b6fdbcd7422de8ac3a48437304b4c38728deeedb6558c47a9eb9
 「中」王菲-致青春,https://vdse.bdstatic.com//92462d18aa23857958610347a6aafa90.mp4
 「中」张惠妹-别在伤口撒盐,http://vodcdn.video.taobao.com/oss/ali-video/5997fdd5c8b241b7b2995ae6da3bc8f8/1458294379/video.m3u8.m3u8
 「中」张惠妹-听海,http://vodcdn.video.taobao.com/oss/ali-video/c105aa7685c54fbfa74b92e8cc88a3e3/1457681472/video.m3u8.m3u8
