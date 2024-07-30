@@ -441,7 +441,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/1/index.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="4K频道",北京纪实8K
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031204/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031204
 #EXTINF:-1 tvg-id="彼岸KARA" tvg-name="彼岸KARA" tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="4K频道",彼岸KARA 4K
-https://live.metshop.top/douyu/40471?cdn=txcdn
+http://159.75.85.63:35455/douyu/40471?cdn=txcdn
 
 
 
@@ -952,7 +952,7 @@ http://live.iill.top/douyu.php?id=3870925
 #EXTINF:-1 group-title="斗鱼点播",彼岸D3点歌🍁
 http://live.iill.top/douyu.php?id=8189873
 #EXTINF:-1 group-title="斗鱼点播",彼岸D4点歌🍁
-http://live.iill.top/douyu.php?id=8266799
+http://159.75.85.63:35455/douyu/8266799?cdn=txcdn
 
 #EXTINF:-1 group-title="斗鱼点播",吃米滴虫✔原
 http://live.iill.top/douyu.php?id=315457
