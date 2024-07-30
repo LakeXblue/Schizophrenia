@@ -289,7 +289,7 @@ FashionTV 4K「时尚」,http://fash2043.cloudycdn.services//slive/_definst_/ftv
 SiTV欢笑剧场4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/1/index.m3u8?fmt=ts2hls
 北京纪实8K,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031204/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031204
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-彼岸KARA 4K,http://live.iill.top/douyu.php?id=40471
+彼岸KARA 4K,https://live.metshop.top/douyu/40471?cdn=txcdn
 
 
 数字频道,#genre#
@@ -308,12 +308,9 @@ SiTV欢笑剧场,http://gslbservzqhsw.itv.cmvideo.cn/5000000002000009455/index.m
 都市剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
 都市剧场,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 精彩影视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
-新视觉,http://171.208.14.218:9090/live/xsjhd/hls.m3u8
-北京卡酷少儿,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010081/1.m3u8
-北京卡酷少儿,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
+北京卡酷少儿,[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 动漫秀场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031113
-金鹰卡通,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
-金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+金鹰卡通,http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
 黑莓动画,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
@@ -321,8 +318,6 @@ SiTV欢笑剧场,http://gslbservzqhsw.itv.cmvideo.cn/5000000002000009455/index.m
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 乐游,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 纪实人文,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-金鹰纪实,http://58.19.38.162:9901/tsfile/live/1032_1.m3u8
-佛卫慈悲,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 求索动物,http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=no
 求索记录,http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
 求索科学,http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no
@@ -339,16 +334,6 @@ FashionTV EN「时尚」,https://fashs043.cloudycdn.services/scte/africa/playlis
 FashionTV IN「时尚」,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
 FashionTV IU「时尚」,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/stream.m3u8
 
-华数,#genre#
-Hot高清娱乐,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/01.m3u8?fmt=ts2hls
-Hot风尚音乐,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/01.m3u8?fmt=ts2hls
-Hot精品剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls
-Hot亚洲影院,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/01.m3u8?fmt=ts2hls
-Hot欧美影院,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
-Hot少儿动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/01.m3u8?fmt=ts2hls
-Hot电子竞技,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572/01.m3u8?fmt=ts2hls
-Hot炫动3D,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228578/01.m3u8?fmt=ts2hls
-Hot漫游世界,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/01.m3u8?fmt=ts2hls
 
 
 NewTv,#genre#
@@ -414,6 +399,18 @@ IHOT爱喜剧,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400
 IHOT爱悬疑,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000036
 IHOT爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000034
 
+华数,#genre#
+Hot高清娱乐,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/01.m3u8?fmt=ts2hls
+Hot风尚音乐,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/01.m3u8?fmt=ts2hls
+Hot精品剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls
+Hot亚洲影院,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/01.m3u8?fmt=ts2hls
+Hot欧美影院,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
+Hot少儿动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/01.m3u8?fmt=ts2hls
+Hot电子竞技,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572/01.m3u8?fmt=ts2hls
+Hot炫动3D,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228578/01.m3u8?fmt=ts2hls
+Hot漫游世界,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/01.m3u8?fmt=ts2hls
+
+
 百视ʰ,#genre#
 华语影院,http://118.112.148.228:4022/rtp/239.93.0.138:5140?Cf=cfss.cc
 青春动漫,http://118.112.148.228:4022/rtp/239.93.0.146:5140?Cf=cfss.cc
@@ -460,7 +457,7 @@ IHOT爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400
 血色浪漫,http://live.iill.top/yy.php?id=1354926676
 鬼吹灯,https://epg.pw/stream/88fd55cb4bd809a7f5e29ba31a1cad7396a5f1ea128a8ce6458d7be306d34b53.ctv
 鬼吹灯之怒晴湘西,http://159.75.85.63:35455/huya/11602075?cdn=txcdn
-鬼吹灯之龙岭迷窟,http://159.75.85.63:35455/huya/29465863?cdn=hscdn
+鬼吹灯之龙岭迷窟,http://159.75.85.63:35455/huya/29465863?cdn=txcdn
 鬼吹灯之云南虫谷,http://159.75.85.63:35455/huya/11352898?cdn=txcdn
 鬼吹灯之昆仑神宫,http://159.75.85.63:35455/huya/11601957?cdn=txcdn
 鬼吹灯之南海归墟,http://159.75.85.63:35455/huya/11352883?cdn=txcdn
@@ -606,7 +603,7 @@ YY电影-欧美科幻,http://live.iill.top/yy.php?id=37988782
 治愈放松🍁,http://live.iill.top/huya.php?id=21241811
 周杰伦点歌台🍁,http://live.iill.top/douyu.php?id=7537296
 音乐喵点歌🍁,http://live.iill.top/douyu.php?id=3870925
-彼岸D3点歌🍁,http://live.iill.top/douyu.php?id=8189873
+彼岸D3点歌🍁,https://live.metshop.top/douyu/8189873
 彼岸D4点歌🍁,http://live.iill.top/douyu.php?id=8266799
 
 
@@ -617,8 +614,9 @@ YY电影-欧美科幻,http://live.iill.top/yy.php?id=37988782
 瑶瑶恐怖✔原,http://live.iill.top/douyu.php?id=2935323
 怡寶影院✔原,http://live.iill.top/douyu.php?id=434971
 萌小鬼片✔原,http://live.iill.top/douyu.php?id=3928
-神乐剧场✔原,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-神乐剧院✔原,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+小白剧场✔原,http://live.iill.top/douyu.php?id=322360
+神乐剧院✔原,http://live.iill.top/douyu.php?id=36337
+天空60帧✔原,http://live.iill.top/douyu.php?id=12143022
 小宇60帧✔原,http://live.iill.top/douyu.php?id=323876
 恐怖惊悚✔原,http://live.iill.top/douyu.php?id=96577
 電影劇場✔原,http://live.iill.top/douyu.php?id=7575350
