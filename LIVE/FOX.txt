@@ -1,15 +1,12 @@
 CCTV,#genre#
-CCTV-8K超高清 30m,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
-CCTV-8K超高清 30m,http://113.207.38.119/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
-CCTV-8K超高清 30m,https://stream1.freetv.fun/0d8f448dd2a81cd9017b6492abb8ca260442992e276e98b60144f7886698f5f9.ctv
-CCTV-8K超高清,https://tv.cry33.com/ys4k.php?id=8k#https://tv.cry33.com/ys4k.php?id=8k25
-CCTV-8K超高清 120M,http://113.207.38.119/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
-CCTV-4K超高清,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/01.m3u8?fmt=ts2hls
-CCTV-4K超高清,https://pi.0472.org/itv/ys4Kcq_2000.m3u8
+CCTV-8K超高清 HLG 30M,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
+CCTV-8K超高清 HLG 30M,http://113.207.38.119/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
+CCTV-8K超高清 HLG 30M,https://stream1.freetv.fun/0d8f448dd2a81cd9017b6492abb8ca260442992e276e98b60144f7886698f5f9.ctv
+CCTV-8K超高清 HLG 120M,http://113.207.38.119/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
+CCTV-4K超高清 HLG 30M,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/01.m3u8?fmt=ts2hls
 CCTV-4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-4K超高清,http://113.207.38.119/liveali-tp4k.cctv.cn/live/4K0219.stream/playlist.m3u8
 CCTV16 4K,http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
-CCTV16 4K,https://tv.cry33.com/ys4k.php?id=16-4k
 CCTV16 4K,https://stream1.freetv.fun/8dcce62b7895de90709f8d2860001f0880a7841e2f1a2f4b52856dd54af8ecb8.ctv
 CCTV16 4K,https://stream1.freetv.fun/229fd5416853751adcbeebda2cee56107d727d320369d6d7d4f4d7e17eeca244.m3u8
 
@@ -89,7 +86,7 @@ CCTV-14少儿,http://171.110.10.10:8181/tsfile/live/1026_1.m3u8
 CCTV-15音乐,http://171.110.10.10:8181/tsfile/live/1025_1.m3u8
 CCTV-16,https://stream1.freetv.fun/75ea2ba5c8e205ed60b191cf2b54e1ad628d19f0fba17b787305f98ab2be17cc.m3u8
 CCTV-17农业农村,http://171.110.10.10:8181/tsfile/live/1029_1.m3u8
-CCTV-4K超高清,http://159.75.85.63:5679/cctv4k.php
+
 
 CCTV-1综合,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
 CCTV-2财经,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
@@ -113,6 +110,9 @@ CCTV-17农业农村,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980
 CHC家庭影院,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226319/2/index.m3u8
 CHC动作电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226308/2/index.m3u8
 CHC影迷电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226305/2/index.m3u8
+
+畅享影院,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226300/2/index.m3u8
+
 CCTV第一剧场,http://39.135.140.104:6610/PLTV/88888888/224/3221226284/2/index.m3u8
 CCTV风云剧场,http://39.135.140.104:6610/PLTV/88888888/224/3221226315/2/index.m3u8
 CCTV怀旧剧场,http://39.135.140.104:6610/PLTV/88888888/224/3221226318/2/index.m3u8
