@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="CCTV",CCTV-8K 超高清 HLG
 https://stream1.freetv.fun/0d8f448dd2a81cd9017b6492abb8ca260442992e276e98b60144f7886698f5f9.ctv
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="CCTV",CCTV-8K 超高清 HDR10 120M
-http://113.207.38.119/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="CCTV",CCTV-4K 超高清 HLG
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV",CCTV16 4K 50P
@@ -76,13 +76,13 @@ http://171.110.10.10:8181/tsfile/live/1098_1.m3u8
 
 #CCTV备用
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="CCTV备用",CCTV-8K 超高清 HLG 30m 
-http://113.207.38.119/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="CCTV备用",CCTV-8K 超高清 HLG 30m
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="CCTV备用",CCTV-4K 超高清 HLG
-http://113.207.38.119/liveali-tp4k.cctv.cn/live/4K0219.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="CCTV备用",CCTV-8K 超高清 HLG 30m
+http://113.207.38.119/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="CCTV备用",CCTV-4K 超高清 HLG
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8 
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="CCTV备用",CCTV-4K 超高清 HLG
+http://113.207.38.119/liveali-tp4k.cctv.cn/live/4K0219.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV备用",CCTV16 4K 25P
 https://stream1.freetv.fun/229fd5416853751adcbeebda2cee56107d727d320369d6d7d4f4d7e17eeca244.m3u8
 
