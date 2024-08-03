@@ -1,9 +1,9 @@
 CCTV,#genre#
-CCTV-8K超高清 HLG 30M,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
-CCTV-8K超高清 HLG 30M,http://113.207.38.119/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
-CCTV-8K超高清 HLG 30M,https://stream1.freetv.fun/0d8f448dd2a81cd9017b6492abb8ca260442992e276e98b60144f7886698f5f9.ctv
+CCTV-8K超高清 HLG 36M,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
+CCTV-8K超高清 HLG 36M,http://113.207.38.119/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
+CCTV-8K超高清 HLG 36M,https://stream1.freetv.fun/0d8f448dd2a81cd9017b6492abb8ca260442992e276e98b60144f7886698f5f9.ctv
 CCTV-8K超高清 HDR10 120M,http://27.222.3.214/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
-CCTV-4K超高清 HLG 30M,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/01.m3u8?fmt=ts2hls
+CCTV-4K超高清 HLG 36M,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/01.m3u8?fmt=ts2hls
 CCTV-4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-4K超高清,http://113.207.38.119/liveali-tp4k.cctv.cn/live/4K0219.stream/playlist.m3u8
 CCTV16 4K,http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
