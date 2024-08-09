@@ -77,13 +77,13 @@ http://171.110.10.10:8181/tsfile/live/1098_1.m3u8
 
 #央视代理HLG
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视代理HLG",CCTV-8K* AVS3 HDR10 120M
-http://localhost:8001/ysp.php/playlist.m3u8?id=cctv8k_120m.m3u8
+http://localhost:8001/lsp.php/playlist.m3u8?id=cctv8k_120m.m3u8
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视代理HLG",CCTV-8K* HLG 36M
-http://localhost:8001/ysp.php/playlist.m3u8?id=cctv8k_36m.m3u8
+http://localhost:8001/lsp.php/playlist.m3u8?id=cctv8k_36m.m3u8
 #EXTINF:-1 tvg-id="CCTV4K"  tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视代理HLG",CCTV-4K* HLG 36M
-http://localhost:8001/ysp.php/playlist.m3u8?id=cctv4k_36m
+http://localhost:8001/lsp.php/playlist.m3u8?id=cctv4k_36m
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视代理HLG",CCTV-16 4K* HLG 36M
-http://localhost:8001/ysp.php/playlist.m3u8?id=cctv4k16_36m
+http://localhost:8001/lsp.php/playlist.m3u8?id=cctv4k16_36m
 
 
 #CCTV备用
