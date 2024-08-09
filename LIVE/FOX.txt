@@ -1,15 +1,19 @@
 CCTV,#genre#
 CCTV-8K超高清 HLG 36M,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
+CCTV-8K超高清 HLG 36M,http://tjzzz.top:36178/ysptp/cctv8k_36m.m3u8
 CCTV-8K超高清 HLG 36M,http://113.207.38.119/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
 CCTV-8K超高清 HLG 36M,https://stream1.freetv.fun/0d8f448dd2a81cd9017b6492abb8ca260442992e276e98b60144f7886698f5f9.ctv
 CCTV-8K超高清 HDR10 120M,http://27.222.3.214/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
+CCTV-8K超高清 HDR10 120M,http://tjzzz.top:36178/ysptp/cctv8k_120m.m3u8
 CCTV-4K超高清 HLG 36M,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/01.m3u8?fmt=ts2hls
+CCTV-4K超高清 HLG 36M,http://tjzzz.top:36178/ysptp/cctv4k.m3u8
 CCTV-4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-4K超高清,http://113.207.38.119/liveali-tp4k.cctv.cn/live/4K0219.stream/playlist.m3u8
-CCTV16 4K,http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
-CCTV16 4K,https://stream1.freetv.fun/8dcce62b7895de90709f8d2860001f0880a7841e2f1a2f4b52856dd54af8ecb8.ctv
-CCTV16 4K,https://stream1.freetv.fun/229fd5416853751adcbeebda2cee56107d727d320369d6d7d4f4d7e17eeca244.m3u8
-CCTV16 4K.https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+CCTV16-4K超高清 HLG 36M,http://tjzzz.top:36178/ysptp/cctv4k16.m3u8
+CCTV16-4K,http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+CCTV16-4K,https://stream1.freetv.fun/8dcce62b7895de90709f8d2860001f0880a7841e2f1a2f4b52856dd54af8ecb8.ctv
+CCTV16-4K,https://stream1.freetv.fun/229fd5416853751adcbeebda2cee56107d727d320369d6d7d4f4d7e17eeca244.m3u8
+CCTV16-4K.https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 
 CCTV-1综合,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
 CCTV-2财经,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000023315/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
@@ -29,6 +33,25 @@ CCTV-14少儿,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000008170/index.m3u8
 CCTV-15音乐,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031109/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031109
 CCTV-16,http://gslbservzqhsw.itv.cmvideo.cn/1000000006000233002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3
 CCTV-17农业农村,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000268004
+
+
+CCTV-1综合,http://tjzzz.top:36178/ysptp/cctv1.m3u8
+CCTV-2财经,http://tjzzz.top:36178/ysptp/cctv2.m3u8
+CCTV-3综艺,http://tjzzz.top:36178/ysptp/cctv3.m3u8
+CCTV-4中文国际,http://tjzzz.top:36178/ysptp/cctv4.m3u8
+CCTV-5体育,http://tjzzz.top:36178/ysptp/cctv5.m3u8
+CCTV-5+体育赛事,http://tjzzz.top:36178/ysptp/cctv6.m3u8
+CCTV-7国防军事,http://tjzzz.top:36178/ysptp/cctv7.m3u8
+CCTV-8电视剧,http://tjzzz.top:36178/ysptp/cctv8.m3u8
+CCTV-9纪录,http://tjzzz.top:36178/ysptp/cctv9.m3u8
+CCTV-10科教,http://tjzzz.top:36178/ysptp/cctv10.m3u8
+CCTV-11戏曲,http://tjzzz.top:36178/ysptp/cctv11.m3u8
+CCTV-12社会与法,http://tjzzz.top:36178/ysptp/cctv12.m3u8
+CCTV-13新闻,http://tjzzz.top:36178/ysptp/cctv13.m3u8
+CCTV-14少儿,http://tjzzz.top:36178/ysptp/cctv14.m3u8
+CCTV-15音乐,http://tjzzz.top:36178/ysptp/cctv15.m3u8
+CCTV-16奥林匹克,http://tjzzz.top:36178/ysptp/cctv16.m3u8
+CCTV-17农业农村,http://tjzzz.top:36178/ysptp/cctv17.m3u8
 
 
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
