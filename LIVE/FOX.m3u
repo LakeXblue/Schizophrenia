@@ -81,7 +81,7 @@ http://localhost:8001/lsp.php/playlist.m3u8?id=cctv8k_120m
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视代理HLG",CCTV-8K* HLG 36M
 http://localhost:8001/lsp.php/playlist.m3u8?id=cctv8k_36m
 #EXTINF:-1 tvg-id="CCTV4K"  tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视代理HLG",CCTV-4K* HLG 36M
-http://localhost:8001/lsp.php/playlist.m3u8?id=cctv4k_36m
+http://localhost:8001/lsp.php?id=cctv4k_36m
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视代理HLG",CCTV-16 4K* HLG 36M
 http://192.168.50.213:8080/lsp.php?id=cctv4k16_36m
 
