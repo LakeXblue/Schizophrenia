@@ -77,15 +77,52 @@ http://171.110.10.10:8181/tsfile/live/1098_1.m3u8
 
 #央视代理HLG
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视代理HLG",CCTV-8K* AVS3 HDR10 120M
-http://localhost:8001/lsp.php/playlist.m3u8?id=cctv8k_120m
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv8k_120m
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视代理HLG",CCTV-8K* HLG 36M
-http://localhost:8001/lsp.php/playlist.m3u8?id=cctv8k_36m
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv8k_36m
 #EXTINF:-1 tvg-id="CCTV4K"  tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视代理HLG",CCTV-4K* HLG 36M
-http://localhost:8001/lsp.php/playlist.m3u8?id=cctv4k_36m
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv4k_36m
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视代理HLG",CCTV-16 4K* HLG 36M
 http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv4k16_36m
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视代理HLG",CCTV-1 
-http://localhost:8001/lsp.php/playlist.m3u8?id=cctv1_10m
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视代理HLG",CCTV-1 综合
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv1_10m
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视代理HLG",CCTV-2 财经
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv2_10m
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视代理HLG",CCTV-3 综艺
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv3_10m
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视代理HLG",CCTV-4 中文国际
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv4_10m
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视代理HLG",CCTV-5 体育
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv5_10m
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视代理HLG",CCTV-5+ 体育赛事
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv5p_10m
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视代理HLG",CCTV-6 电影
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv6_10m
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视代理HLG",CCTV-7 国防军事
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv7_10m
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视代理HLG",CCTV-8 电视剧
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv8_10m
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视代理HLG",CCTV-9 纪录
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv9_10m
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视代理HLG",CCTV-10 科教
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv10_10m
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视代理HLG",CCTV-11 戏曲
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv11_10m
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视代理HLG",CCTV-12 社会与法
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv12_10m
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视代理HLG",CCTV-13 新闻
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv13_10m
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视代理HLG",CCTV-14 少儿
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv14_10m
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视代理HLG",CCTV-15 音乐
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv15_10m
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视代理HLG",CCTV-16
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv16_10m
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视代理HLG",CCTV-17 农业农村
+http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv17_10m
+
+
+
 
 #CCTV备用
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="CCTV备用",CCTV-8K* HLG 36M
@@ -443,7 +480,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="4K频道",纯享4K
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="4K频道",爱上4K
-https://stream1.freetv.fun/062815831de8cfae6b32a07d1da16d2e63a85b28b86ca160e3baf59eccb4afac.ctv
+https://stream1.freetv.fun/410dd46f70a8513dd1b3e0918bd9a97be4130d0a7f4f2b4d8b7140a8322d5863.ctv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/huashu4k.png" group-title="4K频道",华数4K电影
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hxjc4k.png" group-title="4K频道",SiTV欢笑剧场4K
@@ -458,7 +495,7 @@ http://live.iill.top/douyu.php?id=40471
 #EXTINF:-1 tvg-id="" tvg-name="HOT高清娱乐" tvg-logo="https://live.fanmingming.com/tv/民视综艺台.png" group-title="数字频道",HOT综艺娱乐
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000013
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="数字频道",CHC动作电影
-http://123.10.79.77:808/hls/97/index.m3u8
+http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="数字频道",CHC家庭影院
 http://171.110.10.10:8181/tsfile/live/1056_1.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
