@@ -61,13 +61,13 @@ http://171.110.10.10:8181/tsfile/live/1106_1.m3u8
 http://58.19.38.162:9901/tsfile/live/1035_1.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="CCTV",CCTV风云足球
 http://58.19.38.162:9901/tsfile/live/1034_1.m3u8
-#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="http://epg.hackserver.net/logo/CCTV电视指南.png" group-title="CCTV",CCTV电视指南
-http://171.110.10.10:8181/tsfile/live/1099_1.m3u8
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="CCTV",CCTV风云音乐
 http://171.110.10.10:8181/tsfile/live/1110_1.m3u8
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="CCTV",CCTV女性时尚
 http://171.110.10.10:8181/tsfile/live/1103_1.m3u8
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="http://epg.hackserver.net/logo/CCTV兵器科技.png" group-title="CCTV",CCTV兵器科技
+#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVdszn.png" group-title="CCTV",CCTV电视指南
+http://171.110.10.10:8181/tsfile/live/1099_1.m3u8
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVbqkj.png" group-title="CCTV",CCTV兵器科技
 http://171.110.10.10:8181/tsfile/live/1098_1.m3u8
 
 #央视代理HLG
@@ -212,8 +212,6 @@ http://39.135.140.104:6610/PLTV/88888888/224/3221226284/2/index.m3u8
 http://39.135.140.104:6610/PLTV/88888888/224/3221226318/2/index.m3u8
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="中数.移动*",CCTV世界地理
 http://39.135.140.104:6610/PLTV/88888888/224/3221226290/2/index.m3u8
-#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.hackserver.net/logo/CCTV兵器科技.png" group-title="中数.移动*",CCTV兵器科技
-http://39.135.140.104:6610/PLTV/88888888/224/3221226321/2/index.m3u8
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="中数.移动*",CCTV风云音乐
 http://39.135.140.104:6610/PLTV/88888888/224/3221226287/2/index.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="中数.移动*",CCTV风云足球
@@ -226,9 +224,10 @@ http://39.135.140.104:6610/PLTV/88888888/224/3221226296/2/index.m3u8
 http://39.135.140.104:6610/PLTV/88888888/224/3221226299/2/index.m3u8
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="中数.移动*",CCTV女性时尚
 http://39.135.140.104:6610/PLTV/88888888/224/3221226293/2/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="电视指南" tvg-logo="http://epg.hackserver.net/logo/CCTV电视指南.png" group-title="中数.移动*",CCTV电视指南
+#EXTINF:-1 tvg-id="9" tvg-name="电视指南" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVdszn.png" group-title="中数.移动*",CCTV电视指南
 http://39.135.140.104:6610/PLTV/88888888/224/3221226359/2/index.m3u8
-
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVbqkj.png.png" group-title="中数.移动*",CCTV兵器科技
+http://39.135.140.104:6610/PLTV/88888888/224/3221226321/2/index.m3u8
 
 #卫视高清
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing.png" group-title="卫视高清",北京卫视
