@@ -472,7 +472,7 @@ http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000014/index.m3u8?
 http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000007000010001
 #EXTINF:-1 tvg-id="bestv4K" tvg-name="bestv4K" tvg-logo="http://epg.hackserver.net/logo/BesTV-4K.png" group-title="4K频道",BesTV 4K
 https://stream1.freetv.fun/44222ef77a9f33ce98b4551743ea66383aa7e0a99085fa35fc5fcbabfab0befe.ctv
-#EXTINF:-1 tvg-id="彼岸KARA" tvg-name="彼岸KARA" tvg-logo="http://epg.hackserver.net/logo/douyu.png" group-title="4K频道",彼岸KARA 4K
+#EXTINF:-1 tvg-id="彼岸KARA" tvg-name="彼岸KARA" tvg-logo="http://epg.hackserver.net/logo/douyu2.png" group-title="4K频道",彼岸KARA 4K
 http://live.iill.top/douyu.php?id=40471
 
 
