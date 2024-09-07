@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="http://epg.hackserver.net/e.xml.gz"
 
 #CCTV
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="CCTV",CCTV-8K* HLG 36M
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="CCTV",CCTV-8K HLG 36M
 http://27.222.3.220/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="CCTV",CCTV-8K* AVS3 HDR10 120M
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="CCTV",CCTV-8K AVS3 HDR10 120M
 http://27.222.3.220/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="CCTV",CCTV-4K 25P
 http://php.jdshipin.com/cqyx.php?id=CCTV4K
@@ -73,13 +73,13 @@ http://171.110.10.10:8181/tsfile/live/1099_1.m3u8
 http://171.110.10.10:8181/tsfile/live/1098_1.m3u8
 
 #央视代理HLG
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视代理HLG",CCTV-8K* AVS3 HDR10 120M
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="http://epg.hackserver.net/logo/CCTV-8K%20AVS3%20HDR10%20120M.png" group-title="央视代理HLG",CCTV-8K AVS3 HDR10 120M
 http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv8k_120m
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视代理HLG",CCTV-8K* HLG 36M
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="http://epg.hackserver.net/logo/CCTV-8K%20HLG%2036M.png" group-title="央视代理HLG",CCTV-8K HLG 36M
 http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv8k_36m
-#EXTINF:-1 tvg-id="CCTV4K"  tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视代理HLG",CCTV-4K* HLG 36M
+#EXTINF:-1 tvg-id="CCTV4K"  tvg-name="CCTV4K" tvg-logo="http://epg.hackserver.net/logo/CCTV-4K%20HLG%2036M.png" group-title="央视代理HLG",CCTV-4K HLG 36M
 http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv4k_36m
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视代理HLG",CCTV-16 4K* HLG 36M
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://epg.hackserver.net/logo/CCTV-16%204K%20HLG%2036M.png" group-title="央视代理HLG",CCTV-16 4K HLG 36M
 http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv4k16_36m
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视代理HLG",CCTV-1 综合
 http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv1_10m
