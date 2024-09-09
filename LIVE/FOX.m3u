@@ -79,7 +79,7 @@ http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv8k_120m
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="http://epg.hackserver.net/logo/CCTV-8K%20HLG%2036M.png" group-title="央视代理HLG",CCTV-8K HLG 36M
 http://192.168.50.213:5678/yysp-passthu.php?id=cctv8k36m|User-Agent="cctv_app_tv"|Referer="api.cctv.cn"| UID="42e4f5c90dc7f06a"
 #EXTINF:-1 tvg-id="CCTV4K"  tvg-name="CCTV4K" tvg-logo="http://epg.hackserver.net/logo/CCTV-4K%20HLG%2036M.png" group-title="央视代理HLG",CCTV-4K HLG 36M
-http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv4k_36m
+http://192.168.50.213:5678/yysp-passthu.php?id=cctv4k_36m
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://epg.hackserver.net/logo/CCTV-16%204K%20HLG%2036M.png" group-title="央视代理HLG",CCTV-16 4K HLG 36M
 http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv4k16_36m
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视代理HLG",CCTV-1 综合
