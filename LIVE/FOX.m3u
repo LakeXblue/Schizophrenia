@@ -301,15 +301,15 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="港澳.外语",第一财经
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="港澳.外语",凤凰中文 HD
-https://stream1.freetv.fun/1bf9d2ebaa26a15a494de81741a7152849efc490682e2f6e806f2e3ea170376f.ctv
+http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="港澳.外语",凤凰中文 FHD
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="港澳.外语",凤凰资讯 HD
-https://stream1.freetv.fun/b93e2b0c89780113e7b968411eec5c922ab70be9dd7cfbfc3bfdea379d38509d.ctv
+http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="港澳.外语",凤凰资讯 FHD
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" group-title="港澳.外语",凤凰香港 HD
-https://stream1.freetv.fun/700ea6400ee9b3b005ff77288979e7b1333837e2f1366bb27dacff11435cd72f.ctv
+http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" group-title="港澳.外语",凤凰香港 FHD
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
 #EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://live.fanmingming.com/tv/viutv6.png" group-title="港澳.外语",ViuTVsix
