@@ -163,8 +163,8 @@ TVB Plus,http://zsntlqj.xicp.net:8896/bysid/82.m3u8
 翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 明珠台,http://zsntlqj.xicp.net:8896/bysid/83
 半岛新闻「英语」,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
-半岛新闻「英语」,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛新闻「阿拉伯」,https://epg.pw/stream/bc588575cbb017bfbbee10c06ccd54fe2d1063a8a1fd0a8e0604159fe7cdf294.m3u8
+半岛新闻「英语」,http://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
+半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/01.m3u8?zshijd
 半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8

@@ -325,7 +325,7 @@ http://zsntlqj.xicp.net:8896/bysid/83.m3u8
 #EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="港澳.外语",半岛新闻「英语」
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 #EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="港澳.外语",半岛新闻「阿拉伯」
-https://epg.pw/stream/bc588575cbb017bfbbee10c06ccd54fe2d1063a8a1fd0a8e0604159fe7cdf294.m3u8
+http://live-hls-web-aja.getaj.net/AJA/01.m3u8?zshijd
 #EXTINF:-1 tvg-id="CNA" tvg-name="ChannelNewsAsia" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ChannelAsia.png" group-title="港澳.外语",CNA亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="朝鲜中央台"  tvg-name="朝鮮中央臺" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531163411079671_65.jpg" group-title="港澳.外语",朝鲜中央台
@@ -462,7 +462,7 @@ https://live.hkdvb.com/hls/live/31.m3u8?token=629921091289016
 https://live.hkdvb.com/hls/live/32.m3u8?token=629921091289016
 #EXTINF:-1 tvg-id="33" tvg-name="CCTV-1  港澳版" tvg-logo="https://live.hkdvb.com/static/logos/33.png" group-title="HKdvb", CCTV-1  港澳版[直播]
 https://live.hkdvb.com/hls/live/33.m3u8?token=629921091289016
-#EXTINF:-1 tvg-id="36" tvg-name="RTHK36" tvg-logo="https://live.hkdvb.com/static/logos/36.png" group-title="HKdvb", RTHK36[直播]
+#EXTINF:-1 tvg-id="36" tvg-name="RTHK36" tvg-logo="https://live.hkdvb.com/static/logos/36.png" group-title="HKdvb", RTHK36[直播]③④⑤⑥
 https://live.hkdvb.com/hls/live/36.m3u8?token=629921091289016
 
 
