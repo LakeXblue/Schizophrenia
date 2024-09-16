@@ -286,7 +286,7 @@ FashionTV 4K「时尚」,http://fash2043.cloudycdn.services//slive/_definst_/ftv
 欢笑剧场 4K,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000007000010001/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010001
 欢笑剧场 4K,http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000007000010001
 BesTV 4K,https://stream1.freetv.fun/44222ef77a9f33ce98b4551743ea66383aa7e0a99085fa35fc5fcbabfab0befe.ctv
-彼岸KARA 4K,https://live.metshop.top/douyu/40471?cdn=txcdn
+彼岸KARA 4K,http://live.iill.top/douyu.php?id=40471
 
 
 数字频道,#genre#
@@ -611,7 +611,7 @@ YY电影-欧美科幻,http://live.iill.top/yy.php?id=37988782
 治愈放松🍁,http://live.iill.top/huya.php?id=21241811
 周杰伦点歌台🍁,http://live.iill.top/douyu.php?id=7537296
 音乐喵点歌🍁,http://live.iill.top/douyu.php?id=3870925
-彼岸D3点歌🍁,https://live.metshop.top/douyu/8189873
+彼岸D3点歌🍁,http://live.iill.top/douyu.php?id=8189873
 彼岸D4点歌🍁,http://live.iill.top/douyu.php?id=8266799
 
 
