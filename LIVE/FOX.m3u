@@ -515,7 +515,7 @@ http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000014/index.m3u8
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000007000010001/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010001
 #EXTINF:-1 tvg-id="bestv4K" tvg-name="bestv4K" tvg-logo="http://epg.hackserver.net/logo/BesTV-4K.png" group-title="4K频道",BesTV 4K
 https://stream1.freetv.fun/44222ef77a9f33ce98b4551743ea66383aa7e0a99085fa35fc5fcbabfab0befe.ctv
-#EXTINF:-1 tvg-id="彼岸KARA" tvg-name="彼岸KARA" tvg-logo="http://epg.hackserver.net/logo/douyu2.png" group-title="4K频道",彼岸KARA 4K
+#EXTINF:-1 tvg-id="彼岸KARA" tvg-name="彼岸KARA" tvg-logo="http://epg.hackserver.net/logo/douyu2.png" group-title="4K频道",彼岸K-pop 4K
 http://live.iill.top/douyu.php?id=40471
 
 
@@ -1023,9 +1023,9 @@ http://live.iill.top/huya.php?id=21241811
 http://live.iill.top/douyu.php?id=7537296
 #EXTINF:-1 group-title="斗鱼点播",音乐喵点歌🍁
 http://live.iill.top/douyu.php?id=3870925
-#EXTINF:-1 group-title="斗鱼点播",彼岸D3点歌🍁
+#EXTINF:-1 group-title="斗鱼点播",K-pop D3点歌🍁
 http://live.iill.top/douyu.php?id=8189873
-#EXTINF:-1 group-title="斗鱼点播",彼岸D4点歌🍁
+#EXTINF:-1 group-title="斗鱼点播",K-pop D4点歌🍁
 http://live.iill.top/douyu.php?id=8266799
 #EXTINF:-1 group-title="斗鱼点播",吃米滴虫✔原
 http://live.iill.top/douyu.php?id=315457
