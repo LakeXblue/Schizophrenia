@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="http://epg.hackserver.net/e.xml.gz"
+#EXTM3U x-tvg-url="http://epg.hackserver.net/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
 
 #CCTV
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="CCTV",CCTV-4K 25P
