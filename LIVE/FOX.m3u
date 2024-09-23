@@ -75,9 +75,9 @@ http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv8k_36m
 #EXTINF:-1 tvg-id="CCTV4K"  tvg-name="CCTV4K" tvg-logo="http://epg.hackserver.net/logo/CCTV-4K%20HLG%2036M.png" group-title="央视代理HLG",CCTV-4K HLG 36M
 http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv4k_36m
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://epg.hackserver.net/logo/CCTV-16%204K%20HLG%2036M.png" group-title="央视代理HLG",CCTV-16 4K HLG 36M
-http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv4k16_36m
+http://lakeblue.dynv6.net:16666/lsp.php/playlist.m3u8?id=cctv4k16_36m
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视代理HLG",CCTV-1 综合
-http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv1_10m
+http://lakeblue.dynv6.net:16666/lsp.php/playlist.m3u8?id=cctv1_10m
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视代理HLG",CCTV-2 财经
 http://192.168.50.213:5678/lsp.php/playlist.m3u8?id=cctv2_10m
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视代理HLG",CCTV-3 综艺
