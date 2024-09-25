@@ -67,50 +67,50 @@ http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/nvxing/__op/default/__f/index
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVbqkj.png" group-title="CCTV",兵器科技 
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8?sig=4d985873c4610a45fbb66811ef76be08&ext_start_limit=1702893674&int_start_limit=1702893674&expires=1702893674&c=null
 
-#央视代理HLG
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="http://epg.hackserver.net/logo/CCTV-8K%20AVS3%20HDR10%20120M.png" group-title="央视代理HLG",CCTV-8K AVS3 HDR10 120M
+#央视HLG
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="http://epg.hackserver.net/logo/CCTV-8K%20AVS3%20HDR10%20120M.png" group-title="央视HLG",CCTV-8K AVS3 HDR10 120M
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv8k120m
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="http://epg.hackserver.net/logo/CCTV-8K%20HLG%2036M.png" group-title="央视代理HLG",CCTV-8K HLG 36M
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="http://epg.hackserver.net/logo/CCTV-8K%20HLG%2036M.png" group-title="央视HLG",CCTV-8K HLG 36M
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv8k36m
-#EXTINF:-1 tvg-id="CCTV4K"  tvg-name="CCTV4K" tvg-logo="http://epg.hackserver.net/logo/CCTV-4K%20HLG%2036M.png" group-title="央视代理HLG",CCTV-4K HLG 36M
+#EXTINF:-1 tvg-id="CCTV4K"  tvg-name="CCTV4K" tvg-logo="http://epg.hackserver.net/logo/CCTV-4K%20HLG%2036M.png" group-title="央视HLG",CCTV-4K HLG 36M
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv4k
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://epg.hackserver.net/logo/CCTV-16%204K%20HLG%2036M.png" group-title="央视代理HLG",CCTV-16 4K HLG 36M
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://epg.hackserver.net/logo/CCTV-16%204K%20HLG%2036M.png" group-title="央视HLG",CCTV-16 4K HLG 36M
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv4k16
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视代理HLG",CCTV-1 综合
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视HLG",CCTV-1 综合
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv1
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视代理HLG",CCTV-2 财经
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视HLG",CCTV-2 财经
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv2
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视代理HLG",CCTV-3 综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视HLG",CCTV-3 综艺
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv3
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视代理HLG",CCTV-4 中文国际
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视HLG",CCTV-4 中文国际
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv4
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视代理HLG",CCTV-5 体育
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视HLG",CCTV-5 体育
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv5
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视代理HLG",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视HLG",CCTV-5+ 体育赛事
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv5p
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视代理HLG",CCTV-6 电影
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视HLG",CCTV-6 电影
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv6
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视代理HLG",CCTV-7 国防军事
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视HLG",CCTV-7 国防军事
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv7
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视代理HLG",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视HLG",CCTV-8 电视剧
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视代理HLG",CCTV-9 纪录
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视HLG",CCTV-9 纪录
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv9
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视代理HLG",CCTV-10 科教
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视HLG",CCTV-10 科教
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv10
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视代理HLG",CCTV-11 戏曲
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视HLG",CCTV-11 戏曲
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv11
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视代理HLG",CCTV-12 社会与法
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视HLG",CCTV-12 社会与法
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv12
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视代理HLG",CCTV-13 新闻
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视HLG",CCTV-13 新闻
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv13
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视代理HLG",CCTV-14 少儿
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视HLG",CCTV-14 少儿
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv14
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视代理HLG",CCTV-15 音乐
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视HLG",CCTV-15 音乐
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv15
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视代理HLG",CCTV-16 奥林匹克
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视HLG",CCTV-16 奥林匹克
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv16
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视代理HLG",CCTV-17 农业农村
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视HLG",CCTV-17 农业农村
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv17
 
 
