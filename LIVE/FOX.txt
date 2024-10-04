@@ -285,7 +285,7 @@ FashionTV 4K「时尚」,http://fash2043.cloudycdn.services//slive/_definst_/ftv
 欢笑剧场 4K,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000007000010001/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010001
 欢笑剧场 4K,http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000007000010001
 BesTV 4K,https://stream1.freetv.fun/44222ef77a9f33ce98b4551743ea66383aa7e0a99085fa35fc5fcbabfab0befe.ctv
-彼岸K-pop 4K,http://live.iill.top/douyu.php?id=40471
+彼岸K-pop 4K,https://tv.iill.top/douyu.php?id=40471
 
 
 数字频道,#genre#
@@ -441,26 +441,26 @@ IHOT爱体育,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 
 
 影.剧轮播,#genre#
-万合天宜,http://live.iill.top/douyu.php?id=9220456
-文西与阿漆,http://live.iill.top/douyu.php?id=8737695
-伪装者•胡歌,http://live.iill.top/yy.php?id=1354936244
-仙剑奇侠传•刘亦菲,http://live.iill.top/yy.php?id=1382749903
-新三国,http://live.iill.top/douyu.php?id=5908256
-新世界•孙红雷,http://live.iill.top/yy.php?id=1382736850
-红楼梦87经典版,http://live.iill.top/yy.php?id=1382745084
-纪晓岚,http://live.iill.top/yy.php?id=1354143978
-庆馀年,http://live.iill.top/huya.php?id=11352960
-欢乐颂,http://live.iill.top/yy.php?id=1382735624
-雪中悍刀行,http://live.iill.top/yy.php?id=1382660835
-白夜追凶,http://live.iill.top/yy.php?id=1354932359
-雍正王朝,http://live.iill.top/huya.php?id=11342439
-士兵突击,http://live.iill.top/huya.php?id=11342430
-爱情公寓,http://live.iill.top/huya.php?id=11336726
-家有儿女,http://live.iill.top/huya.php?id=11352872
-武林外传,http://live.iill.top/huya.php?id=21059598
-情满四合院,http://live.iill.top/huya.php?id=11342426
-天  道,http://live.iill.top/yy.php?id=1382735574
-血色浪漫,http://live.iill.top/yy.php?id=1354926676
+万合天宜,https://tv.iill.top/douyu.php?id=9220456
+文西与阿漆,https://tv.iill.top/douyu.php?id=8737695
+伪装者•胡歌,https://tv.iill.top/yy.php?id=1354936244
+仙剑奇侠传•刘亦菲,https://tv.iill.top/yy.php?id=1382749903
+新三国,https://tv.iill.top/douyu.php?id=5908256
+新世界•孙红雷,https://tv.iill.top/yy.php?id=1382736850
+红楼梦87经典版,https://tv.iill.top/yy.php?id=1382745084
+纪晓岚,https://tv.iill.top/yy.php?id=1354143978
+庆馀年,https://tv.iill.top/huya.php?id=11352960
+欢乐颂,https://tv.iill.top/yy.php?id=1382735624
+雪中悍刀行,https://tv.iill.top/yy.php?id=1382660835
+白夜追凶,https://tv.iill.top/yy.php?id=1354932359
+雍正王朝,https://tv.iill.top/huya.php?id=11342439
+士兵突击,https://tv.iill.top/huya.php?id=11342430
+爱情公寓,https://tv.iill.top/huya.php?id=11336726
+家有儿女,https://tv.iill.top/huya.php?id=11352872
+武林外传,https://tv.iill.top/huya.php?id=21059598
+情满四合院,https://tv.iill.top/huya.php?id=11342426
+天  道,https://tv.iill.top/yy.php?id=1382735574
+血色浪漫,https://tv.iill.top/yy.php?id=1354926676
 鬼吹灯,https://epg.pw/stream/88fd55cb4bd809a7f5e29ba31a1cad7396a5f1ea128a8ce6458d7be306d34b53.ctv
 鬼吹灯之怒晴湘西,http://159.75.85.63:35455/huya/11602075?cdn=txcdn
 鬼吹灯之龙岭迷窟,http://159.75.85.63:35455/huya/29465863?cdn=txcdn
@@ -479,14 +479,14 @@ IHOT爱体育,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 法证先锋,http://cfss.cc/cdn/hy/23863804.flv
 陀枪师姐,http://cfss.cc/cdn/hy/23860039.flv
 笑傲江湖•吕颂贤,http://cfss.cc/cdn/hy/23865142.flv
-笑傲江湖•吕颂贤,http://live.iill.top/yy.php?id=1354930909
-笑傲江湖•许晴,http://live.iill.top/yy.php?id=1354282410
+笑傲江湖•吕颂贤,https://tv.iill.top/yy.php?id=1354930909
+笑傲江湖•许晴,https://tv.iill.top/yy.php?id=1354282410
 洗冤录,http://cfss.cc/cdn/hy/23903130.flv
-我和僵屍有個約會•尹天照 万绮雯,http://live.iill.top/yy.php?id=1354143966
-83射雕英雄傳,http://live.iill.top/yy.php?id=1354210357
+我和僵屍有個約會•尹天照 万绮雯,https://tv.iill.top/yy.php?id=1354143966
+83射雕英雄傳,https://tv.iill.top/yy.php?id=1354210357
 射雕之九阴真经•姜大卫 张智霖,https://epg.pw/stream/2245ffcbcc59ce19ec9d11555d4c748f4c7ca9d8566f22d58531fd7413431d01.ctv
 倚天屠龙记•吴启华,http://cfss.cc/cdn/hy/23734246.flv
-倚天屠龍記•苏有朋,http://live.iill.top/yy.php?id=1449856066
+倚天屠龍記•苏有朋,https://tv.iill.top/yy.php?id=1449856066
 神雕侠侣•古天乐,http://cfss.cc/cdn/hy/23865171.flv
 鉴证实录,http://cfss.cc/cdn/hy/23903183.flv
 创世纪,http://cfss.cc/cdn/hy/23749083.flv
@@ -497,154 +497,154 @@ IHOT爱体育,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 扫黄先锋,http://cfss.cc/cdn/hy/23903196.flv
 笑看风云,http://cfss.cc/cdn/hy/23865058.flv
 大时代,http://cfss.cc/cdn/hy/23865161.flv
-大明王朝1566•豆瓣最高分剧集,http://live.iill.top/yy.php?id=1382736879
-天下第一•叶璇 黄圣依,http://live.iill.top/yy.php?id=1382736838
-新白娘子傳奇•赵雅芝,http://live.iill.top/yy.php?id=1354490667
-新白娘子傳奇•赵雅芝,http://live.iill.top/yy.php?id=1354930969
+大明王朝1566•豆瓣最高分剧集,https://tv.iill.top/yy.php?id=1382736879
+天下第一•叶璇 黄圣依,https://tv.iill.top/yy.php?id=1382736838
+新白娘子傳奇•赵雅芝,https://tv.iill.top/yy.php?id=1354490667
+新白娘子傳奇•赵雅芝,https://tv.iill.top/yy.php?id=1354930969
 斗罗大陆•唐家三少,http://cfss.cc/cdn/hy/11352906.flv
 (日)(动画)全职猎人,https://www.goodiptv.club/douyu/6610883
-(日)(动画)火影忍者,http://live.iill.top/yy.php?id=1355336008
-(日)(动画)灌篮高手,http://live.iill.top/yy.php?id=1382735626
+(日)(动画)火影忍者,https://tv.iill.top/yy.php?id=1355336008
+(日)(动画)灌篮高手,https://tv.iill.top/yy.php?id=1382735626
 外星+人2[韩],https://v.cdnlz12.com/20240215/11573_4cb789fb/2000k/hls/mixed.m3u8
-来自星星的你[韩],http://live.iill.top/yy.php?id=1354930976
-请回答1988[韩],http://live.iill.top/yy.php?id=1354932362
+来自星星的你[韩],https://tv.iill.top/yy.php?id=1354930976
+请回答1988[韩],https://tv.iill.top/yy.php?id=1354932362
 超异能族[韩],https://www.goodiptv.club/huya/21059586
-憨豆先生 ,http://live.iill.top/yy.php?id=1354930189
-yy电影-张国荣,http://live.iill.top/yy.php?id=1354930961
-yy电影-李连杰,http://live.iill.top/yy.php?id=1459869766
-YY电影-成龙,http://live.iill.top/yy.php?id=1354888751
-YY电影-欧美电影,http://live.iill.top/yy.php?id=24923327
-YY电影-欧美科幻,http://live.iill.top/yy.php?id=37988782
-周星驰,http://live.iill.top/douyu.php?id=122402
-周星驰粤语,http://live.iill.top/douyu.php?id=6566671
-电影_星爷,http://live.iill.top/huya.php?id=11342412
-成龙,http://live.iill.top/douyu.php?id=3379942
-电影_成龙,http://live.iill.top/huya.php?id=11342386
-电影_英叔,http://live.iill.top/huya.php?id=11342421
-电影_发哥,http://live.iill.top/huya.php?id=11342387
-电影_王晶,http://live.iill.top/huya.php?id=11602058
-电影_沈腾,http://live.iill.top/huya.php?id=11601968
-电影_黄渤,http://live.iill.top/huya.php?id=11352876
-电影_强森,http://live.iill.top/huya.php?id=21059581
-电影_漫威,http://live.iill.top/huya.php?id=11602034
-电影_宇宙,http://live.iill.top/huya.php?id=11342428
-电影_怪兽,http://live.iill.top/huya.php?id=21059577
-电影_武侠,http://live.iill.top/huya.php?id=11342427
-电影_警匪,http://live.iill.top/huya.php?id=11352886
-电影_罪犯,http://live.iill.top/huya.php?id=11352962
-电影_枪战,http://live.iill.top/huya.php?id=21059579
-电影_海盗,http://live.iill.top/huya.php?id=21059595
-电影_赛车,http://live.iill.top/huya.php?id=11279247
-电影_推荐,http://live.iill.top/huya.php?id=11602041
-电影_救援,http://live.iill.top/huya.php?id=21059594
-电影_热血,http://live.iill.top/huya.php?id=11352934
-电影_盗墓,http://live.iill.top/huya.php?id=21059552
-电影_贺岁,http://live.iill.top/huya.php?id=11601971
-电影_玄幻,http://live.iill.top/huya.php?id=11342414
-电影_谍战,http://live.iill.top/huya.php?id=21059585
-电影_战争,http://live.iill.top/huya.php?id=21059592
-电影_喜剧,http://live.iill.top/huya.php?id=11352877
-电影_港片,http://live.iill.top/huya.php?id=11602043
-电影_国产,http://live.iill.top/huya.php?id=11352973
-电影_五福星,http://live.iill.top/huya.php?id=11282233
-电影_邱淑贞,http://live.iill.top/huya.php?id=11352949
-电影_古天乐,http://live.iill.top/huya.php?id=11602041
-电影_徐克,http://live.iill.top/huya.php?id=11352909
-电影_冯小刚,http://live.iill.top/huya.php?id=11352906
-电影_李连杰,http://live.iill.top/huya.php?id=11342390
+憨豆先生 ,https://tv.iill.top/yy.php?id=1354930189
+yy电影-张国荣,https://tv.iill.top/yy.php?id=1354930961
+yy电影-李连杰,https://tv.iill.top/yy.php?id=1459869766
+YY电影-成龙,https://tv.iill.top/yy.php?id=1354888751
+YY电影-欧美电影,https://tv.iill.top/yy.php?id=24923327
+YY电影-欧美科幻,https://tv.iill.top/yy.php?id=37988782
+周星驰,https://tv.iill.top/douyu.php?id=122402
+周星驰粤语,https://tv.iill.top/douyu.php?id=6566671
+电影_星爷,https://tv.iill.top/huya.php?id=11342412
+成龙,https://tv.iill.top/douyu.php?id=3379942
+电影_成龙,https://tv.iill.top/huya.php?id=11342386
+电影_英叔,https://tv.iill.top/huya.php?id=11342421
+电影_发哥,https://tv.iill.top/huya.php?id=11342387
+电影_王晶,https://tv.iill.top/huya.php?id=11602058
+电影_沈腾,https://tv.iill.top/huya.php?id=11601968
+电影_黄渤,https://tv.iill.top/huya.php?id=11352876
+电影_强森,https://tv.iill.top/huya.php?id=21059581
+电影_漫威,https://tv.iill.top/huya.php?id=11602034
+电影_宇宙,https://tv.iill.top/huya.php?id=11342428
+电影_怪兽,https://tv.iill.top/huya.php?id=21059577
+电影_武侠,https://tv.iill.top/huya.php?id=11342427
+电影_警匪,https://tv.iill.top/huya.php?id=11352886
+电影_罪犯,https://tv.iill.top/huya.php?id=11352962
+电影_枪战,https://tv.iill.top/huya.php?id=21059579
+电影_海盗,https://tv.iill.top/huya.php?id=21059595
+电影_赛车,https://tv.iill.top/huya.php?id=11279247
+电影_推荐,https://tv.iill.top/huya.php?id=11602041
+电影_救援,https://tv.iill.top/huya.php?id=21059594
+电影_热血,https://tv.iill.top/huya.php?id=11352934
+电影_盗墓,https://tv.iill.top/huya.php?id=21059552
+电影_贺岁,https://tv.iill.top/huya.php?id=11601971
+电影_玄幻,https://tv.iill.top/huya.php?id=11342414
+电影_谍战,https://tv.iill.top/huya.php?id=21059585
+电影_战争,https://tv.iill.top/huya.php?id=21059592
+电影_喜剧,https://tv.iill.top/huya.php?id=11352877
+电影_港片,https://tv.iill.top/huya.php?id=11602043
+电影_国产,https://tv.iill.top/huya.php?id=11352973
+电影_五福星,https://tv.iill.top/huya.php?id=11282233
+电影_邱淑贞,https://tv.iill.top/huya.php?id=11352949
+电影_古天乐,https://tv.iill.top/huya.php?id=11602041
+电影_徐克,https://tv.iill.top/huya.php?id=11352909
+电影_冯小刚,https://tv.iill.top/huya.php?id=11352906
+电影_李连杰,https://tv.iill.top/huya.php?id=11342390
 电影_甄子丹,https://epg.pw/stream/b3c5fb71d628359db3178eafbbacd4fa5379703565645966308ad63c0cefef6f.ctv
-电影_洪金宝,http://live.iill.top/huya.php?id=11279251
-电影_梁家辉,http://live.iill.top/huya.php?id=11342429
-电影_许冠英,http://live.iill.top/huya.php?id=11601972
-电影_刘德华,http://live.iill.top/huya.php?id=11342424
-电影_斯坦森,http://live.iill.top/huya.php?id=21059588
-电影_小鬼头,http://live.iill.top/huya.php?id=11352963
-电影_八点档,http://live.iill.top/huya.php?id=880261
-电影_蜘蛛侠,http://live.iill.top/huya.php?id=21059599
-电影_贺岁片,http://live.iill.top/huya.php?id=11601986
-电影_功夫片,http://live.iill.top/huya.php?id=11352941
-电影_黑帮片,http://live.iill.top/huya.php?id=11336719
-电影_丧尸片,http://live.iill.top/huya.php?id=21059578
-电影_灾难片,http://live.iill.top/huya.php?id=11602075
-电影_谍战片,http://live.iill.top/huya.php?id=21059587
-电影_战争片,http://live.iill.top/huya.php?id=21059574
-电影_犯罪片,http://live.iill.top/huya.php?id=11352974
-电影_古装片,http://live.iill.top/huya.php?id=11336590
-电影_高分动作,http://live.iill.top/huya.php?id=11352884
-电影_动作电影,http://live.iill.top/huya.php?id=11602077
-电影_搞笑喜剧,http://live.iill.top/huya.php?id=11342423
-电影_喜剧专场,http://live.iill.top/huya.php?id=11602044
-电影_欢笑影院,http://live.iill.top/huya.php?id=11352894
-电影_不挤影院,http://live.iill.top/huya.php?id=11352897
-电影_国产悬疑,http://live.iill.top/huya.php?id=11342395
-电影_快意江湖,http://live.iill.top/huya.php?id=11342435
-电影_黑帮斗争,http://live.iill.top/huya.php?id=11342419
-电影_古墓系列,http://live.iill.top/huya.php?id=11352913
-电影_嫣然影厅,http://live.iill.top/huya.php?id=11601977
-电影_女神系列,http://live.iill.top/huya.php?id=11336571
-电影_经典女神,http://live.iill.top/huya.php?id=11352909
-电影_许氏三杰,http://live.iill.top/huya.php?id=11602033
-电影_经典港片,http://live.iill.top/huya.php?id=11352965
-电影_镖行天下,http://live.iill.top/huya.php?id=11352969
-电影_高能反转,http://live.iill.top/huya.php?id=11352887
-电影_喜乐影院,http://live.iill.top/huya.php?id=21059580
-电影_蘑菇影厅,http://live.iill.top/huya.php?id=11601981
-电影_搞笑恐怖,http://live.iill.top/huya.php?id=11601960
-电影_死神来了,http://live.iill.top/huya.php?id=11352903
-电影_怪兽系列,http://live.iill.top/huya.php?id=21059554
-搞笑_陈翔六点半,http://live.iill.top/huya.php?id=11274154
-王子和史蒂文,http://live.iill.top/douyu.php?id=9583975
-解说_恐怖电影解说,http://live.iill.top/huya.php?id=16741179
-解说_代娛說美劇,http://live.iill.top/douyu.php?id=9123570
-变形金刚系列,http://live.iill.top/yy.php?id=1382736803
-敢死队系列,http://live.iill.top/yy.php?id=1382735573
-古惑仔系列,http://live.iill.top/yy.php?id=1354507447
-速度与激情全集,http://live.iill.top/yy.php?id=1382749892
+电影_洪金宝,https://tv.iill.top/huya.php?id=11279251
+电影_梁家辉,https://tv.iill.top/huya.php?id=11342429
+电影_许冠英,https://tv.iill.top/huya.php?id=11601972
+电影_刘德华,https://tv.iill.top/huya.php?id=11342424
+电影_斯坦森,https://tv.iill.top/huya.php?id=21059588
+电影_小鬼头,https://tv.iill.top/huya.php?id=11352963
+电影_八点档,https://tv.iill.top/huya.php?id=880261
+电影_蜘蛛侠,https://tv.iill.top/huya.php?id=21059599
+电影_贺岁片,https://tv.iill.top/huya.php?id=11601986
+电影_功夫片,https://tv.iill.top/huya.php?id=11352941
+电影_黑帮片,https://tv.iill.top/huya.php?id=11336719
+电影_丧尸片,https://tv.iill.top/huya.php?id=21059578
+电影_灾难片,https://tv.iill.top/huya.php?id=11602075
+电影_谍战片,https://tv.iill.top/huya.php?id=21059587
+电影_战争片,https://tv.iill.top/huya.php?id=21059574
+电影_犯罪片,https://tv.iill.top/huya.php?id=11352974
+电影_古装片,https://tv.iill.top/huya.php?id=11336590
+电影_高分动作,https://tv.iill.top/huya.php?id=11352884
+电影_动作电影,https://tv.iill.top/huya.php?id=11602077
+电影_搞笑喜剧,https://tv.iill.top/huya.php?id=11342423
+电影_喜剧专场,https://tv.iill.top/huya.php?id=11602044
+电影_欢笑影院,https://tv.iill.top/huya.php?id=11352894
+电影_不挤影院,https://tv.iill.top/huya.php?id=11352897
+电影_国产悬疑,https://tv.iill.top/huya.php?id=11342395
+电影_快意江湖,https://tv.iill.top/huya.php?id=11342435
+电影_黑帮斗争,https://tv.iill.top/huya.php?id=11342419
+电影_古墓系列,https://tv.iill.top/huya.php?id=11352913
+电影_嫣然影厅,https://tv.iill.top/huya.php?id=11601977
+电影_女神系列,https://tv.iill.top/huya.php?id=11336571
+电影_经典女神,https://tv.iill.top/huya.php?id=11352909
+电影_许氏三杰,https://tv.iill.top/huya.php?id=11602033
+电影_经典港片,https://tv.iill.top/huya.php?id=11352965
+电影_镖行天下,https://tv.iill.top/huya.php?id=11352969
+电影_高能反转,https://tv.iill.top/huya.php?id=11352887
+电影_喜乐影院,https://tv.iill.top/huya.php?id=21059580
+电影_蘑菇影厅,https://tv.iill.top/huya.php?id=11601981
+电影_搞笑恐怖,https://tv.iill.top/huya.php?id=11601960
+电影_死神来了,https://tv.iill.top/huya.php?id=11352903
+电影_怪兽系列,https://tv.iill.top/huya.php?id=21059554
+搞笑_陈翔六点半,https://tv.iill.top/huya.php?id=11274154
+王子和史蒂文,https://tv.iill.top/douyu.php?id=9583975
+解说_恐怖电影解说,https://tv.iill.top/huya.php?id=16741179
+解说_代娛說美劇,https://tv.iill.top/douyu.php?id=9123570
+变形金刚系列,https://tv.iill.top/yy.php?id=1382736803
+敢死队系列,https://tv.iill.top/yy.php?id=1382735573
+古惑仔系列,https://tv.iill.top/yy.php?id=1354507447
+速度与激情全集,https://tv.iill.top/yy.php?id=1382749892
 罗翔 法外狂徒张三,https://epg.pw/stream/579bda6ddd0173d963834b88fb895b778fc45cf390b531fbc05c708035263c26.ctv
 
 
 
 斗鱼点播,#genre#
-音乐石榴🍁,http://live.iill.top/huya.php?id=17091681
-音乐速递🍁,http://live.iill.top/huya.php?id=19439762
-治愈放松🍁,http://live.iill.top/huya.php?id=21241811
-周杰伦点歌台🍁,http://live.iill.top/douyu.php?id=7537296
-音乐喵点歌🍁,http://live.iill.top/douyu.php?id=3870925
-K-pop D3点歌🍁,http://live.iill.top/douyu.php?id=8189873
-K-pop D4点歌🍁,http://live.iill.top/douyu.php?id=8266799
+音乐石榴🍁,https://tv.iill.top/huya.php?id=17091681
+音乐速递🍁,https://tv.iill.top/huya.php?id=19439762
+治愈放松🍁,https://tv.iill.top/huya.php?id=21241811
+周杰伦点歌台🍁,https://tv.iill.top/douyu.php?id=7537296
+音乐喵点歌🍁,https://tv.iill.top/douyu.php?id=3870925
+K-pop D3点歌🍁,https://tv.iill.top/douyu.php?id=8189873
+K-pop D4点歌🍁,https://tv.iill.top/douyu.php?id=8266799
 
 
-吃米滴虫✔原,http://live.iill.top/douyu.php?id=315457
-冰冰经典✔原,http://live.iill.top/douyu.php?id=74374
-星爷影院✔原,http://live.iill.top/douyu.php?id=508118
-老港影院✔原,http://live.iill.top/douyu.php?id=3637778
-瑶瑶恐怖✔原,http://live.iill.top/douyu.php?id=2935323
-怡寶影院✔原,http://live.iill.top/douyu.php?id=434971
-萌小鬼片✔原,http://live.iill.top/douyu.php?id=3928
-小白剧场✔原,http://live.iill.top/douyu.php?id=322360
-神乐剧院✔原,http://live.iill.top/douyu.php?id=36337
-天空60帧✔原,http://live.iill.top/douyu.php?id=12143022
-小宇60帧✔原,http://live.iill.top/douyu.php?id=323876
-恐怖惊悚✔原,http://live.iill.top/douyu.php?id=96577
-電影劇場✔原,http://live.iill.top/douyu.php?id=7575350
-豆瓣高分✔原,http://live.iill.top/douyu.php?id=8770422
-漫威剧情✔原,http://live.iill.top/douyu.php?id=6140589
-霍格沃茨✔原,http://live.iill.top/douyu.php?id=8814650
-鱼宝恐怖✔原,http://live.iill.top/douyu.php?id=1165374
-吃木瓜虫✔原,http://live.iill.top/douyu.php?id=263824
-变种人片✔原,http://live.iill.top/douyu.php?id=9651304
-喜剧电影✔原,http://live.iill.top/douyu.php?id=9292492
-女神电影✔原,http://live.iill.top/douyu.php?id=747764
-华语经典✔原,http://live.iill.top/douyu.php?id=434971
-欧美大片✔原,http://live.iill.top/douyu.php?id=2793084
-贝爷max✔原,http://live.iill.top/douyu.php?id=4332
-贝爷影厅✔原,http://live.iill.top/douyu.php?id=252802
-邦德影院✔原,http://live.iill.top/douyu.php?id=9292499
-看美剧✔原,http://live.iill.top/douyu.php?id=8869614
+吃米滴虫✔原,https://tv.iill.top/douyu.php?id=315457
+冰冰经典✔原,https://tv.iill.top/douyu.php?id=74374
+星爷影院✔原,https://tv.iill.top/douyu.php?id=508118
+老港影院✔原,https://tv.iill.top/douyu.php?id=3637778
+瑶瑶恐怖✔原,https://tv.iill.top/douyu.php?id=2935323
+怡寶影院✔原,https://tv.iill.top/douyu.php?id=434971
+萌小鬼片✔原,https://tv.iill.top/douyu.php?id=3928
+小白剧场✔原,https://tv.iill.top/douyu.php?id=322360
+神乐剧院✔原,https://tv.iill.top/douyu.php?id=36337
+天空60帧✔原,https://tv.iill.top/douyu.php?id=12143022
+小宇60帧✔原,https://tv.iill.top/douyu.php?id=323876
+恐怖惊悚✔原,https://tv.iill.top/douyu.php?id=96577
+電影劇場✔原,https://tv.iill.top/douyu.php?id=7575350
+豆瓣高分✔原,https://tv.iill.top/douyu.php?id=8770422
+漫威剧情✔原,https://tv.iill.top/douyu.php?id=6140589
+霍格沃茨✔原,https://tv.iill.top/douyu.php?id=8814650
+鱼宝恐怖✔原,https://tv.iill.top/douyu.php?id=1165374
+吃木瓜虫✔原,https://tv.iill.top/douyu.php?id=263824
+变种人片✔原,https://tv.iill.top/douyu.php?id=9651304
+喜剧电影✔原,https://tv.iill.top/douyu.php?id=9292492
+女神电影✔原,https://tv.iill.top/douyu.php?id=747764
+华语经典✔原,https://tv.iill.top/douyu.php?id=434971
+欧美大片✔原,https://tv.iill.top/douyu.php?id=2793084
+贝爷max✔原,https://tv.iill.top/douyu.php?id=4332
+贝爷影厅✔原,https://tv.iill.top/douyu.php?id=252802
+邦德影院✔原,https://tv.iill.top/douyu.php?id=9292499
+看美剧✔原,https://tv.iill.top/douyu.php?id=8869614
 轮播电影1Y✔原,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 轮播电影2Y✔原,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 轮播电影3Y✔原,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
-漫威君✔原,http://live.iill.top/douyu.php?id=1713615
+漫威君✔原,https://tv.iill.top/douyu.php?id=1713615
 
 斯巴达克斯,#genre#
 S1.01,https://v.cdnlz20.com/20240428/6158_f9665afe/index.m3u8

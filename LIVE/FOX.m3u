@@ -517,7 +517,7 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000007000010001/index.m
 #EXTINF:-1 tvg-id="bestv4K" tvg-name="bestv4K" tvg-logo="http://epg.hackserver.net/logo/BesTV-4K.png" group-title="4K频道",BesTV 4K
 https://stream1.freetv.fun/44222ef77a9f33ce98b4551743ea66383aa7e0a99085fa35fc5fcbabfab0befe.ctv
 #EXTINF:-1 tvg-id="彼岸KARA" tvg-name="彼岸KARA" tvg-logo="http://epg.hackserver.net/logo/douyu2.png" group-title="4K频道",彼岸K-pop 4K
-http://live.iill.top/douyu.php?id=40471
+https://tv.iill.top/douyu/40471
 
 
 #数字频道
@@ -694,45 +694,45 @@ http://117.161.12.124/live/program/live/ktxjx8m/8000000/mnf.m3u8
 
 #影.剧轮播
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",万合天宜
-http://live.iill.top/douyu.php?id=9220456
+https://tv.iill.top/douyu.php?id=9220456
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",文西与阿漆
-http://live.iill.top/douyu.php?id=8737695
+https://tv.iill.top/douyu.php?id=8737695
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",伪装者•胡歌
-http://live.iill.top/yy.php?id=1354936244
+https://tv.iill.top/yy.php?id=1354936244
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",仙剑奇侠传•刘亦菲
-http://live.iill.top/yy.php?id=1382749903
+https://tv.iill.top/yy.php?id=1382749903
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",新三国
-http://live.iill.top/douyu.php?id=5908256
+https://tv.iill.top/douyu.php?id=5908256
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",新世界•孙红雷
-http://live.iill.top/yy.php?id=1382736850
+https://tv.iill.top/yy.php?id=1382736850
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",红楼梦87经典版
-http://live.iill.top/yy.php?id=1382745084
+https://tv.iill.top/yy.php?id=1382745084
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",纪晓岚
-http://live.iill.top/huya.php?id=11342396
+https://tv.iill.top/huya.php?id=11342396
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",庆馀年
-http://live.iill.top/huya.php?id=11352960
+https://tv.iill.top/huya.php?id=11352960
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",欢乐颂
-http://live.iill.top/yy.php?id=1382735624
+https://tv.iill.top/yy.php?id=1382735624
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",雪中悍刀行
-http://live.iill.top/yy.php?id=1382660835
+https://tv.iill.top/yy.php?id=1382660835
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",白夜追凶
-http://live.iill.top/yy.php?id=1354932359
+https://tv.iill.top/yy.php?id=1354932359
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",雍正王朝
-http://live.iill.top/huya.php?id=11342439
+https://tv.iill.top/huya.php?id=11342439
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",士兵突击
-http://live.iill.top/huya.php?id=11342430
+https://tv.iill.top/huya.php?id=11342430
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",爱情公寓
-http://live.iill.top/huya.php?id=11336726
+https://tv.iill.top/huya.php?id=11336726
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",家有儿女
-http://live.iill.top/huya.php?id=11352872
+https://tv.iill.top/huya.php?id=11352872
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",武林外传
-http://live.iill.top/huya.php?id=21059598
+https://tv.iill.top/huya.php?id=21059598
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",情满四合院
-http://live.iill.top/huya.php?id=11342426
+https://tv.iill.top/huya.php?id=11342426
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",天  道
-http://live.iill.top/yy.php?id=1382735574
+https://tv.iill.top/yy.php?id=1382735574
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",血色浪漫
-http://live.iill.top/yy.php?id=1354926676
+https://tv.iill.top/yy.php?id=1354926676
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鬼吹灯
 https://epg.pw/stream/88fd55cb4bd809a7f5e29ba31a1cad7396a5f1ea128a8ce6458d7be306d34b53.ctv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鬼吹灯之怒晴湘西
@@ -768,21 +768,21 @@ http://cfss.cc/cdn/hy/23863804.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",陀枪师姐
 http://cfss.cc/cdn/hy/23860039.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",笑傲江湖•吕颂贤
-http://live.iill.top/yy.php?id=1354930909
+https://tv.iill.top/yy.php?id=1354930909
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",笑傲江湖•许晴
-http://live.iill.top/yy.php?id=1354282410
+https://tv.iill.top/yy.php?id=1354282410
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",洗冤录
 http://cfss.cc/cdn/hy/23903130.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",我和僵屍有個約會•尹天照 万绮雯
-http://live.iill.top/yy.php?id=1354143966
+https://tv.iill.top/yy.php?id=1354143966
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",83射雕英雄傳
-http://live.iill.top/yy.php?id=1354210357
+https://tv.iill.top/yy.php?id=1354210357
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",射雕之九阴真经•姜大卫 张智霖
 https://epg.pw/stream/2245ffcbcc59ce19ec9d11555d4c748f4c7ca9d8566f22d58531fd7413431d01.ctv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",倚天屠龙记•吴启华
 http://cfss.cc/cdn/hy/23734246.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",倚天屠龍記•苏有朋
-http://live.iill.top/yy.php?id=1449856066
+https://tv.iill.top/yy.php?id=1449856066
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",神雕侠侣•古天乐
 http://cfss.cc/cdn/hy/23865171.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鉴证实录
@@ -804,284 +804,284 @@ http://cfss.cc/cdn/hy/23865058.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",大时代
 http://cfss.cc/cdn/hy/23865161.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",大明王朝1566•豆瓣最高分剧集
-http://live.iill.top/yy.php?id=1382736879
+https://tv.iill.top/yy.php?id=1382736879
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",天下第一•叶璇 黄圣依
-http://live.iill.top/yy.php?id=1382736838
+https://tv.iill.top/yy.php?id=1382736838
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",新白娘子傳奇•赵雅芝
-http://live.iill.top/yy.php?id=1354490667
+https://tv.iill.top/yy.php?id=1354490667
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",斗罗大陆•唐家三少
 http://cfss.cc/cdn/hy/11352906.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",(日)(动画)全职猎人,
 https://www.goodiptv.club/douyu/6610883
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",(日)(动画)火影忍者
-http://live.iill.top/yy.php?id=1355336008
+https://tv.iill.top/yy.php?id=1355336008
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",(日)(动画)灌篮高手
-http://live.iill.top/yy.php?id=1382735626
+https://tv.iill.top/yy.php?id=1382735626
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",外星+人2[韩]
 https://v.cdnlz12.com/20240215/11573_4cb789fb/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",来自星星的你[韩]
-http://live.iill.top/yy.php?id=1354930976
+https://tv.iill.top/yy.php?id=1354930976
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",请回答1988[韩]
-http://live.iill.top/yy.php?id=1354932362
+https://tv.iill.top/yy.php?id=1354932362
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",超异能族[韩]
 https://www.goodiptv.club/huya/21059586
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",憨豆先生 
-http://live.iill.top/yy.php?id=1354930189
+https://tv.iill.top/yy.php?id=1354930189
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",yy电影-张国荣
-http://live.iill.top/yy.php?id=1354930961
+https://tv.iill.top/yy.php?id=1354930961
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",yy电影-李连杰
-http://live.iill.top/yy.php?id=1459869766
+https://tv.iill.top/yy.php?id=1459869766
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",YY电影-成龙
-http://live.iill.top/yy.php?id=1354888751
+https://tv.iill.top/yy.php?id=1354888751
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",YY电影-欧美电影
-http://live.iill.top/yy.php?id=24923327
+https://tv.iill.top/yy.php?id=24923327
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",YY电影-欧美科幻
-http://live.iill.top/yy.php?id=37988782
+https://tv.iill.top/yy.php?id=37988782
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",周星驰
-http://live.iill.top/douyu.php?id=122402
+https://tv.iill.top/douyu.php?id=122402
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",周星驰粤语
-http://live.iill.top/douyu.php?id=6566671
+https://tv.iill.top/douyu.php?id=6566671
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_星爷
-http://live.iill.top/huya.php?id=11342412
+https://tv.iill.top/huya.php?id=11342412
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",成龙
 http://lxajh.top/tv/douyu.php?id=3379942
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_成龙
-http://live.iill.top/huya.php?id=11342386
+https://tv.iill.top/huya.php?id=11342386
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_英叔
-http://live.iill.top/huya.php?id=11342421
+https://tv.iill.top/huya.php?id=11342421
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_发哥
-http://live.iill.top/huya.php?id=11342387
+https://tv.iill.top/huya.php?id=11342387
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_王晶
-http://live.iill.top/huya.php?id=11602058
+https://tv.iill.top/huya.php?id=11602058
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_沈腾
-http://live.iill.top/huya.php?id=11601968
+https://tv.iill.top/huya.php?id=11601968
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_黄渤
-http://live.iill.top/huya.php?id=11352876
+https://tv.iill.top/huya.php?id=11352876
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_强森
-http://live.iill.top/huya.php?id=21059581
+https://tv.iill.top/huya.php?id=21059581
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_漫威
-http://live.iill.top/huya.php?id=11602034
+https://tv.iill.top/huya.php?id=11602034
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_宇宙
-http://live.iill.top/huya.php?id=11342428
+https://tv.iill.top/huya.php?id=11342428
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_怪兽
-http://live.iill.top/huya.php?id=21059577
+https://tv.iill.top/huya.php?id=21059577
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_武侠
-http://live.iill.top/huya.php?id=11342427
+https://tv.iill.top/huya.php?id=11342427
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_警匪
-http://live.iill.top/huya.php?id=11352886
+https://tv.iill.top/huya.php?id=11352886
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_罪犯
-http://live.iill.top/huya.php?id=11352962
+https://tv.iill.top/huya.php?id=11352962
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_枪战
-http://live.iill.top/huya.php?id=21059579
+https://tv.iill.top/huya.php?id=21059579
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_海盗
-http://live.iill.top/huya.php?id=21059595
+https://tv.iill.top/huya.php?id=21059595
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_赛车
-http://live.iill.top/huya.php?id=11279247
+https://tv.iill.top/huya.php?id=11279247
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_推荐
-http://live.iill.top/huya.php?id=11602041
+https://tv.iill.top/huya.php?id=11602041
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_救援
-http://live.iill.top/huya.php?id=21059594
+https://tv.iill.top/huya.php?id=21059594
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_热血
-http://live.iill.top/huya.php?id=11352934
+https://tv.iill.top/huya.php?id=11352934
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_盗墓
-http://live.iill.top/huya.php?id=21059552
+https://tv.iill.top/huya.php?id=21059552
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_贺岁
-http://live.iill.top/huya.php?id=11601971
+https://tv.iill.top/huya.php?id=11601971
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_玄幻
-http://live.iill.top/huya.php?id=11342414
+https://tv.iill.top/huya.php?id=11342414
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_谍战
-http://live.iill.top/huya.php?id=21059585
+https://tv.iill.top/huya.php?id=21059585
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_战争
-http://live.iill.top/huya.php?id=21059592
+https://tv.iill.top/huya.php?id=21059592
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_喜剧
-http://live.iill.top/huya.php?id=11352877
+https://tv.iill.top/huya.php?id=11352877
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_港片
-http://live.iill.top/huya.php?id=11602043
+https://tv.iill.top/huya.php?id=11602043
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_国产
-http://live.iill.top/huya.php?id=11352973
+https://tv.iill.top/huya.php?id=11352973
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_五福星
-http://live.iill.top/huya.php?id=11282233
+https://tv.iill.top/huya.php?id=11282233
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_邱淑贞
-http://live.iill.top/huya.php?id=11352949
+https://tv.iill.top/huya.php?id=11352949
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_古天乐
-http://live.iill.top/huya.php?id=11602041
+https://tv.iill.top/huya.php?id=11602041
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_徐克
-http://live.iill.top/huya.php?id=11352909
+https://tv.iill.top/huya.php?id=11352909
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_冯小刚
-http://live.iill.top/huya.php?id=11352906
+https://tv.iill.top/huya.php?id=11352906
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_李连杰
-http://live.iill.top/huya.php?id=11342390
+https://tv.iill.top/huya.php?id=11342390
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_甄子丹
 https://epg.pw/stream/b3c5fb71d628359db3178eafbbacd4fa5379703565645966308ad63c0cefef6f.ctv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_洪金宝
-http://live.iill.top/huya.php?id=11279251
+https://tv.iill.top/huya.php?id=11279251
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_梁家辉
-http://live.iill.top/huya.php?id=11342429
+https://tv.iill.top/huya.php?id=11342429
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_许冠英
-http://live.iill.top/huya.php?id=11601972
+https://tv.iill.top/huya.php?id=11601972
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_刘德华
-http://live.iill.top/huya.php?id=11342424
+https://tv.iill.top/huya.php?id=11342424
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_斯坦森
-http://live.iill.top/huya.php?id=21059588
+https://tv.iill.top/huya.php?id=21059588
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_小鬼头
-http://live.iill.top/huya.php?id=11352963
+https://tv.iill.top/huya.php?id=11352963
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_八点档
-http://live.iill.top/huya.php?id=880261
+https://tv.iill.top/huya.php?id=880261
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_蜘蛛侠
-http://live.iill.top/huya.php?id=21059599
+https://tv.iill.top/huya.php?id=21059599
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_贺岁片
-http://live.iill.top/huya.php?id=11601986
+https://tv.iill.top/huya.php?id=11601986
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_功夫片
-http://live.iill.top/huya.php?id=11352941
+https://tv.iill.top/huya.php?id=11352941
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_黑帮片
-http://live.iill.top/huya.php?id=11336719
+https://tv.iill.top/huya.php?id=11336719
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_丧尸片
-http://live.iill.top/huya.php?id=21059578
+https://tv.iill.top/huya.php?id=21059578
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_灾难片
-http://live.iill.top/huya.php?id=11602075
+https://tv.iill.top/huya.php?id=11602075
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_谍战片
-http://live.iill.top/huya.php?id=21059587
+https://tv.iill.top/huya.php?id=21059587
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_战争片
-http://live.iill.top/huya.php?id=21059574
+https://tv.iill.top/huya.php?id=21059574
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_犯罪片
-http://live.iill.top/huya.php?id=11352974
+https://tv.iill.top/huya.php?id=11352974
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_古装片
-http://live.iill.top/huya.php?id=11336590
+https://tv.iill.top/huya.php?id=11336590
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_高分动作
-http://live.iill.top/huya.php?id=11352884
+https://tv.iill.top/huya.php?id=11352884
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_动作电影
-http://live.iill.top/huya.php?id=11602077
+https://tv.iill.top/huya.php?id=11602077
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_搞笑喜剧
-http://live.iill.top/huya.php?id=11342423
+https://tv.iill.top/huya.php?id=11342423
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_喜剧专场
-http://live.iill.top/huya.php?id=11602044
+https://tv.iill.top/huya.php?id=11602044
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_欢笑影院
-http://live.iill.top/huya.php?id=11352894
+https://tv.iill.top/huya.php?id=11352894
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_不挤影院
-http://live.iill.top/huya.php?id=11352897
+https://tv.iill.top/huya.php?id=11352897
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_国产悬疑
-http://live.iill.top/huya.php?id=11342395
+https://tv.iill.top/huya.php?id=11342395
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_快意江湖
-http://live.iill.top/huya.php?id=11342435
+https://tv.iill.top/huya.php?id=11342435
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_黑帮斗争
-http://live.iill.top/huya.php?id=11342419
+https://tv.iill.top/huya.php?id=11342419
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_古墓系列
-http://live.iill.top/huya.php?id=11352913
+https://tv.iill.top/huya.php?id=11352913
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_嫣然影厅
-http://live.iill.top/huya.php?id=11601977
+https://tv.iill.top/huya.php?id=11601977
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_女神系列
-http://live.iill.top/huya.php?id=11336571
+https://tv.iill.top/huya.php?id=11336571
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_经典女神
-http://live.iill.top/huya.php?id=11352909
+https://tv.iill.top/huya.php?id=11352909
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_许氏三杰
-http://live.iill.top/huya.php?id=11602033
+https://tv.iill.top/huya.php?id=11602033
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_经典港片
-http://live.iill.top/huya.php?id=11352965
+https://tv.iill.top/huya.php?id=11352965
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_镖行天下
-http://live.iill.top/huya.php?id=11352969
+https://tv.iill.top/huya.php?id=11352969
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_高能反转
-http://live.iill.top/huya.php?id=11352887
+https://tv.iill.top/huya.php?id=11352887
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_喜乐影院
-http://live.iill.top/huya.php?id=21059580
+https://tv.iill.top/huya.php?id=21059580
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_蘑菇影厅
-http://live.iill.top/huya.php?id=11601981
+https://tv.iill.top/huya.php?id=11601981
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_搞笑恐怖
-http://live.iill.top/huya.php?id=11601960
+https://tv.iill.top/huya.php?id=11601960
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_死神来了
-http://live.iill.top/huya.php?id=11352903
+https://tv.iill.top/huya.php?id=11352903
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_怪兽系列
-http://live.iill.top/huya.php?id=21059554
+https://tv.iill.top/huya.php?id=21059554
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",搞笑_陈翔六点半
-http://live.iill.top/huya.php?id=11274154
+https://tv.iill.top/huya.php?id=11274154
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",王子和史蒂文
-http://live.iill.top/douyu.php?id=9583975
+https://tv.iill.top/douyu.php?id=9583975
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",解说_恐怖电影解说
-http://live.iill.top/huya.php?id=16741179
+https://tv.iill.top/huya.php?id=16741179
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",解说_代娛說美劇
-http://live.iill.top/douyu.php?id=9123570
+https://tv.iill.top/douyu.php?id=9123570
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",科幻大片
-http://live.iill.top/yy.php?id=1382747628
+https://tv.iill.top/yy.php?id=1382747628
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",变形金刚系列
-http://live.iill.top/yy.php?id=1382736803
+https://tv.iill.top/yy.php?id=1382736803
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",敢死队系列
-http://live.iill.top/yy.php?id=1382735573
+https://tv.iill.top/yy.php?id=1382735573
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",古惑仔系列
-http://live.iill.top/yy.php?id=1354507447
+https://tv.iill.top/yy.php?id=1354507447
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",速度与激情全集
-http://live.iill.top/yy.php?id=1382749892
+https://tv.iill.top/yy.php?id=1382749892
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",罗翔 法外狂徒张三
 https://epg.pw/stream/579bda6ddd0173d963834b88fb895b778fc45cf390b531fbc05c708035263c26.ctv
 
 
 #斗鱼点播
 #EXTINF:-1 group-title="斗鱼点播",音乐石榴🍁
-http://live.iill.top/huya.php?id=17091681
+https://tv.iill.top/huya.php?id=17091681
 #EXTINF:-1 group-title="斗鱼点播",音乐速递🍁
-http://live.iill.top/huya.php?id=19439762
+https://tv.iill.top/huya.php?id=19439762
 #EXTINF:-1 group-title="斗鱼点播",治愈放松🍁
-http://live.iill.top/huya.php?id=21241811
+https://tv.iill.top/huya.php?id=21241811
 #EXTINF:-1 group-title="斗鱼点播",周杰伦点歌台🍁
-http://live.iill.top/douyu.php?id=7537296
+https://tv.iill.top/douyu.php?id=7537296
 #EXTINF:-1 group-title="斗鱼点播",音乐喵点歌🍁
-http://live.iill.top/douyu.php?id=3870925
+https://tv.iill.top/douyu.php?id=3870925
 #EXTINF:-1 group-title="斗鱼点播",K-pop D3点歌🍁
-http://live.iill.top/douyu.php?id=8189873
+https://tv.iill.top/douyu.php?id=8189873
 #EXTINF:-1 group-title="斗鱼点播",K-pop D4点歌🍁
-http://live.iill.top/douyu.php?id=8266799
+https://tv.iill.top/douyu.php?id=8266799
 #EXTINF:-1 group-title="斗鱼点播",吃米滴虫✔原
-http://live.iill.top/douyu.php?id=315457
+https://tv.iill.top/douyu.php?id=315457
 #EXTINF:-1 group-title="斗鱼点播",冰冰经典✔原
-http://live.iill.top/douyu.php?id=74374
+https://tv.iill.top/douyu.php?id=74374
 #EXTINF:-1 group-title="斗鱼点播",星爷影院✔原
-http://live.iill.top/douyu.php?id=508118
+https://tv.iill.top/douyu.php?id=508118
 #EXTINF:-1 group-title="斗鱼点播",老港影院✔原
-http://live.iill.top/douyu.php?id=3637778
+https://tv.iill.top/douyu.php?id=3637778
 #EXTINF:-1 group-title="斗鱼点播",瑶瑶恐怖✔原
-http://live.iill.top/douyu.php?id=2935323
+https://tv.iill.top/douyu.php?id=2935323
 #EXTINF:-1 group-title="斗鱼点播",怡寶影院✔原
-http://live.iill.top/douyu.php?id=434971
+https://tv.iill.top/douyu.php?id=434971
 #EXTINF:-1 group-title="斗鱼点播",萌小鬼片✔原
-http://live.iill.top/douyu.php?id=3928
+https://tv.iill.top/douyu.php?id=3928
 #EXTINF:-1 group-title="斗鱼点播",小白剧场✔原
-http://live.iill.top/douyu.php?id=322360
+https://tv.iill.top/douyu.php?id=322360
 #EXTINF:-1 group-title="斗鱼点播",神乐剧院✔原
-http://live.iill.top/douyu.php?id=36337
+https://tv.iill.top/douyu.php?id=36337
 #EXTINF:-1 group-title="斗鱼点播",天空60帧✔原
-http://live.iill.top/douyu.php?id=12143022
+https://tv.iill.top/douyu.php?id=12143022
 #EXTINF:-1 group-title="斗鱼点播",小宇60帧✔原
-http://live.iill.top/douyu.php?id=323876
+https://tv.iill.top/douyu.php?id=323876
 #EXTINF:-1 group-title="斗鱼点播",恐怖惊悚✔原
-http://live.iill.top/douyu.php?id=96577
+https://tv.iill.top/douyu.php?id=96577
 #EXTINF:-1 group-title="斗鱼点播",電影劇場✔原
-http://live.iill.top/douyu.php?id=7575350
+https://tv.iill.top/douyu.php?id=7575350
 #EXTINF:-1 group-title="斗鱼点播",豆瓣高分✔原
-http://live.iill.top/douyu.php?id=8770422
+https://tv.iill.top/douyu.php?id=8770422
 #EXTINF:-1 group-title="斗鱼点播",漫威剧情✔原
-http://live.iill.top/douyu.php?id=6140589
+https://tv.iill.top/douyu.php?id=6140589
 #EXTINF:-1 group-title="斗鱼点播",霍格沃茨✔原
-http://live.iill.top/douyu.php?id=8814650
+https://tv.iill.top/douyu.php?id=8814650
 #EXTINF:-1 group-title="斗鱼点播",鱼宝恐怖✔原
-http://live.iill.top/douyu.php?id=1165374
+https://tv.iill.top/douyu.php?id=1165374
 #EXTINF:-1 group-title="斗鱼点播",吃木瓜虫✔原
-http://live.iill.top/douyu.php?id=263824
+https://tv.iill.top/douyu.php?id=263824
 #EXTINF:-1 group-title="斗鱼点播",变种人片✔原
-http://live.iill.top/douyu.php?id=9651304
+https://tv.iill.top/douyu.php?id=9651304
 #EXTINF:-1 group-title="斗鱼点播",喜剧电影✔原
-http://live.iill.top/douyu.php?id=9292492
+https://tv.iill.top/douyu.php?id=9292492
 #EXTINF:-1 group-title="斗鱼点播",女神电影✔原
-http://live.iill.top/douyu.php?id=747764
+https://tv.iill.top/douyu.php?id=747764
 #EXTINF:-1 group-title="斗鱼点播",华语经典✔原
-http://live.iill.top/douyu.php?id=434971
+https://tv.iill.top/douyu.php?id=434971
 #EXTINF:-1 group-title="斗鱼点播",欧美大片✔原
-http://live.iill.top/douyu.php?id=2793084
+https://tv.iill.top/douyu.php?id=2793084
 #EXTINF:-1 group-title="斗鱼点播",贝爷max✔原
-http://live.iill.top/douyu.php?id=4332
+https://tv.iill.top/douyu.php?id=4332
 #EXTINF:-1 group-title="斗鱼点播",贝爷影厅✔原
-http://live.iill.top/douyu.php?id=252802
+https://tv.iill.top/douyu.php?id=252802
 #EXTINF:-1 group-title="斗鱼点播",邦德影院✔原
-http://live.iill.top/douyu.php?id=9292499
+https://tv.iill.top/douyu.php?id=9292499
 #EXTINF:-1 group-title="斗鱼点播",看美剧✔原
-http://live.iill.top/douyu.php?id=8869614
+https://tv.iill.top/douyu.php?id=8869614
 #EXTINF:-1 group-title="斗鱼点播",轮播电影1Y✔原
 http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 #EXTINF:-1 group-title="斗鱼点播",轮播电影2Y✔原
@@ -1089,7 +1089,7 @@ http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4b
 #EXTINF:-1 group-title="斗鱼点播",轮播电影3Y✔原
 http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 #EXTINF:-1 group-title="斗鱼点播",漫威君✔原
-http://live.iill.top/douyu.php?id=1713615
+https://tv.iill.top/douyu.php?id=1713615
 
 
 #亚洲音乐MV
