@@ -44,30 +44,8 @@ http://gslbservzqhsw.itv.cmvideo.cn/1000000006000233002/index.m3u8?channel-id=ys
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV",CCTV-17 农业农村
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000268004
 
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="CCTV",风云剧场
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8?sig=90b9c4a468722146e66dd1f70e401ae5&ext_start_limit=1702889173&int_start_limit=1702889173&expires=1702889173&c=null
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="CCTV",第一剧场
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8?sig=d460d9c35b7e096518c80351d4d66faa&ext_start_limit=1702894718&int_start_limit=1702894718&expires=1702894718&c=null
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="CCTV",怀旧剧场
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8?sig=f42d64a6d1d041b2f2c8aa4ca463982f&ext_start_limit=1702888944&int_start_limit=1702888944&expires=1702888944&c=null
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="CCTV",央视台球
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8?sig=7e6c5d142b5c9575bf1dc0a415ed9149&ext_start_limit=1702891065&int_start_limit=1702891065&expires=1702891065&c=null
-#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="CCTV",高尔夫网球 
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8?sig=80a928b63f52f61d1c2506ff229c4d65&ext_start_limit=1702894936&int_start_limit=1702894936&expires=1702894936&c=null
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="CCTV",风云足球 
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8?sig=5f96b21606f6cfebccbefe95f9f077e4&ext_start_limit=1702893667&int_start_limit=1702893667&expires=1702893667&c=null
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="CCTV",风云音乐
-http://111.165.223.75:8000/rtp/225.1.2.176:5002?$TJ
-#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="CCTV",世界地理
-http://180.125.160.248:8001/rtp/239.49.8.87:8000
-#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="CCTV",文化精品
-http://221.197.146.23:8686/rtp/225.1.2.177:5002?$TJ
-#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="CCTV",女性时尚 
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8?sig=12bca0f8b73cdd67a2feff69db71f795&ext_start_limit=1702891492&int_start_limit=1702891492&expires=1702891492&c=null
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVbqkj.png" group-title="CCTV",兵器科技 
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8?sig=4d985873c4610a45fbb66811ef76be08&ext_start_limit=1702893674&int_start_limit=1702893674&expires=1702893674&c=null
 
-#央视HLG
+#央视代理
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="http://epg.hackserver.net/logo/CCTV-8K%20AVS3%20HDR10%20120M.png" group-title="央视HLG",CCTV-8K AVS3 HDR10 120M
 http://lakeblue.dynv6.net:16666/ysp.php/playlist.m3u8?id=cctv8k120m
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="http://epg.hackserver.net/logo/CCTV-8K%20HLG%2036M.png" group-title="央视HLG",CCTV-8K HLG 36M
@@ -281,16 +259,7 @@ http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031121/index.m3u8?channel-id=be
 
 
 
-
-
-
-
-
-
-
 #港澳.外语
-#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="港澳.外语",第一财经
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="港澳.外语",凤凰中文 HD
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="港澳.外语",凤凰中文 FHD
@@ -403,7 +372,7 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 https://stream1.freetv.fun/ed385c7feecaef6ade9c7a1bfc029f889c7a1b050697104716b71b371d0a87c5.m3u8
 
 
-#HKdvb
+#HKTW
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="Jade翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="HKdvb", 翡翠台
 https://live.hkdvb.com/hls/live/81.m3u8?token=629921091294265
 #EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="HKdvb", TVBPLUS
@@ -662,26 +631,6 @@ http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000017/index.m3u8
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000004&IASHttpSessionId=OTT19019320240419154124000281
 
 
-#百视ʰ
-#EXTINF:-1 tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",华语影院
-http://117.161.12.124/live/program/live/hyyy8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="星光影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",星光影院
-http://117.161.12.124/live/program/live/xgyy8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",谍战剧场
-http://117.161.12.124/live/program/live/dzjc8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="全球大片" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",全球大片
-http://117.161.12.124/live/program/live/qqdp8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="热门剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",热门剧场
-http://117.161.12.124/live/program/live/rmjc8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="热门综艺" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",热门综艺
-http://117.161.12.124/live/program/live/rmzy8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="青春动漫" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",青春动漫
-http://117.161.12.124/live/program/live/qcdm8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="戏曲精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",戏曲精选
-http://117.161.12.124/live/program/live/xqjx8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="看天下精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",看天下精选
-http://117.161.12.124/live/program/live/ktxjx8m/8000000/mnf.m3u8
-
 #影.剧轮播
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",万合天宜
 http://lakeblue.dynv6.net:16669/douyu/9220456
@@ -698,9 +647,9 @@ http://lakeblue.dynv6.net:16669/yy/1382736850
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",红楼梦87经典版
 http://lakeblue.dynv6.net:16669/yy/1382745084
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",纪晓岚
-http://lakeblue.dynv6.net:16669/huya/11342396
+http://lakeblue.dynv6.net:16669/huya/11342396?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",庆馀年
-http://lakeblue.dynv6.net:16669/huya/11352960
+http://lakeblue.dynv6.net:16669/huya/11352960?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",欢乐颂
 http://lakeblue.dynv6.net:16669/yy/1382735624
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",雪中悍刀行
@@ -708,17 +657,17 @@ http://lakeblue.dynv6.net:16669/yy/1382660835
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",白夜追凶
 http://lakeblue.dynv6.net:16669/yy/1354932359
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",雍正王朝
-http://lakeblue.dynv6.net:16669/huya/11342439
+http://lakeblue.dynv6.net:16669/huya/11342439?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",士兵突击
-http://lakeblue.dynv6.net:16669/huya/11342430
+http://lakeblue.dynv6.net:16669/huya/11342430?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",爱情公寓
-http://lakeblue.dynv6.net:16669/huya/11336726
+http://lakeblue.dynv6.net:16669/huya/11336726?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",家有儿女
-http://lakeblue.dynv6.net:16669/huya/11352872
+http://lakeblue.dynv6.net:16669/huya/11352872?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",武林外传
-http://lakeblue.dynv6.net:16669/huya/21059598
+http://lakeblue.dynv6.net:16669/huya/21059598?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",情满四合院
-http://lakeblue.dynv6.net:16669/huya/11342426
+http://lakeblue.dynv6.net:16669/huya/11342426?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",天  道
 http://lakeblue.dynv6.net:16669/yy/1382735574
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",血色浪漫
@@ -736,33 +685,33 @@ http://lakeblue.dynv6.net:16669/huya/11601957?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鬼吹灯之南海归墟
 http://lakeblue.dynv6.net:16669/huya/11352883?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",封神榜
-http://lakeblue.dynv6.net:16669/huya/23749096
+http://lakeblue.dynv6.net:16669/huya/23749096?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",西游记•张卫健版 I
-http://lakeblue.dynv6.net:16669/huya/23735126
+http://lakeblue.dynv6.net:16669/huya/23735126?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",西游记•张卫健版 II
-http://lakeblue.dynv6.net:16669/huya/23728660
+http://lakeblue.dynv6.net:16669/huya/23728660?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",楚汉骄雄
-http://lakeblue.dynv6.net:16669/huya/23740156
+http://lakeblue.dynv6.net:16669/huya/23740156?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鹿鼎记•陈小春
-http://lakeblue.dynv6.net:16669/huya/23865080
+http://lakeblue.dynv6.net:16669/huya/23865080?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鹿鼎记•梁朝伟
-http://lakeblue.dynv6.net:16669/huya/23734183
+http://lakeblue.dynv6.net:16669/huya/23734183?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",天龙八部•1997
-http://lakeblue.dynv6.net:16669/huya/23903123
+http://lakeblue.dynv6.net:16669/huya/23903123?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",刑事侦缉档案
-http://lakeblue.dynv6.net:16669/huya/23734169
+http://lakeblue.dynv6.net:16669/huya/23734169?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",寻秦记•古天乐 郭羡妮
-http://lakeblue.dynv6.net:16669/huya/23864973
+http://lakeblue.dynv6.net:16669/huya/23864973?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",法证先锋
-http://lakeblue.dynv6.net:16669/huya/23863804
+http://lakeblue.dynv6.net:16669/huya/23863804?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",陀枪师姐
-http://lakeblue.dynv6.net:16669/huya/23860039
+http://lakeblue.dynv6.net:16669/huya/23860039?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",笑傲江湖•吕颂贤
 http://lakeblue.dynv6.net:16669/yy/1354930909
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",笑傲江湖•许晴
 http://lakeblue.dynv6.net:16669/yy/1354282410
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",洗冤录
-http://lakeblue.dynv6.net:16669/huya/23903130
+http://lakeblue.dynv6.net:16669/huya/23903130?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",我和僵屍有個約會•尹天照 万绮雯
 http://lakeblue.dynv6.net:16669/yy/1354143966
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",83射雕英雄傳
@@ -774,25 +723,25 @@ http://lakeblue.dynv6.net:16669/huya/23734246
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",倚天屠龍記•苏有朋
 http://lakeblue.dynv6.net:16669/yy/1449856066
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",神雕侠侣•古天乐
-http://lakeblue.dynv6.net:16669/huya/23865171
+http://lakeblue.dynv6.net:16669/huya/23865171?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鉴证实录
-http://lakeblue.dynv6.net:16669/huya/23903183
+http://lakeblue.dynv6.net:16669/huya/23903183?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",创世纪
-http://lakeblue.dynv6.net:16669/huya/23749083
+http://lakeblue.dynv6.net:16669/huya/23749083?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",使徒行者
-http://lakeblue.dynv6.net:16669/huya/23734256
+http://lakeblue.dynv6.net:16669/huya/23734256?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",金枝欲孽
-http://lakeblue.dynv6.net:16669/huya/23865036
+http://lakeblue.dynv6.net:16669/huya/23865036?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",大唐双龙传
-http://lakeblue.dynv6.net:16669/huya/23728674
+http://lakeblue.dynv6.net:16669/huya/23728674?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",妙手仁心
-http://lakeblue.dynv6.net:16669/huya/23829543
+http://lakeblue.dynv6.net:16669/huya/23829543?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",扫黄先锋
-http://lakeblue.dynv6.net:16669/huya/23903196
+http://lakeblue.dynv6.net:16669/huya/23903196?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",笑看风云
-http://lakeblue.dynv6.net:16669/huya/23865058
+http://lakeblue.dynv6.net:16669/huya/23865058?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",大时代
-http://lakeblue.dynv6.net:16669/huya/23865161
+http://lakeblue.dynv6.net:16669/huya/23865161?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",大明王朝1566•豆瓣最高分剧集
 http://lakeblue.dynv6.net:16669/yy/1382736879
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",天下第一•叶璇 黄圣依
@@ -800,7 +749,7 @@ http://lakeblue.dynv6.net:16669/yy/1382736838
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",新白娘子傳奇•赵雅芝
 http://lakeblue.dynv6.net:16669/yy/1354490667
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",斗罗大陆•唐家三少
-http://lakeblue.dynv6.net:16669/huya/11352906
+http://lakeblue.dynv6.net:16669/huya/11352906?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",(日)(动画)全职猎人
 http://lakeblue.dynv6.net:16669/douyu/6610883
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",(日)(动画)火影忍者
@@ -830,161 +779,161 @@ http://lakeblue.dynv6.net:16669/douyu/122402
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",周星驰粤语
 http://lakeblue.dynv6.net:16669/douyu/6566671
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_星爷
-http://lakeblue.dynv6.net:16669/huya/11342412
+http://lakeblue.dynv6.net:16669/huya/11342412?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",成龙
-http://lxajh.top/tv/douyu.php?id=3379942
+http://lakeblue.dynv6.net:16669/douyu/3379942
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_成龙
-http://lakeblue.dynv6.net:16669/huya/11342386
+http://lakeblue.dynv6.net:16669/huya/11342386?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_英叔
-http://lakeblue.dynv6.net:16669/huya/11342421
+http://lakeblue.dynv6.net:16669/huya/11342421?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_发哥
-http://lakeblue.dynv6.net:16669/huya/11342387
+http://lakeblue.dynv6.net:16669/huya/11342387?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_王晶
-http://lakeblue.dynv6.net:16669/huya/11602058
+http://lakeblue.dynv6.net:16669/huya/11602058?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_沈腾
-http://lakeblue.dynv6.net:16669/huya/11601968
+http://lakeblue.dynv6.net:16669/huya/11601968?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_黄渤
-http://lakeblue.dynv6.net:16669/huya/11352876
+http://lakeblue.dynv6.net:16669/huya/11352876?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_强森
-http://lakeblue.dynv6.net:16669/huya/21059581
+http://lakeblue.dynv6.net:16669/huya/21059581?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_漫威
-http://lakeblue.dynv6.net:16669/huya/11602034
+http://lakeblue.dynv6.net:16669/huya/11602034?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_宇宙
-http://lakeblue.dynv6.net:16669/huya/11342428
+http://lakeblue.dynv6.net:16669/huya/11342428?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_怪兽
-http://lakeblue.dynv6.net:16669/huya/21059577
+http://lakeblue.dynv6.net:16669/huya/21059577?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_武侠
-http://lakeblue.dynv6.net:16669/huya/11342427
+http://lakeblue.dynv6.net:16669/huya/11342427?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_警匪
-http://lakeblue.dynv6.net:16669/huya/11352886
+http://lakeblue.dynv6.net:16669/huya/11352886?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_罪犯
-http://lakeblue.dynv6.net:16669/huya/11352962
+http://lakeblue.dynv6.net:16669/huya/11352962?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_枪战
-http://lakeblue.dynv6.net:16669/huya/21059579
+http://lakeblue.dynv6.net:16669/huya/21059579?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_海盗
-http://lakeblue.dynv6.net:16669/huya/21059595
+http://lakeblue.dynv6.net:16669/huya/21059595?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_赛车
-http://lakeblue.dynv6.net:16669/huya/11279247
+http://lakeblue.dynv6.net:16669/huya/11279247?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_推荐
-http://lakeblue.dynv6.net:16669/huya/11602041
+http://lakeblue.dynv6.net:16669/huya/11602041?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_救援
-http://lakeblue.dynv6.net:16669/huya/21059594
+http://lakeblue.dynv6.net:16669/huya/21059594?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_热血
-http://lakeblue.dynv6.net:16669/huya/11352934
+http://lakeblue.dynv6.net:16669/huya/11352934?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_盗墓
-http://lakeblue.dynv6.net:16669/huya/21059552
+http://lakeblue.dynv6.net:16669/huya/21059552?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_贺岁
-http://lakeblue.dynv6.net:16669/huya/11601971
+http://lakeblue.dynv6.net:16669/huya/11601971?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_玄幻
-http://lakeblue.dynv6.net:16669/huya/11342414
+http://lakeblue.dynv6.net:16669/huya/11342414?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_谍战
-http://lakeblue.dynv6.net:16669/huya/21059585
+http://lakeblue.dynv6.net:16669/huya/21059585?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_战争
-http://lakeblue.dynv6.net:16669/huya/21059592
+http://lakeblue.dynv6.net:16669/huya/21059592?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_喜剧
-http://lakeblue.dynv6.net:16669/huya/11352877
+http://lakeblue.dynv6.net:16669/huya/11352877?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_港片
-http://lakeblue.dynv6.net:16669/huya/11602043
+http://lakeblue.dynv6.net:16669/huya/11602043?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_国产
-http://lakeblue.dynv6.net:16669/huya/11352973
+http://lakeblue.dynv6.net:16669/huya/11352973?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_五福星
-http://lakeblue.dynv6.net:16669/huya/11282233
+http://lakeblue.dynv6.net:16669/huya/11282233?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_邱淑贞
-http://lakeblue.dynv6.net:16669/huya/11352949
+http://lakeblue.dynv6.net:16669/huya/11352949?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_古天乐
-http://lakeblue.dynv6.net:16669/huya/11602041
+http://lakeblue.dynv6.net:16669/huya/11602041?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_徐克
-http://lakeblue.dynv6.net:16669/huya/11352909
+http://lakeblue.dynv6.net:16669/huya/11352909?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_冯小刚
-http://lakeblue.dynv6.net:16669/huya/11352906
+http://lakeblue.dynv6.net:16669/huya/11352906?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_李连杰
-http://lakeblue.dynv6.net:16669/huya/11342390
+http://lakeblue.dynv6.net:16669/huya/11342390?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_甄子丹
 https://epg.pw/stream/b3c5fb71d628359db3178eafbbacd4fa5379703565645966308ad63c0cefef6f.ctv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_洪金宝
-http://lakeblue.dynv6.net:16669/huya/11279251
+http://lakeblue.dynv6.net:16669/huya/11279251?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_梁家辉
-http://lakeblue.dynv6.net:16669/huya/11342429
+http://lakeblue.dynv6.net:16669/huya/11342429?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_许冠英
-http://lakeblue.dynv6.net:16669/huya/11601972
+http://lakeblue.dynv6.net:16669/huya/11601972?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_刘德华
-http://lakeblue.dynv6.net:16669/huya/11342424
+http://lakeblue.dynv6.net:16669/huya/11342424?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_斯坦森
-http://lakeblue.dynv6.net:16669/huya/21059588
+http://lakeblue.dynv6.net:16669/huya/21059588?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_小鬼头
-http://lakeblue.dynv6.net:16669/huya/11352963
+http://lakeblue.dynv6.net:16669/huya/11352963?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_八点档
-http://lakeblue.dynv6.net:16669/huya/880261
+http://lakeblue.dynv6.net:16669/huya/880261?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_蜘蛛侠
-http://lakeblue.dynv6.net:16669/huya/21059599
+http://lakeblue.dynv6.net:16669/huya/21059599?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_贺岁片
-http://lakeblue.dynv6.net:16669/huya/11601986
+http://lakeblue.dynv6.net:16669/huya/11601986?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_功夫片
-http://lakeblue.dynv6.net:16669/huya/11352941
+http://lakeblue.dynv6.net:16669/huya/11352941?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_黑帮片
-http://lakeblue.dynv6.net:16669/huya/11336719
+http://lakeblue.dynv6.net:16669/huya/11336719?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_丧尸片
-http://lakeblue.dynv6.net:16669/huya/21059578
+http://lakeblue.dynv6.net:16669/huya/21059578?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_灾难片
-http://lakeblue.dynv6.net:16669/huya/11602075
+http://lakeblue.dynv6.net:16669/huya/11602075?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_谍战片
-http://lakeblue.dynv6.net:16669/huya/21059587
+http://lakeblue.dynv6.net:16669/huya/21059587?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_战争片
-http://lakeblue.dynv6.net:16669/huya/21059574
+http://lakeblue.dynv6.net:16669/huya/21059574?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_犯罪片
-http://lakeblue.dynv6.net:16669/huya/11352974
+http://lakeblue.dynv6.net:16669/huya/11352974?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_古装片
-http://lakeblue.dynv6.net:16669/huya/11336590
+http://lakeblue.dynv6.net:16669/huya/11336590?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_高分动作
-http://lakeblue.dynv6.net:16669/huya/11352884
+http://lakeblue.dynv6.net:16669/huya/11352884?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_动作电影
-http://lakeblue.dynv6.net:16669/huya/11602077
+http://lakeblue.dynv6.net:16669/huya/11602077?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_搞笑喜剧
-http://lakeblue.dynv6.net:16669/huya/11342423
+http://lakeblue.dynv6.net:16669/huya/11342423?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_喜剧专场
-http://lakeblue.dynv6.net:16669/huya/11602044
+http://lakeblue.dynv6.net:16669/huya/11602044?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_欢笑影院
-http://lakeblue.dynv6.net:16669/huya/11352894
+http://lakeblue.dynv6.net:16669/huya/11352894?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_不挤影院
-http://lakeblue.dynv6.net:16669/huya/11352897
+http://lakeblue.dynv6.net:16669/huya/11352897?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_国产悬疑
-http://lakeblue.dynv6.net:16669/huya/11342395
+http://lakeblue.dynv6.net:16669/huya/11342395?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_快意江湖
-http://lakeblue.dynv6.net:16669/huya/11342435
+http://lakeblue.dynv6.net:16669/huya/11342435?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_黑帮斗争
-http://lakeblue.dynv6.net:16669/huya/11342419
+http://lakeblue.dynv6.net:16669/huya/11342419?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_古墓系列
-http://lakeblue.dynv6.net:16669/huya/11352913
+http://lakeblue.dynv6.net:16669/huya/11352913?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_嫣然影厅
-http://lakeblue.dynv6.net:16669/huya/11601977
+http://lakeblue.dynv6.net:16669/huya/11601977?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_女神系列
-http://lakeblue.dynv6.net:16669/huya/11336571
+http://lakeblue.dynv6.net:16669/huya/11336571?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_经典女神
-http://lakeblue.dynv6.net:16669/huya/11352909
+http://lakeblue.dynv6.net:16669/huya/11352909?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_许氏三杰
-http://lakeblue.dynv6.net:16669/huya/11602033
+http://lakeblue.dynv6.net:16669/huya/11602033?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_经典港片
-http://lakeblue.dynv6.net:16669/huya/11352965
+http://lakeblue.dynv6.net:16669/huya/11352965?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_镖行天下
-http://lakeblue.dynv6.net:16669/huya/11352969
+http://lakeblue.dynv6.net:16669/huya/11352969?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_高能反转
-http://lakeblue.dynv6.net:16669/huya/11352887
+http://lakeblue.dynv6.net:16669/huya/11352887?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_喜乐影院
-http://lakeblue.dynv6.net:16669/huya/21059580
+http://lakeblue.dynv6.net:16669/huya/21059580?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_蘑菇影厅
-http://lakeblue.dynv6.net:16669/huya/11601981
+http://lakeblue.dynv6.net:16669/huya/11601981?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_搞笑恐怖
-http://lakeblue.dynv6.net:16669/huya/11601960
+http://lakeblue.dynv6.net:16669/huya/11601960?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_死神来了
-http://lakeblue.dynv6.net:16669/huya/11352903
+http://lakeblue.dynv6.net:16669/huya/11352903?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_怪兽系列
-http://lakeblue.dynv6.net:16669/huya/21059554
+http://lakeblue.dynv6.net:16669/huya/21059554?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",搞笑_陈翔六点半
-http://lakeblue.dynv6.net:16669/huya/11274154
+http://lakeblue.dynv6.net:16669/huya/11274154?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",王子和史蒂文
 http://lakeblue.dynv6.net:16669/douyu/9583975
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",解说_恐怖电影解说
-http://lakeblue.dynv6.net:16669/huya/16741179
+http://lakeblue.dynv6.net:16669/huya/16741179?cdn=txcdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",解说_代娛說美劇
 http://lakeblue.dynv6.net:16669/douyu/9123570
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",科幻大片
@@ -1003,11 +952,11 @@ https://epg.pw/stream/579bda6ddd0173d963834b88fb895b778fc45cf390b531fbc05c708035
 
 #斗鱼点播
 #EXTINF:-1 group-title="斗鱼点播",音乐石榴🍁
-http://lakeblue.dynv6.net:16669/huya/17091681?media=hls
+http://lakeblue.dynv6.net:16669/huya/17091681?cdn=txcdn
 #EXTINF:-1 group-title="斗鱼点播",音乐速递🍁
-http://lakeblue.dynv6.net:16669/huya/19439762?media=hls
+http://lakeblue.dynv6.net:16669/huya/19439762?cdn=txcdn
 #EXTINF:-1 group-title="斗鱼点播",治愈放松🍁
-http://lakeblue.dynv6.net:16669/huya/21241811?media=hls
+http://lakeblue.dynv6.net:16669/huya/21241811?cdn=txcdn
 #EXTINF:-1 group-title="斗鱼点播",周杰伦点歌台🍁
 http://lakeblue.dynv6.net:16669/douyu/7537296
 #EXTINF:-1 group-title="斗鱼点播",音乐喵点歌🍁
