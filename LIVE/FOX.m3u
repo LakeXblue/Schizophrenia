@@ -325,7 +325,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/5000000007000010001/index.m3u8?
 #EXTINF:-1 tvg-id="bestv4K" tvg-name="bestv4K" tvg-logo="http://epg.hackserver.net/logo/BesTV-4K.png" group-title="4K频道",BesTV 4K
 https://stream1.freetv.fun/44222ef77a9f33ce98b4551743ea66383aa7e0a99085fa35fc5fcbabfab0befe.ctv
 #EXTINF:-1 tvg-id="彼岸KARA" tvg-name="彼岸KARA" tvg-logo="http://epg.hackserver.net/logo/douyu2.png" group-title="4K频道",彼岸K-pop 4K
-http://diyp.zxxoo.work/douyu/40471
+http://159.75.85.63:35455/douyu/40471
 
 
 #数字频道
@@ -481,400 +481,400 @@ http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000004/index.m3u8
 
 #影.剧轮播
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",万合天宜
-http://diyp.zxxoo.work/douyu/9220456
+http://159.75.85.63:35455/douyu/9220456
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",文西与阿漆
-http://diyp.zxxoo.work/douyu/8737695
+http://159.75.85.63:35455/douyu/8737695
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",伪装者•胡歌
-http://diyp.zxxoo.work/yy/1354936244
+http://159.75.85.63:35455/yy/1354936244
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",仙剑奇侠传•刘亦菲
-http://diyp.zxxoo.work/yy/1382749903
+http://159.75.85.63:35455/yy/1382749903
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",新三国
-http://diyp.zxxoo.work/douyu/5908256
+http://159.75.85.63:35455/douyu/5908256
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",新世界•孙红雷
-http://diyp.zxxoo.work/yy/1382736850
+http://159.75.85.63:35455/yy/1382736850
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",红楼梦87经典版
-http://diyp.zxxoo.work/yy/1382745084
+http://159.75.85.63:35455/yy/1382745084
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",纪晓岚
-http://diyp.zxxoo.work/huya/11342396
+http://159.75.85.63:35455/huya/11342396
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",庆馀年
-http://diyp.zxxoo.work/huya/11352960
+http://159.75.85.63:35455/huya/11352960
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",欢乐颂
-http://diyp.zxxoo.work/yy/1382735624
+http://159.75.85.63:35455/yy/1382735624
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",雪中悍刀行
-http://diyp.zxxoo.work/yy/1382660835
+http://159.75.85.63:35455/yy/1382660835
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",白夜追凶
-http://diyp.zxxoo.work/yy/1354932359
+http://159.75.85.63:35455/yy/1354932359
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",雍正王朝
-http://diyp.zxxoo.work/huya/11342439
+http://159.75.85.63:35455/huya/11342439
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",士兵突击
-http://diyp.zxxoo.work/huya/11342430
+http://159.75.85.63:35455/huya/11342430
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",爱情公寓
-http://diyp.zxxoo.work/huya/11336726
+http://159.75.85.63:35455/huya/11336726
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",家有儿女
-http://diyp.zxxoo.work/huya/11352872
+http://159.75.85.63:35455/huya/11352872
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",武林外传
-http://diyp.zxxoo.work/huya/21059598
+http://159.75.85.63:35455/huya/21059598
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",情满四合院
-http://diyp.zxxoo.work/huya/11342426
+http://159.75.85.63:35455/huya/11342426
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",天  道
-http://diyp.zxxoo.work/yy/1382735574
+http://159.75.85.63:35455/yy/1382735574
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",血色浪漫
-http://diyp.zxxoo.work/yy/1354926676
+http://159.75.85.63:35455/yy/1354926676
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鬼吹灯
 https://epg.pw/stream/88fd55cb4bd809a7f5e29ba31a1cad7396a5f1ea128a8ce6458d7be306d34b53.ctv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鬼吹灯之怒晴湘西
-http://diyp.zxxoo.work/huya/11602075
+http://159.75.85.63:35455/huya/11602075
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鬼吹灯之龙岭迷窟
-http://diyp.zxxoo.work/huya/29465863
+http://159.75.85.63:35455/huya/29465863
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鬼吹灯之云南虫谷
-http://diyp.zxxoo.work/huya/11352898
+http://159.75.85.63:35455/huya/11352898
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鬼吹灯之昆仑神宫
-http://diyp.zxxoo.work/huya/11601957
+http://159.75.85.63:35455/huya/11601957
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鬼吹灯之南海归墟
-http://diyp.zxxoo.work/huya/11352883
+http://159.75.85.63:35455/huya/11352883
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",封神榜
-http://diyp.zxxoo.work/huya/23749096
+http://159.75.85.63:35455/huya/23749096
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",西游记•张卫健版 I
-http://diyp.zxxoo.work/huya/23735126
+http://159.75.85.63:35455/huya/23735126
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",西游记•张卫健版 II
-http://diyp.zxxoo.work/huya/23728660
+http://159.75.85.63:35455/huya/23728660
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",楚汉骄雄
-http://diyp.zxxoo.work/huya/23740156
+http://159.75.85.63:35455/huya/23740156
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鹿鼎记•陈小春
-http://diyp.zxxoo.work/huya/23865080
+http://159.75.85.63:35455/huya/23865080
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鹿鼎记•梁朝伟
-http://diyp.zxxoo.work/huya/23734183
+http://159.75.85.63:35455/huya/23734183
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",天龙八部•1997
-http://diyp.zxxoo.work/huya/23903123
+http://159.75.85.63:35455/huya/23903123
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",刑事侦缉档案
-http://diyp.zxxoo.work/huya/23734169
+http://159.75.85.63:35455/huya/23734169
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",寻秦记•古天乐 郭羡妮
-http://diyp.zxxoo.work/huya/23864973
+http://159.75.85.63:35455/huya/23864973
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",法证先锋
-http://diyp.zxxoo.work/huya/23863804
+http://159.75.85.63:35455/huya/23863804
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",陀枪师姐
-http://diyp.zxxoo.work/huya/23860039
+http://159.75.85.63:35455/huya/23860039
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",笑傲江湖•吕颂贤
-http://diyp.zxxoo.work/yy/1354930909
+http://159.75.85.63:35455/yy/1354930909
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",笑傲江湖•许晴
-http://diyp.zxxoo.work/yy/1354282410
+http://159.75.85.63:35455/yy/1354282410
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",洗冤录
-http://diyp.zxxoo.work/huya/23903130
+http://159.75.85.63:35455/huya/23903130
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",我和僵屍有個約會•尹天照 万绮雯
-http://diyp.zxxoo.work/yy/1354143966
+http://159.75.85.63:35455/yy/1354143966
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",83射雕英雄傳
-http://diyp.zxxoo.work/yy/1354210357
+http://159.75.85.63:35455/yy/1354210357
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",射雕之九阴真经•姜大卫 张智霖
 https://epg.pw/stream/2245ffcbcc59ce19ec9d11555d4c748f4c7ca9d8566f22d58531fd7413431d01.ctv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",倚天屠龙记•吴启华
-http://diyp.zxxoo.work/huya/23734246
+http://159.75.85.63:35455/huya/23734246
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",倚天屠龍記•苏有朋
-http://diyp.zxxoo.work/yy/1449856066
+http://159.75.85.63:35455/yy/1449856066
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",神雕侠侣•古天乐
-http://diyp.zxxoo.work/huya/23865171
+http://159.75.85.63:35455/huya/23865171
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",鉴证实录
-http://diyp.zxxoo.work/huya/23903183
+http://159.75.85.63:35455/huya/23903183
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",创世纪
-http://diyp.zxxoo.work/huya/23749083
+http://159.75.85.63:35455/huya/23749083
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",使徒行者
-http://diyp.zxxoo.work/huya/23734256
+http://159.75.85.63:35455/huya/23734256
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",金枝欲孽
-http://diyp.zxxoo.work/huya/23865036
+http://159.75.85.63:35455/huya/23865036
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",大唐双龙传
-http://diyp.zxxoo.work/huya/23728674
+http://159.75.85.63:35455/huya/23728674
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",妙手仁心
-http://diyp.zxxoo.work/huya/23829543
+http://159.75.85.63:35455/huya/23829543
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",扫黄先锋
-http://diyp.zxxoo.work/huya/23903196
+http://159.75.85.63:35455/huya/23903196
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",笑看风云
-http://diyp.zxxoo.work/huya/23865058
+http://159.75.85.63:35455/huya/23865058
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",大时代
-http://diyp.zxxoo.work/huya/23865161
+http://159.75.85.63:35455/huya/23865161
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",大明王朝1566•豆瓣最高分剧集
-http://diyp.zxxoo.work/yy/1382736879
+http://159.75.85.63:35455/yy/1382736879
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",天下第一•叶璇 黄圣依
-http://diyp.zxxoo.work/yy/1382736838
+http://159.75.85.63:35455/yy/1382736838
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",新白娘子傳奇•赵雅芝
-http://diyp.zxxoo.work/yy/1354490667
+http://159.75.85.63:35455/yy/1354490667
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",斗罗大陆•唐家三少
-http://diyp.zxxoo.work/huya/11352906
+http://159.75.85.63:35455/huya/11352906
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",(日)(动画)全职猎人
-http://diyp.zxxoo.work/douyu/6610883
+http://159.75.85.63:35455/douyu/6610883
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",(日)(动画)火影忍者
-http://diyp.zxxoo.work/yy/1355336008
+http://159.75.85.63:35455/yy/1355336008
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",(日)(动画)灌篮高手
-http://diyp.zxxoo.work/yy/1382735626
+http://159.75.85.63:35455/yy/1382735626
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",来自星星的你[韩]
-http://diyp.zxxoo.work/yy/1354930976
+http://159.75.85.63:35455/yy/1354930976
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",请回答1988[韩]
-http://diyp.zxxoo.work/yy/1354932362
+http://159.75.85.63:35455/yy/1354932362
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",超异能族[韩]
-http://diyp.zxxoo.work/huya/21059586
+http://159.75.85.63:35455/huya/21059586
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",憨豆先生 
-http://diyp.zxxoo.work/yy/1354930189
+http://159.75.85.63:35455/yy/1354930189
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",yy电影-张国荣
-http://diyp.zxxoo.work/yy/1354930961
+http://159.75.85.63:35455/yy/1354930961
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",yy电影-李连杰
-http://diyp.zxxoo.work/yy/1459869766
+http://159.75.85.63:35455/yy/1459869766
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",YY电影-成龙
-http://diyp.zxxoo.work/yy/1354888751
+http://159.75.85.63:35455/yy/1354888751
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",YY电影-欧美电影
-http://diyp.zxxoo.work/yy/24923327
+http://159.75.85.63:35455/yy/24923327
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",YY电影-欧美科幻
-http://diyp.zxxoo.work/yy/37988782
+http://159.75.85.63:35455/yy/37988782
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",周星驰
-http://diyp.zxxoo.work/douyu/122402
+http://159.75.85.63:35455/douyu/122402
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",周星驰粤语
-http://diyp.zxxoo.work/douyu/6566671
+http://159.75.85.63:35455/douyu/6566671
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_星爷
-http://diyp.zxxoo.work/huya/11342412
+http://159.75.85.63:35455/huya/11342412
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",成龙
-http://diyp.zxxoo.work/douyu/3379942
+http://159.75.85.63:35455/douyu/3379942
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_成龙
-http://diyp.zxxoo.work/huya/11342386
+http://159.75.85.63:35455/huya/11342386
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_英叔
-http://diyp.zxxoo.work/huya/11342421
+http://159.75.85.63:35455/huya/11342421
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_发哥
-http://diyp.zxxoo.work/huya/11342387
+http://159.75.85.63:35455/huya/11342387
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_王晶
-http://diyp.zxxoo.work/huya/11602058
+http://159.75.85.63:35455/huya/11602058
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_沈腾
-http://diyp.zxxoo.work/huya/11601968
+http://159.75.85.63:35455/huya/11601968
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_黄渤
-http://diyp.zxxoo.work/huya/11352876
+http://159.75.85.63:35455/huya/11352876
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_强森
-http://diyp.zxxoo.work/huya/21059581
+http://159.75.85.63:35455/huya/21059581
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_漫威
-http://diyp.zxxoo.work/huya/11602034
+http://159.75.85.63:35455/huya/11602034
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_宇宙
-http://diyp.zxxoo.work/huya/11342428
+http://159.75.85.63:35455/huya/11342428
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_怪兽
-http://diyp.zxxoo.work/huya/21059577
+http://159.75.85.63:35455/huya/21059577
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_武侠
-http://diyp.zxxoo.work/huya/11342427
+http://159.75.85.63:35455/huya/11342427
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_警匪
-http://diyp.zxxoo.work/huya/11352886
+http://159.75.85.63:35455/huya/11352886
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_罪犯
-http://diyp.zxxoo.work/huya/11352962
+http://159.75.85.63:35455/huya/11352962
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_枪战
-http://diyp.zxxoo.work/huya/21059579
+http://159.75.85.63:35455/huya/21059579
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_海盗
-http://diyp.zxxoo.work/huya/21059595
+http://159.75.85.63:35455/huya/21059595
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_赛车
-http://diyp.zxxoo.work/huya/11279247
+http://159.75.85.63:35455/huya/11279247
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_推荐
-http://diyp.zxxoo.work/huya/11602041
+http://159.75.85.63:35455/huya/11602041
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_救援
-http://diyp.zxxoo.work/huya/21059594
+http://159.75.85.63:35455/huya/21059594
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_热血
-http://diyp.zxxoo.work/huya/11352934
+http://159.75.85.63:35455/huya/11352934
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_盗墓
-http://diyp.zxxoo.work/huya/21059552
+http://159.75.85.63:35455/huya/21059552
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_贺岁
-http://diyp.zxxoo.work/huya/11601971
+http://159.75.85.63:35455/huya/11601971
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_玄幻
-http://diyp.zxxoo.work/huya/11342414
+http://159.75.85.63:35455/huya/11342414
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_谍战
-http://diyp.zxxoo.work/huya/21059585
+http://159.75.85.63:35455/huya/21059585
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_战争
-http://diyp.zxxoo.work/huya/21059592
+http://159.75.85.63:35455/huya/21059592
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_喜剧
-http://diyp.zxxoo.work/huya/11352877
+http://159.75.85.63:35455/huya/11352877
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_港片
-http://diyp.zxxoo.work/huya/11602043
+http://159.75.85.63:35455/huya/11602043
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_国产
-http://diyp.zxxoo.work/huya/11352973
+http://159.75.85.63:35455/huya/11352973
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_五福星
-http://diyp.zxxoo.work/huya/11282233
+http://159.75.85.63:35455/huya/11282233
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_邱淑贞
-http://diyp.zxxoo.work/huya/11352949
+http://159.75.85.63:35455/huya/11352949
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_古天乐
-http://diyp.zxxoo.work/huya/11602041
+http://159.75.85.63:35455/huya/11602041
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_徐克
-http://diyp.zxxoo.work/huya/11352909
+http://159.75.85.63:35455/huya/11352909
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_冯小刚
-http://diyp.zxxoo.work/huya/11352906
+http://159.75.85.63:35455/huya/11352906
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_李连杰
-http://diyp.zxxoo.work/huya/11342390
+http://159.75.85.63:35455/huya/11342390
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_甄子丹
 https://epg.pw/stream/b3c5fb71d628359db3178eafbbacd4fa5379703565645966308ad63c0cefef6f.ctv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_洪金宝
-http://diyp.zxxoo.work/huya/11279251
+http://159.75.85.63:35455/huya/11279251
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_梁家辉
-http://diyp.zxxoo.work/huya/11342429
+http://159.75.85.63:35455/huya/11342429
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_许冠英
-http://diyp.zxxoo.work/huya/11601972
+http://159.75.85.63:35455/huya/11601972
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_刘德华
-http://diyp.zxxoo.work/huya/11342424
+http://159.75.85.63:35455/huya/11342424
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_斯坦森
-http://diyp.zxxoo.work/huya/21059588
+http://159.75.85.63:35455/huya/21059588
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_小鬼头
-http://diyp.zxxoo.work/huya/11352963
+http://159.75.85.63:35455/huya/11352963
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_八点档
-http://diyp.zxxoo.work/huya/880261
+http://159.75.85.63:35455/huya/880261
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_蜘蛛侠
-http://diyp.zxxoo.work/huya/21059599
+http://159.75.85.63:35455/huya/21059599
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_贺岁片
-http://diyp.zxxoo.work/huya/11601986
+http://159.75.85.63:35455/huya/11601986
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_功夫片
-http://diyp.zxxoo.work/huya/11352941
+http://159.75.85.63:35455/huya/11352941
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_黑帮片
-http://diyp.zxxoo.work/huya/11336719
+http://159.75.85.63:35455/huya/11336719
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_丧尸片
-http://diyp.zxxoo.work/huya/21059578
+http://159.75.85.63:35455/huya/21059578
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_灾难片
-http://diyp.zxxoo.work/huya/11602075
+http://159.75.85.63:35455/huya/11602075
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_谍战片
-http://diyp.zxxoo.work/huya/21059587
+http://159.75.85.63:35455/huya/21059587
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_战争片
-http://diyp.zxxoo.work/huya/21059574
+http://159.75.85.63:35455/huya/21059574
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_犯罪片
-http://diyp.zxxoo.work/huya/11352974
+http://159.75.85.63:35455/huya/11352974
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_古装片
-http://diyp.zxxoo.work/huya/11336590
+http://159.75.85.63:35455/huya/11336590
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_高分动作
-http://diyp.zxxoo.work/huya/11352884
+http://159.75.85.63:35455/huya/11352884
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_动作电影
-http://diyp.zxxoo.work/huya/11602077
+http://159.75.85.63:35455/huya/11602077
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_搞笑喜剧
-http://diyp.zxxoo.work/huya/11342423
+http://159.75.85.63:35455/huya/11342423
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_喜剧专场
-http://diyp.zxxoo.work/huya/11602044
+http://159.75.85.63:35455/huya/11602044
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_欢笑影院
-http://diyp.zxxoo.work/huya/11352894
+http://159.75.85.63:35455/huya/11352894
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_不挤影院
-http://diyp.zxxoo.work/huya/11352897
+http://159.75.85.63:35455/huya/11352897
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_国产悬疑
-http://diyp.zxxoo.work/huya/11342395
+http://159.75.85.63:35455/huya/11342395
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_快意江湖
-http://diyp.zxxoo.work/huya/11342435
+http://159.75.85.63:35455/huya/11342435
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_黑帮斗争
-http://diyp.zxxoo.work/huya/11342419
+http://159.75.85.63:35455/huya/11342419
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_古墓系列
-http://diyp.zxxoo.work/huya/11352913
+http://159.75.85.63:35455/huya/11352913
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_嫣然影厅
-http://diyp.zxxoo.work/huya/11601977
+http://159.75.85.63:35455/huya/11601977
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_女神系列
-http://diyp.zxxoo.work/huya/11336571
+http://159.75.85.63:35455/huya/11336571
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_经典女神
-http://diyp.zxxoo.work/huya/11352909
+http://159.75.85.63:35455/huya/11352909
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_许氏三杰
-http://diyp.zxxoo.work/huya/11602033
+http://159.75.85.63:35455/huya/11602033
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_经典港片
-http://diyp.zxxoo.work/huya/11352965
+http://159.75.85.63:35455/huya/11352965
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_镖行天下
-http://diyp.zxxoo.work/huya/11352969
+http://159.75.85.63:35455/huya/11352969
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_高能反转
-http://diyp.zxxoo.work/huya/11352887
+http://159.75.85.63:35455/huya/11352887
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_喜乐影院
-http://diyp.zxxoo.work/huya/21059580
+http://159.75.85.63:35455/huya/21059580
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_蘑菇影厅
-http://diyp.zxxoo.work/huya/11601981
+http://159.75.85.63:35455/huya/11601981
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_搞笑恐怖
-http://diyp.zxxoo.work/huya/11601960
+http://159.75.85.63:35455/huya/11601960
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_死神来了
-http://diyp.zxxoo.work/huya/11352903
+http://159.75.85.63:35455/huya/11352903
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",电影_怪兽系列
-http://diyp.zxxoo.work/huya/21059554
+http://159.75.85.63:35455/huya/21059554
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",搞笑_陈翔六点半
-http://diyp.zxxoo.work/huya/11274154
+http://159.75.85.63:35455/huya/11274154
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",王子和史蒂文
-http://diyp.zxxoo.work/douyu/9583975
+http://159.75.85.63:35455/douyu/9583975
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",解说_恐怖电影解说
-http://diyp.zxxoo.work/huya/16741179
+http://159.75.85.63:35455/huya/16741179
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",解说_代娛說美劇
-http://diyp.zxxoo.work/douyu/9123570
+http://159.75.85.63:35455/douyu/9123570
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",科幻大片
-http://diyp.zxxoo.work/yy/1382747628
+http://159.75.85.63:35455/yy/1382747628
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",变形金刚系列
-http://diyp.zxxoo.work/yy/1382736803
+http://159.75.85.63:35455/yy/1382736803
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",敢死队系列
-http://diyp.zxxoo.work/yy/1382735573
+http://159.75.85.63:35455/yy/1382735573
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",古惑仔系列
-http://diyp.zxxoo.work/yy/1354507447
+http://159.75.85.63:35455/yy/1354507447
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",速度与激情全集
-http://diyp.zxxoo.work/yy/1382749892
+http://159.75.85.63:35455/yy/1382749892
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影.剧轮播",罗翔 法外狂徒张三
 https://epg.pw/stream/579bda6ddd0173d963834b88fb895b778fc45cf390b531fbc05c708035263c26.ctv
 
 
 #斗鱼点播
 #EXTINF:-1 group-title="斗鱼点播",音乐石榴🍁
-http://diyp.zxxoo.work/huya/17091681
+http://159.75.85.63:35455/huya/17091681
 #EXTINF:-1 group-title="斗鱼点播",音乐速递🍁
-http://diyp.zxxoo.work/huya/19439762
+http://159.75.85.63:35455/huya/19439762
 #EXTINF:-1 group-title="斗鱼点播",治愈放松🍁
-http://diyp.zxxoo.work/huya/21241811
+http://159.75.85.63:35455/huya/21241811
 #EXTINF:-1 group-title="斗鱼点播",周杰伦点歌台🍁
-http://diyp.zxxoo.work/douyu/7537296
+http://159.75.85.63:35455/douyu/7537296
 #EXTINF:-1 group-title="斗鱼点播",音乐喵点歌🍁
-http://diyp.zxxoo.work/douyu/3870925
+http://159.75.85.63:35455/douyu/3870925
 #EXTINF:-1 group-title="斗鱼点播",K-pop D2点歌🍁
-http://diyp.zxxoo.work/douyu/113158
+http://159.75.85.63:35455/douyu/113158
 #EXTINF:-1 group-title="斗鱼点播",K-pop D3点歌🍁
-http://diyp.zxxoo.work/douyu/8189873
+http://159.75.85.63:35455/douyu/8189873
 #EXTINF:-1 group-title="斗鱼点播",K-pop D4点歌🍁
-http://diyp.zxxoo.work/douyu/8266799
+http://159.75.85.63:35455/douyu/8266799
 #EXTINF:-1 group-title="斗鱼点播",吃米滴虫✔原
-http://diyp.zxxoo.work/douyu/315457
+http://159.75.85.63:35455/douyu/315457
 #EXTINF:-1 group-title="斗鱼点播",冰冰经典✔原
-http://diyp.zxxoo.work/douyu/74374
+http://159.75.85.63:35455/douyu/74374
 #EXTINF:-1 group-title="斗鱼点播",网神影厅✔原
-http://diyp.zxxoo.work/douyu/508118
+http://159.75.85.63:35455/douyu/508118
 #EXTINF:-1 group-title="斗鱼点播",特辑电影✔原
-http://diyp.zxxoo.work/douyu/3637778
+http://159.75.85.63:35455/douyu/3637778
 #EXTINF:-1 group-title="斗鱼点播",瑶瑶恐怖✔原
-http://diyp.zxxoo.work/douyu/2935323
+http://159.75.85.63:35455/douyu/2935323
 #EXTINF:-1 group-title="斗鱼点播",怡寶影院✔原
-http://diyp.zxxoo.work/douyu/434971
+http://159.75.85.63:35455/douyu/434971
 #EXTINF:-1 group-title="斗鱼点播",萌小鬼片✔原
-http://diyp.zxxoo.work/douyu/3928
+http://159.75.85.63:35455/douyu/3928
 #EXTINF:-1 group-title="斗鱼点播",小白蓝光✔原
-http://diyp.zxxoo.work/douyu/322360
+http://159.75.85.63:35455/douyu/322360
 #EXTINF:-1 group-title="斗鱼点播",炫酷剧场✔原
-http://diyp.zxxoo.work/douyu/36337
+http://159.75.85.63:35455/douyu/36337
 #EXTINF:-1 group-title="斗鱼点播",怀旧经典✔原
-http://diyp.zxxoo.work/douyu/12143022
+http://159.75.85.63:35455/douyu/12143022
 #EXTINF:-1 group-title="斗鱼点播",小宇60帧✔原
-http://diyp.zxxoo.work/douyu/323876
+http://159.75.85.63:35455/douyu/323876
 #EXTINF:-1 group-title="斗鱼点播",恐怖惊悚✔原
-http://diyp.zxxoo.work/douyu/96577
+http://159.75.85.63:35455/douyu/96577
 #EXTINF:-1 group-title="斗鱼点播",越狱劇場✔原
-http://diyp.zxxoo.work/douyu/7575350
+http://159.75.85.63:35455/douyu/7575350
 #EXTINF:-1 group-title="斗鱼点播",豆瓣高分✔原
-http://diyp.zxxoo.work/douyu/8770422
+http://159.75.85.63:35455/douyu/8770422
 #EXTINF:-1 group-title="斗鱼点播",漫威剧情✔原
-http://diyp.zxxoo.work/douyu/6140589
+http://159.75.85.63:35455/douyu/6140589
 #EXTINF:-1 group-title="斗鱼点播",霍格沃茨✔原
-http://diyp.zxxoo.work/douyu/8814650
+http://159.75.85.63:35455/douyu/8814650
 #EXTINF:-1 group-title="斗鱼点播",鱼宝恐怖✔原
-http://diyp.zxxoo.work/douyu/1165374
+http://159.75.85.63:35455/douyu/1165374
 #EXTINF:-1 group-title="斗鱼点播",吃木瓜虫✔原
-http://diyp.zxxoo.work/douyu/263824
+http://159.75.85.63:35455/douyu/263824
 #EXTINF:-1 group-title="斗鱼点播",变种人片✔原
-http://diyp.zxxoo.work/douyu/9651304
+http://159.75.85.63:35455/douyu/9651304
 #EXTINF:-1 group-title="斗鱼点播",喜剧电影✔原
-http://diyp.zxxoo.work/douyu/9292492
+http://159.75.85.63:35455/douyu/9292492
 #EXTINF:-1 group-title="斗鱼点播",女神电影✔原
-http://diyp.zxxoo.work/douyu/747764
+http://159.75.85.63:35455/douyu/747764
 #EXTINF:-1 group-title="斗鱼点播",欧美大片✔原
-http://diyp.zxxoo.work/douyu/2793084
+http://159.75.85.63:35455/douyu/2793084
 #EXTINF:-1 group-title="斗鱼点播",贝爷MAX60帧✔原
-http://diyp.zxxoo.work/douyu/4332
+http://159.75.85.63:35455/douyu/4332
 #EXTINF:-1 group-title="斗鱼点播",贝爷影厅✔原
-http://diyp.zxxoo.work/douyu/252802
+http://159.75.85.63:35455/douyu/252802
 #EXTINF:-1 group-title="斗鱼点播",邦德影院✔原
-http://diyp.zxxoo.work/douyu/9292499
+http://159.75.85.63:35455/douyu/9292499
 #EXTINF:-1 group-title="斗鱼点播",看美剧✔原
-http://diyp.zxxoo.work/douyu/8869614
+http://159.75.85.63:35455/douyu/8869614
 #EXTINF:-1 group-title="斗鱼点播",星爷影院✔原
-http://diyp.zxxoo.work/douyu/122402
+http://159.75.85.63:35455/douyu/122402
 #EXTINF:-1 group-title="斗鱼点播",神乐欧美✔原
-http://diyp.zxxoo.work/douyu/20415
+http://159.75.85.63:35455/douyu/20415
 #EXTINF:-1 group-title="斗鱼点播",神乐华语✔原
-http://diyp.zxxoo.work/douyu/85894
+http://159.75.85.63:35455/douyu/85894
 #EXTINF:-1 group-title="斗鱼点播",漫威君✔原
-http://diyp.zxxoo.work/douyu/1713615
+http://159.75.85.63:35455/douyu/1713615
 
 
 #亚洲音乐MV
