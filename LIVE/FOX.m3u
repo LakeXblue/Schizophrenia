@@ -527,9 +527,9 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/1000000003000012426/1.m3u8?chann
 #EXTINF:-1 tvg-id="newtv动作电影" tvg-name="newtv动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/NewTV03.png" group-title="NewTV",动作电影
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="newtv明星大片" tvg-name="newtv明星大片" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/NewTV12.png" group-title="NewTV",明星大片
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
+http://[2409:8087:5e00:24::029]:6610/000000001000/2000000003000000016/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="newtv海外剧场" tvg-name="newtv海外剧场" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/NewTV06.png" group-title="NewTV",海外剧场
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="newtv超级综艺" tvg-name="newtv超级综艺" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/NewTV24.png" group-title="NewTV",超级综艺
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000006000268002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="newtv潮妈辣婆" tvg-name="newtv潮妈辣婆" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/NewTV15.png" group-title="NewTV",潮妈辣婆
