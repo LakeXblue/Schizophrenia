@@ -375,16 +375,12 @@ http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1,tvg-id="axn" tvg-name="axn" tvg-logo="https://epg.v1.mk/logo/axn.png" group-title="AKTV",AXN
 http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-#EXTINF:-1,tvg-id="iFun动漫台" tvg-name="iFun动漫台" tvg-logo="https://epg.v1.mk/logo/iFun动漫台.png" group-title="AKTV",i-Fun 動漫台
-http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 #EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="AKTV",Love Nature HD
 http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
 #EXTINF:-1,tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://epg.v1.mk/logo/VIUTV6.png" group-title="AKTV",viutv 99
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 #EXTINF:-1,tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://epg.v1.mk/logo/VIUTV6.png" group-title="AKTV",viutv6 96
 http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-#EXTINF:-1,tvg-id="ANIMAXHK" tvg-name="ANIMAXHK" tvg-logo="https://epg.v1.mk/logo/ANIMAXHK.png" group-title="AKTV",Animax(HK)
-http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1,tvg-id="AstroAEC" tvg-name="AstroAEC" tvg-logo="https://epg.v1.mk/logo/AstroAEC.png" group-title="AKTV",Astro AEC
 http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 #EXTINF:-1,tvg-id="[ASTRO]712WARNERTV" tvg-name="[ASTRO]712WARNERTV" tvg-logo="https://epg.v1.mk/logo/[ASTRO]712WARNERTV.png" group-title="AKTV",Astro iQIYI
@@ -455,7 +451,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/fashiontv.png" group-title="4K频道",FashionTV 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/纯享4K.png" group-title="4K频道",纯享4K
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/爱上4K.png" group-title="4K频道",爱上4K
 http://171.213.206.235:8686/udp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="华数4K电影" tvg-name="华数4K电影" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/huashu4k.png" group-title="4K频道",华数4K电影
@@ -466,33 +462,51 @@ http://[2409:8087:5e00:24::029]:6610/000000001001/5000000007000010001/index.m3u8
 http://dns.yiandrive.com:15907/douyu/40471
 
 
-#数字频道
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CHC影迷电影.png" group-title="数字频道",CHC影迷电影*
-http://39.135.140.104:6610/PLTV/88888888/224/3221226305/2/index.m3u8
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CHC动作电影.png" group-title="数字频道",CHC动作电影*
-http://39.135.140.104:6610/PLTV/88888888/224/3221226308/2/index.m3u8
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院*
-http://39.135.140.104:6610/PLTV/88888888/224/3221226319/2/index.m3u8
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/hxjchd.png" group-title="数字频道",SiTV欢笑剧场
-http://[2409:8087:5e08:24::2]:6610/000000001001/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/dsjc.png" group-title="数字频道",SiTV都市剧场
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031111/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/jcys.png" group-title="数字频道",精彩影视
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/动漫秀场.png" group-title="数字频道",SiTV动漫秀场
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/海南少儿.png" group-title="数字频道",海南少儿
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/黑莓电影.png" group-title="数字频道",黑莓电影
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
+#动漫
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/hmdh.png" group-title="数字频道",黑莓动画
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/leyou.png" group-title="数字频道",SiTV乐游
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
+http://[2409:8087:5e00:24::029]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/海南少儿.png" group-title="数字频道",海南少儿
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京卡酷少儿.png" group-title="数字频道",卡酷少儿
+http://[2409:8087:5e08:24::d]:6610/000000001000/7851974109718180595/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/动漫秀场.png" group-title="数字频道",动漫秀场
+http://[2409:8087:5e08:24::d]:6610/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="iFun动漫台" tvg-name="iFun动漫台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IFUN.png" group-title="AKTV",i-Fun 動漫台
+http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+#EXTINF:-1 tvg-id="ANIMAXHK" tvg-name="ANIMAXHK" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ANIMAX.png" group-title="AKTV",Animax(HK)
+http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+
+
+
+#电影文娱
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226305/2/index.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/CHC动作电影.png" group-title="数字频道",CHC动作电影
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226308/2/index.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226319/2/index.m3u8
+#EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/bjtdy.png" group-title="数字频道",北京淘电影
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/bjtjc.png" group-title="数字频道",北京淘剧场
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="北京淘娱乐" tvg-name="北京淘娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/bjtyl.png" group-title="数字频道",北京淘娱乐
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/黑莓电影.png" group-title="数字频道",黑莓电影
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/jcys.png" group-title="数字频道",精彩影视
+http://[2409:8087:5e08:24::d]:6610/000000001001/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/hxjchd.png" group-title="数字频道",SiTV欢笑剧场
+http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/dsjc.png" group-title="数字频道",SiTV都市剧场
+http://[2409:8087:5e08:24::d]:6610/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/shss.png" group-title="数字频道",SiTV生活时尚
-http://[2409:8087:5e08:24::2]:6610/000000001001/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/shss.png" group-title="数字频道",SiTV游戏风云
+http://[2409:8087:5e08:24::d]:6610/000000001000/5000000011000031114/index.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/leyou.png" group-title="数字频道",SiTV乐游
+http://[2409:8087:5e08:24::d]:6610/000000001000/5000000011000031112/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/求索动物1.png" group-title="数字频道",求索动物
 http://[2409:8087:5e08:24::2]:6610/000000001001/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/求索纪录1.png" group-title="数字频道",求索记录
@@ -501,14 +515,13 @@ http://[2409:8087:5e08:24::2]:6610/000000001001/6000000002000032052/index.m3u8?c
 http://[2409:8087:5e08:24::2]:6610/000000001001/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/求索生活1.png" group-title="数字频道",求索生活
 http://[2409:8087:5e08:24::2]:6610/000000001001/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-
-#EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/fashiontv.png" group-title="数字频道",FashionTV EU「时尚」
+#EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/FASHIONTV.png" group-title="数字频道",FashionTV EU「时尚」
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/fashiontv.png" group-title="数字频道",FashionTV EN「时尚」
+#EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/FASHIONTV.png" group-title="数字频道",FashionTV EN「时尚」
 https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-#EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/fashiontv.png" group-title="数字频道",FashionTV IN「时尚」
+#EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/FASHIONTV.png" group-title="数字频道",FashionTV IN「时尚」
 https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
-#EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/fashiontv.png" group-title="数字频道",FashionTV IU「时尚」
+#EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/FASHIONTV.png" group-title="数字频道",FashionTV IU「时尚」
 https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/stream.m3u8
 
 
