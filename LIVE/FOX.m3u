@@ -469,14 +469,18 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
 http://[2409:8087:5e00:24::029]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/海南少儿.png" group-title="动漫",海南少儿
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京卡酷少儿.png" group-title="动漫",卡酷少儿
-http://[2409:8087:5e08:24::d]:6610/000000001000/7851974109718180595/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京卡酷少儿.png" group-title="动漫",卡酷少儿
+http://[2409:8087:5e08:24::d]:6610/000000001001/1000000002000002413/index.m3u8?channel-id=ystenlive&Contentid=1000000002000002413&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/动漫秀场.png" group-title="动漫",动漫秀场
 http://[2409:8087:5e08:24::d]:6610/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="iFun动漫台" tvg-name="iFun动漫台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IFUN.png" group-title="动漫",i-Fun 動漫台
 http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 #EXTINF:-1 tvg-id="ANIMAXHK" tvg-name="ANIMAXHK" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ANIMAX.png" group-title="动漫",Animax(HK)
 http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1 tvg-name="青春动漫" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/梦工厂动画.png" group-title="动漫",宝宝动画
+http://[2409:8087:5e08:24::2]:6610/000000001001/5000000006000040024/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000288002
+#EXTINF:-1 tvg-name="宝宝动画" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/梦工厂动画.png" group-title="动漫",青春动漫
+http://[2409:8087:5e08:24::2]:6610/000000001001/5000000006000040024/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000288008
 
 
 
