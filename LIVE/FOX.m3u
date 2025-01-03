@@ -427,13 +427,13 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010147/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270005/1.m3u8
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/咪咕体育.png" group-title="体育.竞技",睛彩篮球
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270002/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/咪咕体育.png" group-title="体育.竞技",篮球长镜头
-https://epg.pw/stream/1ece6e27daea56c2563b94db8f5953e8d9c68a9b49044541f8ddb903a4e74ba2.ctv
 #EXTINF:-1 vg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/魅力足球.png" group-title="体育.竞技",魅力足球
-http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
-#EXTINF:-1 tvg-name="nba tv" tvg-id="nba tv" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/31/large/20170331001240076889_34.png" group-title="体育.竞技",NBA TV
+http://[2409:8087:5e08:24::d]:6610/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NBATV.png" group-title="体育.竞技",篮球长镜头
+https://epg.pw/stream/1ece6e27daea56c2563b94db8f5953e8d9c68a9b49044541f8ddb903a4e74ba2.ctv
+#EXTINF:-1 tvg-name="nba tv" tvg-id="nba tv" tvg-country="United States" tvg-language="English" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NBATV.png" group-title="体育.竞技",NBA TV
 https://stream1.freetv.fun/3b6414cf619308a7d6edc3d1cc885fcbc8512eef391f4a88ef40d169ad9c77ef.ctv
-#EXTINF:-1 tvg-id="RedBullTV" tvg-name="RedBullTV" tvg-logo="https://epg.pw/media/images/channel/2022/05/16/large/20220516155835221115_90.jpg" group-title="体育.竞技",Red Bull TV
+#EXTINF:-1 tvg-id="RedBullTV" tvg-name="RedBullTV" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/redbulltv.png" group-title="体育.竞技",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/wssj.png" group-title="体育.竞技",武术世界
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
