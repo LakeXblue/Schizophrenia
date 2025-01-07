@@ -270,11 +270,11 @@ http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/亚洲新闻.png" group-title="AKTV",亞洲新聞台
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1,tvg-id="channel5hd" tvg-name="channel5" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/Channel5.png" group-title="AKTV", Channel 5 HD
+#EXTINF:-1,tvg-id="channel5hd" tvg-name="channel5" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/c5.png" group-title="AKTV", Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1,tvg-id="channel8hd" tvg-name="channel8" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/Channel8.png" group-title="AKTV", Channel 8 HD
+#EXTINF:-1,tvg-id="channel8hd" tvg-name="channel8" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/c8.png" group-title="AKTV", Channel 8 HD
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1,tvg-id="channeluhd" tvg-name="channelu" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ChannelU.png" group-title="AKTV", Channel U HD
+#EXTINF:-1,tvg-id="channeluhd" tvg-name="channelu" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/cu.png" group-title="AKTV", Channel U HD
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/MYTVSUPER18.png" group-title="AKTV",myTV SUPER 18台
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
