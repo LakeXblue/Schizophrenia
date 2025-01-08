@@ -272,11 +272,11 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 #AKTV
 #EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/亚洲新闻.png" group-title="AKTV",亞洲新聞台
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1,tvg-id="channel5hd" tvg-name="channel5" tvg-logo="https://github.moeyy.xyz/https://github.com/LakeXblue/Schizophrenia/blob/main/icon/c5.png" group-title="AKTV", Channel 5 HD
+#EXTINF:-1,tvg-id="channel5hd" tvg-name="channel5" tvg-logo="https://epg.v1.mk/logo/channel5.png" group-title="AKTV", Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1,tvg-id="channel8hd" tvg-name="channel8" tvg-logo="https://github.moeyy.xyz/https://github.com/LakeXblue/Schizophrenia/blob/main/icon/c8.png" group-title="AKTV", Channel 8 HD
+#EXTINF:-1,tvg-id="channel8hd" tvg-name="channel8" tvg-logo="https://epg.v1.mk/logo/channel5.png" group-title="AKTV", Channel 8 HD
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1,tvg-id="channeluhd" tvg-name="channelu" tvg-logo="https://github.moeyy.xyz/https://github.com/LakeXblue/Schizophrenia/blob/main/icon/cu.png" group-title="AKTV", Channel U HD
+#EXTINF:-1,tvg-id="channeluhd" tvg-name="channelu" tvg-logo="https://epg.v1.mk/logo/channel5.png" group-title="AKTV", Channel U HD
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/MYTVSUPER18.png" group-title="AKTV",myTV SUPER 18台
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
@@ -294,7 +294,7 @@ http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1,tvg-id="tvn" tvg-name="tvn" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVN.png" group-title="AKTV",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1,tvg-id="东森亚洲新闻台" tvg-name="东森亚洲新闻台" tvg-logo="https://github.moeyy.xyz/https://github.com/LakeXblue/Schizophrenia/blob/main/icon/东森新闻.png" group-title="AKTV", 東森新聞
+#EXTINF:-1,tvg-id="东森亚洲新闻台" tvg-name="东森亚洲新闻台" tvg-logo="https://epg.v1.mk/logo/東森新聞.png" group-title="AKTV", 東森新聞
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 #EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/中天亚洲.png" group-title="AKTV",中天亞洲台
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
