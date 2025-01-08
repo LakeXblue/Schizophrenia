@@ -188,7 +188,7 @@ http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 #EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/半岛新闻.png" group-title="港澳.外语",半岛新闻「阿拉伯」
 http://live-hls-web-aja.getaj.net/AJA/01.m3u8?zshijd
-#EXTINF:-1 tvg-id="朝鲜中央台"  tvg-name="朝鮮中央臺" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531163411079671_65.jpg" group-title="港澳.外语",朝鲜中央台
+#EXTINF:-1 tvg-id="朝鲜中央台"  tvg-name="朝鮮中央台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/朝鲜中央台.png" group-title="港澳.外语",朝鲜中央台
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 tvg-name="RT News" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/RTNews.png" group-title="港澳.外语",RT News
 https://epg.pw/stream/85a812d12967aa5310f0ef6b7d5f09c0a161ad6bad9df6dd5b9e16cd1ae0530b.m3u8
