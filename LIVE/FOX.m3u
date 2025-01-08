@@ -454,7 +454,7 @@ http://[2409:8087:5e08:24::d]:6610/000000001000/5000000011000031113/index.m3u8?c
 http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 #EXTINF:-1 tvg-id="ANIMAXHK" tvg-name="ANIMAXHK" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ANIMAX.png" group-title="动漫",Animax(HK)
 http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-name="青春动漫" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/梦工厂动画.png" group-title="动漫",宝宝动画
+#EXTINF:-1 tvg-name="青春动漫" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IPTV少儿动画.png" group-title="动漫",宝宝动画
 http://[2409:8087:5e08:24::2]:6610/000000001001/5000000006000040024/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000288002
 #EXTINF:-1 tvg-name="宝宝动画" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/梦工厂动画.png" group-title="动漫",青春动漫
 http://[2409:8087:5e08:24::2]:6610/000000001001/5000000006000040024/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000288008
