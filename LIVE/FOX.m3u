@@ -2,6 +2,8 @@
 
 
 #CCTV
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV16.png" group-title="CCTV",CCTV16-4K HEVC-12M
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV1.png" group-title="CCTV",CCTV-1 综合
 http://[2409:8087:5e08:24::2]:6610/000000001001/5000000004000002226/index.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV2.png" group-title="CCTV",CCTV-2 财经
@@ -124,7 +126,7 @@ http://[2409:8087:5e08:24::2]:6610/000000001001/6000000001000018044/index.m3u8?c
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Zhejiang.png" group-title="卫视",浙江卫视
 http://[2409:8087:5e08:24::2]:6610/000000001001/6000000001000032070/index.m3u8?channel-id=wasusyt&Contentid=6000000001000032070&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Dongfang.png" group-title="卫视",东方卫视
-http://[2409:8087:5e08:24::d]:6610/000000001000/5000000004000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000014098/index.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Anhui.png" group-title="卫视",安徽卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000023002/index.m3u8?channel-id=bestzb&Contentid=5000000004000023002&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Jiangsu.png" group-title="卫视",江苏卫视
@@ -270,11 +272,11 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 #AKTV
 #EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/亚洲新闻.png" group-title="AKTV",亞洲新聞台
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1,tvg-id="channel5hd" tvg-name="channel5" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/c5.png" group-title="AKTV", Channel 5 HD
+#EXTINF:-1,tvg-id="channel5hd" tvg-name="channel5" tvg-logo="https://github.moeyy.xyz/https://github.com/LakeXblue/Schizophrenia/blob/main/icon/c5.png" group-title="AKTV", Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1,tvg-id="channel8hd" tvg-name="channel8" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/c8.png" group-title="AKTV", Channel 8 HD
+#EXTINF:-1,tvg-id="channel8hd" tvg-name="channel8" tvg-logo="https://github.moeyy.xyz/https://github.com/LakeXblue/Schizophrenia/blob/main/icon/c8.png" group-title="AKTV", Channel 8 HD
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1,tvg-id="channeluhd" tvg-name="channelu" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/cu.png" group-title="AKTV", Channel U HD
+#EXTINF:-1,tvg-id="channeluhd" tvg-name="channelu" tvg-logo="https://github.moeyy.xyz/https://github.com/LakeXblue/Schizophrenia/blob/main/icon/cu.png" group-title="AKTV", Channel U HD
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/MYTVSUPER18.png" group-title="AKTV",myTV SUPER 18台
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
@@ -292,7 +294,7 @@ http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1,tvg-id="tvn" tvg-name="tvn" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVN.png" group-title="AKTV",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1,tvg-id="东森亚洲新闻台" tvg-name="东森亚洲新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/东森新闻.png" group-title="AKTV", 東森新聞
+#EXTINF:-1,tvg-id="东森亚洲新闻台" tvg-name="东森亚洲新闻台" tvg-logo="https://github.moeyy.xyz/https://github.com/LakeXblue/Schizophrenia/blob/main/icon/东森新闻.png" group-title="AKTV", 東森新聞
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 #EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/中天亚洲.png" group-title="AKTV",中天亞洲台
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
@@ -920,6 +922,7 @@ http://dns.yiandrive.com:15907/huya/19439762
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IPTV通用.png" group-title="斗鱼点播",治愈放松🍁
 http://dns.yiandrive.com:15907/huya/21241811
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IPTV通用.png" group-title="斗鱼点播",周杰伦点歌台🍁
+
 http://dns.yiandrive.com:15907/douyu/7537296
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IPTV通用.png" group-title="斗鱼点播",音乐喵点歌🍁
 http://dns.yiandrive.com:15907/douyu/3870925
