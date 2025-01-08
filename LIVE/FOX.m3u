@@ -425,7 +425,7 @@ http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000008/index.m3u8
 #4K频道
 #EXTINF:-1 tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/LoveNature.png" group-title="4K频道",Love Nrture 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/fashiontv.png" group-title="4K频道",FashionTV 4K「时尚」
+#EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/FASHIONTV.png" group-title="4K频道",FashionTV 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/纯享4K.png" group-title="4K频道",纯享4K
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
