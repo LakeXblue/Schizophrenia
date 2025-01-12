@@ -217,11 +217,11 @@ https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 http://live-hls-web-aja.getaj.net/AJA/01.m3u8?zshijd
 #EXTINF:-1 tvg-id="朝鲜中央台"  tvg-name="朝鮮中央台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/朝鲜中央台.png" group-title="港澳.外语",朝鲜中央台
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 tvg-name="RT News" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/RTNEWS.png" group-title="港澳.外语",RT News
+#EXTINF:-1 tvg-name="RT News" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/RTNews.png" group-title="港澳.外语",RT News
 https://epg.pw/stream/85a812d12967aa5310f0ef6b7d5f09c0a161ad6bad9df6dd5b9e16cd1ae0530b.m3u8
-#EXTINF:-1 tvg-name="RT Documentary" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/RTDOC.png" group-title="港澳.外语",RT Documentary
+#EXTINF:-1 tvg-name="RT Documentary" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/RTDoc.png" group-title="港澳.外语",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-name="ArirangTV" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ARIRANGTV.png" group-title="港澳.外语",「韩」Arirang 阿里郎
+#EXTINF:-1 tvg-name="ArirangTV" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/ArirangTV.png" group-title="港澳.外语",「韩」Arirang 阿里郎
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-name="BBS" tvg-logo="https://epg.pw/media/images/channel/2022/12/24/large/20221224164857101551_15.jpeg" group-title="港澳.外语",「韩」BBS 불교 방송
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
