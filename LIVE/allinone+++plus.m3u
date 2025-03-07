@@ -145,7 +145,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 #EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/东森新闻.png" group-title="亚洲",東森新聞
 http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 #EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/亚洲新闻.png" group-title="亚洲",亞洲新聞台
-ttp://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1,tvg-id="Channel5" tvg-name="Channel5" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/c5.png" group-title="亚洲",Channel 5 HD
 http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1,tvg-id="Channel8" tvg-name="Channel8" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/c8.png" group-title="亚洲",Channel 8 HD
