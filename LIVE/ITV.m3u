@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-Host=cache.ott.wasulive.itv.cmvideo.cn=39.136.87.155,39.136.87.153,39.135.69.121,39.135.69.119,39.136.135.240;cache.ott.ystenlive.itv.cmvideo.cn=39.136.87.155,39.136.87.153,39.135.69.121,39.135.69.119,39.136.135.240;cache.ott.bestlive.itv.cmvideo.cn=39.136.87.155,39.136.87.153,39.135.69.121,39.135.69.119,39.136.135.240;cache.ott.hnbblive.itv.cmvideo.cn=39.136.87.155,39.136.87.153,39.135.69.121,39.135.69.119,39.136.135.240;cache.ott.fifalive.itv.cmvideo.cn=39.136.87.155,39.136.87.153,39.135.69.121,39.135.69.119,39.136.135.240
-Decoder=3
 
 #CCTV
 #EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png" group-title="CCTV",CCTV-8K HLG-36M
