@@ -1,92 +1,222 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #CCTV
-#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png" group-title="CCTV",CCTV-8K HLG-36M
-http://192.168.50.75:35455/gaoma/cctv8k_36m.m3u8
-#EXTINF:-1,tvg-id="CCTV4K"  tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="CCTV",CCTV-4K HLG-36M
-http://192.168.50.75:35455/gaoma/cctv4k.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="CCTV",CCTV16-4K HLG-36M
-http://192.168.50.75:35455/gaoma/cctv4k16.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV1.png" group-title="CCTV",CCTV1-综合 50-FPS
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV1.png" group-title="CCTV",CCTV1-综合 50-FPS
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=toShengfen&mode=1
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV1.png" group-title="CCTV",CCTV1-综合 50-FPS
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=toShengfen&mode=1
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV1.png" group-title="CCTV",CCTV1-综合 50-FPS
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV2.png" group-title="CCTV",CCTV2-财经 50-FPS
-http://192.168.50.75:35455/gaoma/cctv2.m3u8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV2.png" group-title="CCTV",CCTV2-财经 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014161&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV2.png" group-title="CCTV",CCTV2-财经 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV2.png" group-title="CCTV",CCTV2-财经 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV3.png" group-title="CCTV",CCTV3-综艺 50-FPS
-http://192.168.50.75:35455/gaoma/cctv3.m3u8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV3.png" group-title="CCTV",CCTV3-综艺 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV3.png" group-title="CCTV",CCTV3-综艺 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV3.png" group-title="CCTV",CCTV3-综艺 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV4.png" group-title="CCTV",CCTV4-中文国际 50-FPS
-http://192.168.50.75:35455/gaoma/cctv4.m3u8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV4.png" group-title="CCTV",CCTV4-中文国际 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5.png" group-title="CCTV",CCTV5-体育 50-FPS
-http://192.168.50.75:35455/gaoma/cctv5.m3u8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5.png" group-title="CCTV",CCTV5-体育 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=toShengfen&mode=1&$12M FHD
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5.png" group-title="CCTV",CCTV5-体育 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000016431&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5.png" group-title="CCTV",CCTV5-体育 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5+.png" group-title="CCTV",CCTV5+体育赛事 50-FPS
-http://192.168.50.75:35455/gaoma/cctv5p.m3u8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5+.png" group-title="CCTV",CCTV5+体育赛事 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5+.png" group-title="CCTV",CCTV5+体育赛事 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5+.png" group-title="CCTV",CCTV5+体育赛事 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV6.png" group-title="CCTV",CCTV6-电影 50-FPS
-http://192.168.50.75:35457/itv/6000000001000004574.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV6.png" group-title="CCTV",CCTV6-电影 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004574&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV6.png" group-title="CCTV",CCTV6-电影 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV6.png" group-title="CCTV",CCTV6-电影 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV7.png" group-title="CCTV",CCTV7-国防军事 50-FPS
-http://192.168.50.75:35455/gaoma/cctv7.m3u8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV7.png" group-title="CCTV",CCTV7-国防军事 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009055&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV7.png" group-title="CCTV",CCTV7-国防军事 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV7.png" group-title="CCTV",CCTV7-国防军事 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV8.png" group-title="CCTV",CCTV8-电视剧 50-FPS
-http://192.168.50.75:35455/gaoma/cctv8.m3u8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV8.png" group-title="CCTV",CCTV8-电视剧 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000001070&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV8.png" group-title="CCTV",CCTV8-电视剧 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV8.png" group-title="CCTV",CCTV8-电视剧 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV9.png" group-title="CCTV",CCTV9-纪录 50-FPS
-http://192.168.50.75:35455/gaoma/cctv9.m3u8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288020&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV9.png" group-title="CCTV",CCTV9-纪录 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV9.png" group-title="CCTV",CCTV9-纪录 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV9.png" group-title="CCTV",CCTV9-纪录 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV10.png" group-title="CCTV",CCTV10-科教 50-FPS
-http://192.168.50.75:35455/gaoma/cctv10.m3u8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV10.png" group-title="CCTV",CCTV10-科教 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000031506&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV10.png" group-title="CCTV",CCTV10-科教 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV10.png" group-title="CCTV",CCTV10-科教 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV11.png" group-title="CCTV",CCTV11-戏曲 50-FPS
-http://192.168.50.75:35455/gaoma/cctv11.m3u8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV11.png" group-title="CCTV",CCTV11-戏曲 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV12.png" group-title="CCTV",CCTV12-社会与法 50-FPS
-http://192.168.50.75:35455/gaoma/cctv12.m3u8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV12.png" group-title="CCTV",CCTV12-社会与法 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022586&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV12.png" group-title="CCTV",CCTV12-社会与法 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV12.png" group-title="CCTV",CCTV12-社会与法 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV13.png" group-title="CCTV",CCTV13-新闻 50-FPS
-http://192.168.50.75:35455/gaoma/cctv13.m3u8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV13.png" group-title="CCTV",CCTV13-新闻 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265101&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV14.png" group-title="CCTV",CCTV14-少儿 50-FPS
-http://192.168.50.75:35455/gaoma/cctv14.m3u8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV14.png" group-title="CCTV",CCTV14-少儿 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000013647&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV14.png" group-title="CCTV",CCTV14-少儿 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV14.png" group-title="CCTV",CCTV14-少儿 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV15.png" group-title="CCTV",CCTV15-音乐 50-FPS
-http://192.168.50.75:35455/gaoma/cctv15.m3u8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV15.png" group-title="CCTV",CCTV15-音乐 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV16.png" group-title="CCTV",CCTV16-奥林匹克 50-FPS
-http://192.168.50.75:35455/gaoma/cctv16.m3u8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV16.png" group-title="CCTV",CCTV16-奥林匹克 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="CCTV",CCTV16-4K 奥林匹克
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=toShengfen&mode=1&$12M UHD HEVC
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV17.png" group-title="CCTV",CCTV17-农业农村 50-FPS
-http://192.168.50.75:35455/gaoma/cctv17.m3u8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288014&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV17.png" group-title="CCTV",CCTV17-农业农村 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV17.png" group-title="CCTV",CCTV17-农业农村 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN.png" group-title="CCTV",CGTN-英语 50-FPS
-http://192.168.50.75:35455/gaoma/cgtnen.m3u8
-#EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN法语.png" group-title="CCTV",CGTN-法语 50-FPS
-http://192.168.50.75:35455/gaoma/cgtnfr.m3u8
-#EXTINF:-1,tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN阿语.png" group-title="CCTV",CGTN-阿拉伯语 50-FPS
-http://192.168.50.75:35455/gaoma/cgtnar.m3u8
-#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN俄语.png" group-title="CCTV",CGTN-俄语 50-FPS
-http://192.168.50.75:35455/gaoma/cgtnru.m3u8
-#EXTINF:-1,tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN西语.png" group-title="CCTV",CGTN-西班牙语 50-FPS
-http://192.168.50.75:35455/gaoma/cgtnsp.m3u8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv//CGTN纪录.png" group-title="CCTV",CGTN-纪录片 50-FPS
-http://192.168.50.75:35455/gaoma/cgtndoc.m3u8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 
 
 
 #卫视
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Dongfang.png" group-title="卫视",东方卫视 50-FPS
-http://192.168.50.75:35457/itv/5000000004000014098.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Dongfang.png" group-title="卫视",东方卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000003639&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Dongfang.png" group-title="卫视",东方卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Dongfang.png" group-title="卫视",东方卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Hunan.png" group-title="卫视",湖南卫视 50-FPS
-http://192.168.50.75:35457/itv/6000000001000018044.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Hunan.png" group-title="卫视",湖南卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000018044&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Hunan.png" group-title="卫视",湖南卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Hunan.png" group-title="卫视",湖南卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265024&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Zhejiang.png" group-title="卫视",浙江卫视 50-FPS
-http://192.168.50.75:35457/itv/5000000004000007275.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000007275&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Zhejiang.png" group-title="卫视",浙江卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000032070&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Zhejiang.png" group-title="卫视",浙江卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Zhejiang.png" group-title="卫视",浙江卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Anhui.png" group-title="卫视",安徽卫视 50-FPS
-http://192.168.50.75:35457/itv/6000000001000009954.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000023002&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Anhui.png" group-title="卫视",安徽卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009954&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Anhui.png" group-title="卫视",安徽卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Anhui.png" group-title="卫视",安徽卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265025&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Jiangsu.png" group-title="卫视",江苏卫视 50-FPS
-http://192.168.50.75:35457/itv/6000000001000014861.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000019351&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Jiangsu.png" group-title="卫视",江苏卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014861&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Jiangsu.png" group-title="卫视",江苏卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Jiangsu.png" group-title="卫视",江苏卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265030&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Guangdong.png" group-title="卫视",广东卫视 50-FPS
-http://192.168.50.75:35457/itv/6000000001000031076.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000014694&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Guangdong.png" group-title="卫视",广东卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000031076&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Guangdong.png" group-title="卫视",广东卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Guangdong.png" group-title="卫视",广东卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Guangxi.png" group-title="卫视",广西卫视 50-FPS
-http://192.168.50.75:35457/itv/5000000011000031118.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Guangxi.png" group-title="卫视",广西卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Shenzhen.png" group-title="卫视",深圳卫视 50-FPS
-http://192.168.50.75:35457/itv/6000000001000002116.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000007410&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Shenzhen.png" group-title="卫视",深圳卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000002116&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Shenzhen.png" group-title="卫视",深圳卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009227&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Shenzhen.png" group-title="卫视",深圳卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265028&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Hubei.png" group-title="卫视",湖北卫视 50-FPS
-http://192.168.50.75:35457/itv/6000000001000015436.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000014954&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Hubei.png" group-title="卫视",湖北卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015436&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Hubei.png" group-title="卫视",湖北卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Hubei.png" group-title="卫视",湖北卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265023&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Shandong.png" group-title="卫视",山东卫视 50-FPS
-http://192.168.50.75:35457/itv/6000000001000004134.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000020424&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Shandong.png" group-title="卫视",山东卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004134&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Shandong.png" group-title="卫视",山东卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016568&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Shandong.png" group-title="卫视",山东卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265019&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Tianjin.png" group-title="卫视",天津卫视 50-FPS
-http://192.168.50.75:35457/itv/6000000001000009186.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Tianjin.png" group-title="卫视",天津卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009186&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Tianjin.png" group-title="卫视",天津卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Tianjin.png" group-title="卫视",天津卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Sichuan.png" group-title="卫视",四川卫视 50-FPS
 http://192.168.50.75:35457/itv/5000000004000006119.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Guizhou.png" group-title="卫视",贵州卫视 50-FPS
@@ -181,28 +311,8 @@ http://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
 #EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/中天新闻.png" group-title="亚洲",中天新聞台
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/中天新闻.png" group-title="亚洲",中天新聞台
-https://zt.dracwoundshop.eu.org/live/stream.m3u8
-#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/中天新闻.png" group-title="亚洲",中天新聞台
-http://lakeblue.dynv6.net:16666/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=true
-#EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/中天亚洲.png" group-title="亚洲",中天亞洲台
-http://lakeblue.dynv6.net:16666/index.m3u8?pid=ofiii36&sd=1080&proxy=true
-#EXTINF:-1,tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/龙华偶像.png" group-title="亚洲",龍華偶像台
-http://lakeblue.dynv6.net:16666/index.m3u8?pid=litv-longturn12&sd=1080&proxy=true
-#EXTINF:-1,tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/龙华日韩.png" group-title="亚洲",龍華日韓台
-http://lakeblue.dynv6.net:16666/index.m3u8?pid=litv-longturn11&sd=1080&proxy=true
-#EXTINF:-1,tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/龙华经典.png" group-title="亚洲",龍華經典台
-http://lakeblue.dynv6.net:16666/index.m3u8?pid=litv-longturn21&sd=1080&proxy=true
-#EXTINF:-1,tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/龙华电影.png" group-title="亚洲",龍華電影台
-http://lakeblue.dynv6.net:16666/index.m3u8?pid=litv-longturn03&sd=1080&proxy=true
-#EXTINF:-1,tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/龙华戏剧.png" group-title="亚洲",龍華戲劇台
-http://lakeblue.dynv6.net:16666/index.m3u8?pid=litv-longturn18&sd=1080&proxy=true
-#EXTINF:-1,tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/亚洲旅游.png" group-title="亚洲",亞洲旅遊台
-http://lakeblue.dynv6.net:16666/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=true
-#EXTINF:-1,tvg-id="精选动漫" tvg-name="精选动漫" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/精选动漫.png" group-title="亚洲",獵人(中文版)
-http://lakeblue.dynv6.net:16666/index.m3u8?pid=ofiii167&sd=1080&proxy=true
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="亚洲",删除缓存
-http://lakeblue.dynv6.net:16666/clear_all_cache
+
+
 
 #4K频道
 #EXTINF:-1,tvg-id="北京纪实科教" tvg-name="北京纪实科教8K" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京纪实科教8K.png" group-title="4K频道",北京纪实科教 8K
