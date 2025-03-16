@@ -376,16 +376,16 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 #4K频道
 #EXTINF:-1,tvg-id="北京纪实科教" tvg-name="北京纪实科教8K" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京纪实科教8K.png" group-title="4K频道",北京纪实科教 8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/BTV体育.png" group-title="4K频道",北京体育休闲4K HLG
-http://192.168.50.75:35455/bptv/10000100000000050000000004270525.m3u8
 #EXTINF:-1,tvg-id="北京4K超清" tvg-name="北京4K超清" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京4K超清.png" group-title="4K频道",淘4K超清 HLG
-http://192.168.50.75:35455/bptv/10000100000000050000000003887500.m3u8
+http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 #EXTINF:-1,tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/huashu4k.png" group-title="4K频道",华数 4K
-http://192.168.50.75:35457/itv/6000000003000004748.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=toShengfen&mode=1&$16M UHD
+#EXTINF:-1,tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/huashu4k.png" group-title="4K频道",华数 4K
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000014&livemode=1&stbId=toShengfen&mode=1&$16M UHD
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/纯享4K.png" group-title="4K频道",纯享 4K
-http://192.168.50.75:35457/itv/1000000004000011651.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=toShengfen&mode=1&$16M UHD
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/欢笑剧场4K.png" group-title="4K频道",SiTV欢笑剧场 4K
-http://192.168.50.75:35457/itv/5000000007000010001.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=toShengfen&mode=1&$12M UHD HEVC
 #EXTINF:-1,tvg-id="FashionTV" tvg-name="FashionTV" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/FASHIONTV.png" group-title="4K频道",FashionTV 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
@@ -393,232 +393,235 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 
 #数字文娱
 #EXTINF:-1,tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/精彩影视.png" group-title="数字文娱",精彩影视
-http://192.168.50.75:35457/itv/2000000004000000063.m3u8?cdn=hnbblive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000063&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/精彩影视.png" group-title="数字文娱",精彩影视
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京淘电影.png" group-title="数字文娱",淘电影
-http://192.168.50.75:35455/bptv/10000100000000050000000003887498.m3u8
+http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 #EXTINF:-1,tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京淘剧场.png" group-title="数字文娱",淘剧场
-http://192.168.50.75:35455/bptv/10000100000000050000000003887497.m3u8
+http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 #EXTINF:-1,tvg-id="北京淘娱乐" tvg-name="北京淘娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京淘娱乐.png" group-title="数字文娱",淘娱乐
-http://192.168.50.75:35455/bptv/10000100000000050000000003887499.m3u8
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 #EXTINF:-1,tvg-id="北京淘BABY" tvg-name="北京淘BABY" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京淘BABY.png" group-title="数字文娱",淘BABY
-http://192.168.50.75:35455/bptv/10000100000000050000000003887496.m3u8
-#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/重温经典.png" group-title="数字文娱",BTV-重温经典
-http://192.168.50.75:35455/bptv/10000100000000050000000003887494.m3u8
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EN0sbBMpQv4sLsW5foy3YfA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 #EXTINF:-1,tvg-id="北京萌宠TV" tvg-name="北京萌宠TV" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京萌宠TV.png" group-title="数字文娱",萌宠TV
-http://192.168.50.75:35455/bptv/10000100000000050000000003887495.m3u8
-#EXTINF:-1,tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/茶频道.png" group-title="数字文娱",茶频道
-http://192.168.50.75:35457/itv/5000000011000031209.m3u8?cdn=bestzb
+http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_PpxWPtvSZRFtu_Ged_-vQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO0istnBuoA2R9ODSCqyIyS%2CEND
 #EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/第一财经.png" group-title="数字文娱",第一财经
-http://192.168.50.75:35457/itv/5000000010000027146.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/东方财经.png" group-title="数字文娱",东方财经
-http://192.168.50.75:35457/itv/5000000007000010003.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/上海东方影视.png" group-title="数字文娱",东方影视
-http://192.168.50.75:35457/itv/5000000010000032212.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/哈哈炫动.png" group-title="数字文娱",哈哈炫动
-http://192.168.50.75:35457/itv/5000000011000031123.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/纪实科教.png" group-title="数字文娱",纪实科教
-http://192.168.50.75:35457/itv/1000000001000001910.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031204&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/卡酷少儿.png" group-title="数字文娱",卡酷少儿
-http://192.168.50.75:35457/itv/7851974109718180595.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000265008&livemode=1&stbId=toShengfen&mode=1&$4M FHD HEVC
 #EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/求索动物1.png" group-title="数字文娱",求索动物
-http://192.168.50.75:35457/itv/6000000002000010046.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000009&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/求索动物1.png" group-title="数字文娱",求索动物
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/求索纪录1.png" group-title="数字文娱",求索纪录
-http://192.168.50.75:35457/itv/6000000002000032052.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000010&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/求索纪录1.png" group-title="数字文娱",求索纪录
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/求索科学1.png" group-title="数字文娱",求索科学
-http://192.168.50.75:35457/itv/6000000002000032344.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000011&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/求索科学1.png" group-title="数字文娱",求索科学
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/求索生活1.png" group-title="数字文娱",求索生活
-http://192.168.50.75:35457/itv/6000000002000003382.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000008&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/求索生活1.png" group-title="数字文娱",求索生活
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 
 
 #SiTV
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/动漫秀场.png" group-title="SiTV",SiTV-动漫秀场
-http://192.168.50.75:35457/itv/5000000011000031113.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/都市剧场.png" group-title="SiTV",SiTV-都市剧场
-http://192.168.50.75:35457/itv/5000000011000031111.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/法治天地.png" group-title="SiTV",SiTV-法治天地
-http://192.168.50.75:35457/itv/9001547084732463424.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/欢笑剧场.png" group-title="SiTV",SiTV-欢笑剧场
-http://192.168.50.75:35457/itv/5000000002000009455.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000016&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/金色学堂.png" group-title="SiTV",SiTV-金色学堂
-http://192.168.50.75:35457/itv/5000000010000026105.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000061&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/生活时尚.png" group-title="SiTV",SiTV-生活时尚
-http://192.168.50.75:35457/itv/5000000002000019634.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/游戏风云.png" group-title="SiTV",SiTV-游戏风云
-http://192.168.50.75:35457/itv/5000000011000031114.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/乐游.png" group-title="SiTV",SiTV-乐游
-http://192.168.50.75:35457/itv/5000000011000031112.m3u8?cdn=bestzb
-
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/乐游.png" group-title="SiTV",SiTV-乐游
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000092&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 
 #NewTV
 #EXTINF:-1,tvg-id="newtv黑莓电影" tvg-name="newtv黑莓电影" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/黑莓电影.png" group-title="NewTV",黑莓电影
-http://192.168.50.75:35457/itv/1000000004000019624.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv黑莓动画" tvg-name="newtv黑莓动画" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/黑莓动画.png" group-title="NewTV",黑莓动画
-http://192.168.50.75:35457/itv/1000000004000021734.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv超级电视剧" tvg-name="newtv超级电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV超级电视剧.png" group-title="NewTV",超级电视剧
-http://192.168.50.75:35457/itv/1000000006000268003.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV超级电影.png" group-title="NewTV",超级电影
-http://192.168.50.75:35457/itv/1000000003000012426.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="newtv动作电影" tvg-name="newtv动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV动作电影.png" group-title="NewTV",动作电影
-http://192.168.50.75:35457/itv/1000000004000018653.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000017&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv超级综艺" tvg-name="newtv超级综艺" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV超级综艺.png" group-title="NewTV",超级综艺
-http://192.168.50.75:35457/itv/1000000006000268002.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="newtv金牌综艺" tvg-name="newtv金牌综艺" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV金牌综艺.png" group-title="NewTV",金牌综艺
-http://192.168.50.75:35457/itv/1000000004000026167.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="newtv精品综合" tvg-name="newtv精品综合" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV海外剧场.png" group-title="NewTV",海外剧场
-http://192.168.50.75:35457/itv/1000000004000019008.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000005&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+#EXTINF:-1,tvg-id="newtv精品综合" tvg-name="newtv精品综合" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV海外剧场.png" group-title="NewTV",精品综合
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv精品大剧" tvg-name="newtv精品大剧" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV精品大剧.png" group-title="NewTV",精品大剧
-http://192.168.50.75:35457/itv/1000000004000013968.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000020&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv精品纪录" tvg-name="newtv精品纪录" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV精品纪录.png" group-title="NewTV",精品纪录
-http://192.168.50.75:35457/itv/1000000004000013730.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv明星大片" tvg-name="newtv明星大片" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV明星大片.png" group-title="NewTV",明星大片
-http://192.168.50.75:35457/itv/2000000003000000016.m3u8?cdn=hnbblive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv爱情喜剧" tvg-name="newtv爱情喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV爱情喜剧.png" group-title="NewTV",爱情喜剧
-http://192.168.50.75:35457/itv/2000000003000000010.m3u8?cdn=hnbblive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000010&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv潮妈辣婆" tvg-name="newtv潮妈辣婆" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV潮妈辣婆.png" group-title="NewTV",潮妈辣婆
-http://192.168.50.75:35457/itv/2000000003000000018.m3u8?cdn=hnbblive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv东北热剧" tvg-name="newtv东北热剧" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV东北热剧.png" group-title="NewTV",东北热剧
-http://192.168.50.75:35457/itv/1000000005000266013.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000051&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv中国功夫" tvg-name="newtv中国功夫" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV中国功夫.png" group-title="NewTV",中国功夫
-http://192.168.50.75:35457/itv/2000000003000000009.m3u8?cdn=hnbblive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv古装剧场" tvg-name="newtv古装剧场" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV古装剧场.png" group-title="NewTV",古装剧场
-http://192.168.50.75:35457/itv/2000000003000000024.m3u8?cdn=hnbblive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv欢乐剧场" tvg-name="newtv欢乐剧场" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV欢乐剧场.png" group-title="NewTV",欢乐剧场
-http://192.168.50.75:35457/itv/1000000005000266012.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000050&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv家庭剧场" tvg-name="newtv家庭剧场" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV家庭剧场.png" group-title="NewTV",家庭剧场
-http://192.168.50.75:35457/itv/1000000004000008284.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000012&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv惊悚悬疑" tvg-name="newtv惊悚悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV惊悚悬疑.png" group-title="NewTV",惊悚悬疑
-http://192.168.50.75:35457/itv/1000000004000024282.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv军旅剧场" tvg-name="newtv军旅剧场" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV军旅剧场.png" group-title="NewTV",军旅剧场
-http://192.168.50.75:35457/itv/2000000003000000014.m3u8?cdn=hnbblive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv军事评论" tvg-name="newtv军事评论" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV军事评论.png" group-title="NewTV",军事评论
-http://192.168.50.75:35457/itv/2000000003000000022.m3u8?cdn=hnbblive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv魅力潇湘" tvg-name="newtv魅力潇湘" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV魅力潇湘.png" group-title="NewTV",魅力潇湘
-http://192.168.50.75:35457/itv/1000000001000006197.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv农业致富" tvg-name="newtv农业致富" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV农业致富.png" group-title="NewTV",农业致富
-http://192.168.50.75:35457/itv/2000000003000000003.m3u8?cdn=hnbblive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000003&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv炫舞未来" tvg-name="newtv炫舞未来" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV炫舞未来.png" group-title="NewTV",炫舞未来
-http://192.168.50.75:35457/itv/1000000001000000515.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv怡伴健康" tvg-name="newtv怡伴健康" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV怡伴健康.png" group-title="NewTV",怡伴健康
-http://192.168.50.75:35457/itv/1000000005000266011.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000023&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv精品萌宠" tvg-name="newtv精品萌宠" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV精品萌宠.png" group-title="NewTV",精品萌宠
-http://192.168.50.75:35457/itv/1000000006000032328.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 
 
 #IHOT
 #EXTINF:-1,tvg-id="IHOT爱院线" tvg-name="IHOT爱院线" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IHOT爱院线.png" group-title="IHOT",iHOT-爱院线
-http://192.168.50.75:35457/itv/6000000006000030630.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="IHOT爱谍战" tvg-name="IHOT爱谍战" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IHOT爱谍战.png" group-title="IHOT",iHOT-爱谍战
-http://192.168.50.75:35457/itv/6000000006000070630.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="IHOT爱喜剧" tvg-name="IHOT爱喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IHOT爱喜剧.png" group-title="IHOT",iHOT-爱喜剧
-http://192.168.50.75:35457/itv/6000000006000010630.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000032&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="IHOT爱悬疑" tvg-name="IHOT爱悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IHOT爱悬疑.png" group-title="IHOT",iHOT-爱悬疑
-http://192.168.50.75:35457/itv/6000000006000050630.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000036&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="IHOT爱动漫" tvg-name="IHOT爱动漫" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IHOT爱动漫.png" group-title="IHOT",iHOT-爱动漫
-http://192.168.50.75:35457/itv/6000000006000280630.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000059&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IHOT爱科幻.png" group-title="IHOT",iHOT-爱科幻
-http://192.168.50.75:35457/itv/6000000006000020630.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000033&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="IHOT爱科学" tvg-name="IHOT爱科学" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IHOT爱科学.png" group-title="IHOT",iHOT-爱科学
-http://192.168.50.75:35457/itv/6000000006000160630.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000047&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="IHOT爱浪漫" tvg-name="IHOT爱浪漫" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IHOT爱浪漫.png" group-title="IHOT",iHOT-爱浪漫
-http://192.168.50.75:35457/itv/6000000006000040630.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000035&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="IHOT爱历史" tvg-name="IHOT爱历史" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IHOT爱历史.png" group-title="IHOT",iHOT-爱历史
-http://192.168.50.75:35457/itv/6000000006000150630.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000046&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="IHOT爱旅行" tvg-name="IHOT爱旅行" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IHOT爱旅行.png" group-title="IHOT",iHOT-爱旅行
-http://192.168.50.75:35457/itv/6000000006000250630.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000056&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="IHOT爱奇谈" tvg-name="IHOT爱奇谈" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IHOT爱奇谈.png" group-title="IHOT",iHOT-爱奇谈
-http://192.168.50.75:35457/itv/6000000006000270630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱青春" tvg-name="IHOT爱青春" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IHOT爱青春.png" group-title="IHOT",iHOT-爱青春
-http://192.168.50.75:35457/itv/6000000006000100630.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="IHOT爱赛车" tvg-name="IHOT爱赛车" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IHOT爱赛车.png" group-title="IHOT",iHOT-爱赛车
-http://192.168.50.75:35457/itv/6000000006000240630.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000055&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="IHOT爱体育" tvg-name="IHOT爱体育" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IHOT爱体育.png" group-title="IHOT",iHOT-爱体育
-http://192.168.50.75:35457/itv/6000000006000290630.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="IHOT爱玩具" tvg-name="IHOT爱玩具" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IHOT爱玩具.png" group-title="IHOT",iHOT-爱玩具
-http://192.168.50.75:35457/itv/6000000006000220630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱电竞" tvg-name="IHOT爱电竞" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IHOT爱电竞.png" group-title="IHOT",iHOT-爱电竞
-http://192.168.50.75:35457/itv/6000000006000230630.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000053&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="IHOT爱幼教" tvg-name="IHOT爱幼教" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IHOT爱幼教.png" group-title="IHOT",iHOT-爱幼教
-http://192.168.50.75:35457/itv/6000000006000180630.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000049&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 
 
 #华数ᴴᵒᵗ
 #EXTINF:-1,tvg-id="高清娱乐" tvg-name="高清娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/华数2.png" group-title="华数ᴴᵒᵗ",高清娱乐
-http://192.168.50.75:35457/itv/6000000003000001569.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=toShengfen&mode=1&$3M HD
 #EXTINF:-1,tvg-id="精品剧场" tvg-name="精品剧场" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/华数2.png" group-title="华数ᴴᵒᵗ",精品剧场
-http://192.168.50.75:35457/itv/8230197131234717902.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000002&livemode=1&stbId=toShengfen&mode=1&$3M HD
 #EXTINF:-1,tvg-id="欧美影院" tvg-name="欧美影院" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/华数2.png" group-title="华数ᴴᵒᵗ",欧美影院
-http://192.168.50.75:35457/itv/7185203501769528108.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=toShengfen&mode=1&$3M HD
 #EXTINF:-1,tvg-id="亚洲影院" tvg-name="亚洲影院" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/华数2.png" group-title="华数ᴴᵒᵗ",亚洲影院
-http://192.168.50.75:35457/itv/5841816227539527643.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=toShengfen&mode=1&$3M HD
 #EXTINF:-1,tvg-id="探索纪录" tvg-name="探索纪录" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/华数2.png" group-title="华数ᴴᵒᵗ",探索纪录
-http://192.168.50.75:35457/itv/5359008697329269813.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=toShengfen&mode=1&$3M HD
 #EXTINF:-1,tvg-id="漫游世界" tvg-name="漫游世界" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/华数2.png" group-title="华数ᴴᵒᵗ",漫游世界
-http://192.168.50.75:35457/itv/6000000003000028434.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=toShengfen&mode=1&$4M HD
 #EXTINF:-1,tvg-id="少儿动漫" tvg-name="少儿动漫" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/华数2.png" group-title="华数ᴴᵒᵗ",少儿动漫
-http://192.168.50.75:35457/itv/8145334647720731271.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=toShengfen&mode=1&$4M HD
 #EXTINF:-1,tvg-id="电子竞技" tvg-name="电子竞技" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/华数2.png" group-title="华数ᴴᵒᵗ",电子竞技
-http://192.168.50.75:35457/itv/6000000003000011654.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000003000011654&livemode=1&stbId=toShengfen&mode=1&$3M HD
 #EXTINF:-1,tvg-id="风尚音乐" tvg-name="风尚音乐" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/华数2.png" group-title="华数ᴴᵒᵗ",风尚音乐
-http://192.168.50.75:35457/itv/5529729098703832176.m3u8?cdn=wasusyt
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000004&livemode=1&stbId=toShengfen&mode=1&$3M HD
 
 
 #百视ᵀⱽ
 #EXTINF:-1,tvg-name="华语影院" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/BESTV.png" group-title="百视ᵀⱽ",华语影院
-http://192.168.50.75:35457/itv/5000000011000288005.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288005&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-name="星光影院" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/BESTV.png" group-title="百视ᵀⱽ",星光影院
-http://192.168.50.75:35457/itv/5000000011000288013.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288013&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-name="全球大片" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/BESTV.png" group-title="百视ᵀⱽ",全球大片
-http://192.168.50.75:35457/itv/5000000011000288009.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288009&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-name="谍战剧场" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/BESTV.png" group-title="百视ᵀⱽ",谍战剧场
-http://192.168.50.75:35457/itv/5000000011000288004.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288004&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-name="热门剧场" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/BESTV.png" group-title="百视ᵀⱽ",热门剧场
-http://192.168.50.75:35457/itv/5000000011000288010.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288010&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-name="热门综艺" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/BESTV.png" group-title="百视ᵀⱽ",热门综艺
-http://192.168.50.75:35457/itv/5000000011000288011.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-name="热门综艺" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/BESTV.png" group-title="百视ᵀⱽ",青春动漫
-http://192.168.50.75:35457/itv/5000000011000288008.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288011&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-name="青春动漫" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/BESTV.png" group-title="百视ᵀⱽ",青春动漫
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-name="宝宝动画" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/BESTV.png" group-title="百视ᵀⱽ",宝宝动画
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288002&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-name="戏曲精选" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/BESTV.png" group-title="百视ᵀⱽ",戏曲精选
-http://192.168.50.75:35457/itv/5000000011000288012.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288012&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-name="电竞天堂" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/BESTV.png" group-title="百视ᵀⱽ",电竞天堂
-http://192.168.50.75:35457/itv/5000000011000288003.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288003&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-name="健康养生" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/BESTV.png" group-title="百视ᵀⱽ",健康养生
-http://192.168.50.75:35457/itv/5000000011000288006.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288006&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-name="看天下精选" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/BESTV.png" group-title="百视ᵀⱽ",看天下精选
-http://192.168.50.75:35457/itv/5000000011000288007.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288007&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 
 
 
 #体育竞技
 #EXTINF:-1,tvg-id="晴彩青少" tvg-name="晴彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/睛彩青少.png" group-title="体育竞技",晴彩青少
-http://192.168.50.75:35457/itv/1000000006000270007.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="晴彩篮球" tvg-name="晴彩篮球" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/睛彩篮球.png" group-title="体育竞技",晴彩篮球
-http://192.168.50.75:35457/itv/1000000006000270006.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000061&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="晴彩竞技" tvg-name="晴彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/睛彩竞技.png" group-title="体育竞技",晴彩竞技
-http://192.168.50.75:35457/itv/1000000006000270001.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000060&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="晴彩广场舞" tvg-name="晴彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/睛彩广场舞.png" group-title="体育竞技",晴彩广场舞
-http://192.168.50.75:35457/itv/1000000006000270005.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000062&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="newtv哒啵电竞" tvg-name="newtv哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/哒啵电竞.png" group-title="体育竞技",哒啵电竞
-http://192.168.50.75:35457/itv/1000000006000032327.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv哒啵赛事" tvg-name="newtv哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/哒啵赛事.png" group-title="体育竞技",哒啵赛事
-http://192.168.50.75:35457/itv/1000000001000003775.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000040&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IPTV足球.png" group-title="体育竞技",魅力足球
-http://192.168.50.75:35457/itv/5000000011000031207.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="newtv武博世界" tvg-name="newtv武博世界" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV武博世界.png" group-title="体育竞技",武博世界
-http://192.168.50.75:35457/itv/2000000003000000007.m3u8?cdn=hnbblive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv精品体育" tvg-name="newtv精品体育" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV精品体育.png" group-title="体育竞技",精品体育
-http://192.168.50.75:35457/itv/1000000004000014634.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000021&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv超级体育" tvg-name="newtv超级体育" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV超级体育.png" group-title="体育竞技",超级体育
-http://192.168.50.75:35457/itv/1000000001000009601.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/BTV体育.png" group-title="体育竞技",北京体育休闲
-http://192.168.50.75:35455/bptv/10000100000000050000000003870779.m3u8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/劲爆体育.png" group-title="体育竞技",劲爆体育
-http://192.168.50.75:35457/itv/5000000002000029972.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/WUXINGTIYU.png" group-title="体育竞技",五星体育
-http://192.168.50.75:35457/itv/5000000010000017540.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 
 #咪咕赛事
 #EXTINF:-1,tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/咪咕4K.png" group-title="咪咕赛事",咪咕4K-①
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&mode=1&$30M UHD
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&mode=1&$30M UHD 50FPS
 #EXTINF:-1,tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/咪咕4K.png" group-title="咪咕赛事",咪咕4K-②
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1&$24M UHD
 #EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/咪咕体育.png" group-title="咪咕赛事",咪咕赛事1
