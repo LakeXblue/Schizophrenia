@@ -335,10 +335,12 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1,tvg-id="ChannelU" tvg-name="ChannelU" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/cu.png" group-title="亚洲",Channel U HD
 http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1,tvg-id="Unifi Sport" tvg-name="Unifi Sport" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/Unifi Sport.png" group-title="亚洲",Unifi Sport
+#EXTINF:-1,tvg-id="Unifi Sport" tvg-name="Unifi Sport" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/Unifi Sport1.png" group-title="亚洲",Unifi Sport
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
 #EXTINF:-1,tvg-id="RedBullTV" tvg-name="RedBullTV" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/redbulltv.png" group-title="亚洲",Red Bull Sports
 http://aktv_stream1.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
+#EXTINF:-1,tvg-id="nba tv" tvg-name="nbatv" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NBATV.png" group-title="亚洲",NBA TV
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
 #EXTINF:-1,tvg-id="DW Deutsch" tvg-name="DW Deutsch" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/DW.png" group-title="亚洲",DW
 http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
 #EXTINF:-1,tvg-id="kix" tvg-name="kix" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/KIX.png" group-title="亚洲",KIX
@@ -355,12 +357,16 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 #EXTINF:-1,tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/AMC电影.png" group-title="亚洲",amc電影台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
+#EXTINF:-1,tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/龙华偶像.png" group-title="亚洲",龍華偶像台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
+#EXTINF:-1,tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/龙华日韩.png" group-title="亚洲",龍華日韓台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
+#EXTINF:-1,tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/龙华电影.png" group-title="亚洲",龍華電影台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
 #EXTINF:-1,tvg-id="ANIMAXHK" tvg-name="ANIMAXHK" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ANIMAX.png" group-title="亚洲",Animax(HK)
 http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1,tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ZOOMOO1.png" group-title="亚洲",ZooMoo
 http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
-
-
 
 
 #4K频道
