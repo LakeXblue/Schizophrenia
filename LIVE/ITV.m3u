@@ -740,6 +740,8 @@ http://A/ku9/js/jsyd_k9_pojie.js?p=gitv&id=G_BINGQIKJ-CQ.m3u8&mac=90:49:92:12:B7
 http://A/ku9/js/jsyd_k9_pojie.js?p=cntv&id=HD-10000k-1080P-fhchinese5s.m3u8&mac=90:49:92:12:B7:6C
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰卫视资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix2.png" group-title="TPTV.央卫",凤凰资讯 FHD
 http://A/ku9/js/jsyd_k9_pojie.js?p=cntv&id=HD-10000k-1080P-fhzixun5s.m3u8&mac=90:49:92:12:B7:6C
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰卫视资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix2.png" group-title="TPTV.央卫",凤凰资讯 FHD
+http://?p=cntv&id=HD-10000k-1080P-fhzixun5s
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix3.png" group-title="TPTV.央卫",凤凰香港 FHD
 http://A/ku9/js/jsyd_k9_pojie.js?p=cntv&id=HD-10000k-1080P-fhhongkong5s.m3u8&mac=90:49:92:12:B7:6C
 #EXTINF:-1,tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/东方卫视.png" group-title="TPTV.央卫",东方卫视
