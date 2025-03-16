@@ -133,6 +133,14 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive
 
 
 #卫视
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Beijing.png" group-title="卫视",北京卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000031556&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Beijing.png" group-title="卫视",北京卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Beijing.png" group-title="卫视",北京卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Beijing.png" group-title="卫视",北京卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265027&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Dongfang.png" group-title="卫视",东方卫视 50-FPS
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Dongfang.png" group-title="卫视",东方卫视 50-FPS
@@ -157,14 +165,6 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Zhejiang.png" group-title="卫视",浙江卫视 50-FPS
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Anhui.png" group-title="卫视",安徽卫视 50-FPS
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000023002&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Anhui.png" group-title="卫视",安徽卫视 50-FPS
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009954&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Anhui.png" group-title="卫视",安徽卫视 50-FPS
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Anhui.png" group-title="卫视",安徽卫视 50-FPS
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265025&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Jiangsu.png" group-title="卫视",江苏卫视 50-FPS
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000019351&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Jiangsu.png" group-title="卫视",江苏卫视 50-FPS
@@ -173,6 +173,14 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Jiangsu.png" group-title="卫视",江苏卫视 50-FPS
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265030&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Anhui.png" group-title="卫视",安徽卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000023002&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Anhui.png" group-title="卫视",安徽卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009954&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Anhui.png" group-title="卫视",安徽卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Anhui.png" group-title="卫视",安徽卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265025&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Guangdong.png" group-title="卫视",广东卫视 50-FPS
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000014694&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Guangdong.png" group-title="卫视",广东卫视 50-FPS
@@ -201,6 +209,14 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Hubei.png" group-title="卫视",湖北卫视 50-FPS
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265023&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Henan.png" group-title="卫视",河南卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Henan.png" group-title="卫视",河南卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Hebei.png" group-title="卫视",河北卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Hebei.png" group-title="卫视",河北卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Shandong.png" group-title="卫视",山东卫视 50-FPS
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000020424&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Shandong.png" group-title="卫视",山东卫视 50-FPS
@@ -217,70 +233,68 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Tianjin.png" group-title="卫视",天津卫视 50-FPS
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Chongqing.png" group-title="卫视",重庆卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000025797&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Chongqing.png" group-title="卫视",重庆卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Chongqing.png" group-title="卫视",重庆卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265017&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Sichuan.png" group-title="卫视",四川卫视 50-FPS
-http://192.168.50.75:35457/itv/5000000004000006119.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Sichuan.png" group-title="卫视",四川卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Guizhou.png" group-title="卫视",贵州卫视 50-FPS
-http://192.168.50.75:35457/itv/5000000004000025843.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Guizhou.png" group-title="卫视",贵州卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Yunnan.png" group-title="卫视",云南卫视 50-FPS
-http://192.168.50.75:35457/itv/5000000011000031120.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Yunnan.png" group-title="卫视",云南卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Dongnan.png" group-title="卫视",东南卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Dongnan.png" group-title="卫视",东南卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Hainan.png" group-title="卫视",海南卫视 50-FPS
-http://192.168.50.75:35457/itv/5000000004000006211.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Hainan.png" group-title="卫视",海南卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000023773&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Sansha.png" group-title="卫视",三沙卫视 50-FPS
-http://192.168.50.75:35457/itv/5000000011000288016.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288016&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Jiangxi.png" group-title="卫视",江西卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000011210&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Jiangxi.png" group-title="卫视",江西卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268001&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Jiangxi.png" group-title="卫视",江西卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265032&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Liaoning.png" group-title="卫视",辽宁卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Liaoning.png" group-title="卫视",辽宁卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001945&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Liaoning.png" group-title="卫视",辽宁卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265022&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Gansu.png" group-title="卫视",甘肃卫视 50-FPS
-http://192.168.50.75:35457/itv/5000000011000031121.m3u8?cdn=bestzb
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Gansu.png" group-title="卫视",甘肃卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Jilin.png" group-title="卫视",吉林卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Jilin.png" group-title="卫视",吉林卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Heilongjiang.png" group-title="卫视",黑龙江卫视 50-FPS
-http://192.168.50.75:35457/itv/6000000001000016510.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Hebei.png" group-title="卫视",河北卫视 50-FPS
-http://192.168.50.75:35457/itv/5000000006000040016.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Henan.png" group-title="卫视",河南卫视
-http://192.168.50.75:35457/itv/5000000011000031119.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Beijing.png" group-title="卫视",北京卫视
-http://192.168.50.75:35457/itv/6000000001000020451.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Jiangxi.png" group-title="卫视",江西卫视
-http://192.168.50.75:35457/itv/1000000006000268001.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Liaoning.png" group-title="卫视",辽宁卫视
-http://192.168.50.75:35457/itv/5000000004000011671.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Dongnan.png" group-title="卫视",东南卫视
-http://192.168.50.75:35457/itv/5000000004000010584.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Chongqing.png" group-title="卫视",重庆卫视
-http://192.168.50.75:35457/itv/1000000001000001096.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Jilin.png" group-title="卫视",吉林卫视
-http://192.168.50.75:35457/itv/5000000011000031117.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Qinghai.png" group-title="卫视",青海卫视
-http://192.168.50.75:35457/itv/1000000002000013359.m3u8?cdn=ystenlive
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000025203&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Heilongjiang.png" group-title="卫视",黑龙江卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000016510&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Heilongjiang.png" group-title="卫视",黑龙江卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Heilongjiang.png" group-title="卫视",黑龙江卫视 50-FPS
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 
 #亚洲
-#EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/亚洲新闻.png" group-title="亚洲",亞洲新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1,tvg-name="Channel5" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/c5.png" group-title="亚洲",Channel 5 HD
-http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1,tvg-name="Channel8" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/c8.png" group-title="亚洲",Channel 8 HD
-http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1,tvg-name="ChannelU" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/cu.png" group-title="亚洲",Channel U HD
-http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1,tvg-id="DW Deutsch" tvg-name="DW Deutsch" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/DW.png" group-title="亚洲",DW
-http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
-#EXTINF:-1,tvg-id="kix" tvg-name="kix" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/KIX.png" group-title="亚洲",KIX
-http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVB PLUS" tvg-name="tvbplus" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVBPLUS.png" group-title="亚洲",TVB Plus
-http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1,tvg-id="PopC" tvg-name="PopC" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/POPC.png" group-title="亚洲",PopC
-http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
-#EXTINF:-1,tvg-id="tvn" tvg-name="tvn" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVN.png" group-title="亚洲",tvN
-http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
-#EXTINF:-1,tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ROCKACTION.png" group-title="亚洲",ROCK Action
-http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1,tvg-id="axn" tvg-name="axn" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/AXN.png" group-title="亚洲",AXN
-http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-#EXTINF:-1,tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ZOOMOO1.png" group-title="亚洲",ZooMoo
-http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1,tvg-id="ANIMAXHK" tvg-name="ANIMAXHK" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ANIMAX.png" group-title="亚洲",Animax(HK)
-http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1,tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/AMC电影.png" group-title="亚洲",amc電影台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
 #EXTINF:-1,tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/黄金翡翠.png" group-title="亚洲",黃金翡翠台
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/800.png" group-title="亚洲", 翡翠台4K
+http://aktv_stream1.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/翡翠.png" group-title="亚洲",翡翠台
 http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/明珠.png" group-title="亚洲",明珠台
@@ -311,6 +325,35 @@ http://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
 #EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/中天新闻.png" group-title="亚洲",中天新聞台
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+#EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/亚洲新闻.png" group-title="亚洲",亞洲新聞台
+http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1,tvg-name="Channel5" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/c5.png" group-title="亚洲",Channel 5 HD
+http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1,tvg-name="Channel8" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/c8.png" group-title="亚洲",Channel 8 HD
+http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1,tvg-name="ChannelU" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/cu.png" group-title="亚洲",Channel U HD
+http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1,tvg-id="DW Deutsch" tvg-name="DW Deutsch" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/DW.png" group-title="亚洲",DW
+http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
+#EXTINF:-1,tvg-id="kix" tvg-name="kix" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/KIX.png" group-title="亚洲",KIX
+http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
+#EXTINF:-1,tvg-id="TVB PLUS" tvg-name="tvbplus" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVBPLUS.png" group-title="亚洲",TVB Plus
+http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1,tvg-id="PopC" tvg-name="PopC" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/POPC.png" group-title="亚洲",PopC
+http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+#EXTINF:-1,tvg-id="tvn" tvg-name="tvn" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVN.png" group-title="亚洲",tvN
+http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
+#EXTINF:-1,tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ROCKACTION.png" group-title="亚洲",ROCK Action
+http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1,tvg-id="axn" tvg-name="axn" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/AXN.png" group-title="亚洲",AXN
+http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+#EXTINF:-1,tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/AMC电影.png" group-title="亚洲",amc電影台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
+#EXTINF:-1,tvg-id="ANIMAXHK" tvg-name="ANIMAXHK" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ANIMAX.png" group-title="亚洲",Animax(HK)
+http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1,tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ZOOMOO1.png" group-title="亚洲",ZooMoo
+http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
+
 
 
 
