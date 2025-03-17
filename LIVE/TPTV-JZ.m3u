@@ -3,29 +3,29 @@ js=jsyd
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #TPTV.央视
-#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png" group-title="TPTV.央视",CCTV-8K HLG
+#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png" group-title="TPTV.央视",CCTV-8K HLG-40M
 http://?p=cntv&id=HD-20M-2160P-tchunxiang4k
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="TPTV.央视",CCTV16-4K
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="TPTV.央视",CCTV16-4K 20M 
 http://?p=gitv&id=G_CCTV-16-4K
-#EXTINF:-1,tvg-id="CCTV4K"  tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="TPTV.央视",CCTV-4K
+#EXTINF:-1,tvg-id="CCTV4K"  tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="TPTV.央视",CCTV-4K 12M
 http://?p=gitv&id=G_CCTV-4K-HD
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV1.png" group-title="TPTV.央视",CCTV-1ᴴᴰ 综合
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV1.png" group-title="TPTV.央视",CCTV-1ᴴᴰ综合
 http://?p=gitv&id=G_CCTV-1-AVS-4K264  
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV2.png" group-title="TPTV.央视",CCTV-2 财经
 http://?p=gitv&id=G_CCTV-2-HD-265-8M
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV3.png" group-title="TPTV.央视",CCTV-3ᴴᴰ 综艺
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV3.png" group-title="TPTV.央视",CCTV-3ᴴᴰ综艺
 http://?p=gitv&id=G_CCTV-3-AVS-4K264
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV4.png" group-title="TPTV.央视",CCTV-4 中文国际
 http://?p=gitv&id=G_CCTV-4-HD-265-8M
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5.png" group-title="TPTV.央视",CCTV-5ᴴᴰ 体育
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5.png" group-title="TPTV.央视",CCTV-5ᴴᴰ体育
 http://?p=gitv&id=G_CCTV-5-AVS-4K264
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5+.png" group-title="TPTV.央视",CCTV-5+体育赛事
 http://?p=gitv&id=G_CCTV-5PLUS-HD-265-8M
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV6.png" group-title="TPTV.央视",CCTV-6ᴴᴰ 电影
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV6.png" group-title="TPTV.央视",CCTV-6ᴴᴰ电影
 http://?p=gitv&id=G_CCTV-6-AVS-4K264
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV7.png" group-title="TPTV.央视",CCTV-7 国防军事
 http://?p=gitv&id=G_CCTV-7-HD-265-8M
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV8.png" group-title="TPTV.央视",CCTV-8ᴴᴰ 电视剧
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV8.png" group-title="TPTV.央视",CCTV-8ᴴᴰ电视剧
 http://?p=gitv&id=G_CCTV-8-AVS-4K264
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV9.png" group-title="TPTV.央视",CCTV-9 纪录
 http://?p=gitv&id=G_CCTV-9-HD-265-8M
