@@ -594,6 +594,12 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&C
 
 
 #体育竞技
+#EXTINF:-1,tvg-id="newtv哒啵电竞" tvg-name="newtv哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/哒啵电竞.png" group-title="体育竞技",哒啵电竞
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+#EXTINF:-1,tvg-id="newtv哒啵赛事" tvg-name="newtv哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/哒啵赛事.png" group-title="体育竞技",哒啵赛事
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000040&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IPTV足球.png" group-title="体育竞技",魅力足球
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="晴彩青少" tvg-name="晴彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/睛彩青少.png" group-title="体育竞技",晴彩青少
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="晴彩篮球" tvg-name="晴彩篮球" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/睛彩篮球.png" group-title="体育竞技",晴彩篮球
@@ -602,12 +608,6 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000060&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="晴彩广场舞" tvg-name="晴彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/睛彩广场舞.png" group-title="体育竞技",晴彩广场舞
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000062&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1,tvg-id="newtv哒啵电竞" tvg-name="newtv哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/哒啵电竞.png" group-title="体育竞技",哒啵电竞
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-#EXTINF:-1,tvg-id="newtv哒啵赛事" tvg-name="newtv哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/哒啵赛事.png" group-title="体育竞技",哒啵赛事
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000040&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IPTV足球.png" group-title="体育竞技",魅力足球
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
 #EXTINF:-1,tvg-id="newtv武博世界" tvg-name="newtv武博世界" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV武博世界.png" group-title="体育竞技",武博世界
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="newtv精品体育" tvg-name="newtv精品体育" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV精品体育.png" group-title="体育竞技",精品体育

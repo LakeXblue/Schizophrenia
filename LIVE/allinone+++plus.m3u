@@ -414,6 +414,12 @@ http://192.168.50.75:35455/itv/5000000011000288007.m3u8?cdn=bestzb
 
 
 #体育竞技
+#EXTINF:-1,tvg-id="newtv哒啵电竞" tvg-name="newtv哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/哒啵电竞.png" group-title="体育竞技",哒啵电竞
+http://192.168.50.75:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
+#EXTINF:-1,tvg-id="newtv哒啵赛事" tvg-name="newtv哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/哒啵赛事.png" group-title="体育竞技",哒啵赛事
+http://192.168.50.75:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IPTV足球.png" group-title="体育竞技",魅力足球
+http://192.168.50.75:35455/itv/5000000011000031207.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="晴彩青少" tvg-name="晴彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/睛彩青少.png" group-title="体育竞技",晴彩青少
 http://192.168.50.75:35455/itv/1000000006000270007.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="晴彩篮球" tvg-name="晴彩篮球" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/睛彩篮球.png" group-title="体育竞技",晴彩篮球
@@ -422,12 +428,6 @@ http://192.168.50.75:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
 http://192.168.50.75:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="晴彩广场舞" tvg-name="晴彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/睛彩广场舞.png" group-title="体育竞技",晴彩广场舞
 http://192.168.50.75:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="newtv哒啵电竞" tvg-name="newtv哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/哒啵电竞.png" group-title="体育竞技",哒啵电竞
-http://192.168.50.75:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="newtv哒啵赛事" tvg-name="newtv哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/哒啵赛事.png" group-title="体育竞技",哒啵赛事
-http://192.168.50.75:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/IPTV足球.png" group-title="体育竞技",魅力足球
-http://192.168.50.75:35455/itv/5000000011000031207.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="newtv武博世界" tvg-name="newtv武博世界" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV武博世界.png" group-title="体育竞技",武博世界
 http://192.168.50.75:35455/itv/2000000003000000007.m3u8?cdn=hnbblive
 #EXTINF:-1,tvg-id="newtv精品体育" tvg-name="newtv精品体育" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NEWTV精品体育.png" group-title="体育竞技",精品体育
