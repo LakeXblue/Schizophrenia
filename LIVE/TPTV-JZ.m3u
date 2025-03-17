@@ -32,19 +32,19 @@ http://?p=gitv&id=G_CCTV-9-HD-265-8M
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV10.png" group-title="TPTV.央视",CCTV-10 科教
 http://?p=gitv&id=G_CCTV-10-HD-265-8M
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV11.png" group-title="TPTV.央视",CCTV-11 戏曲
-http://?p=cntv&id=H265-5500k-1080P-cctv11
+http://?p=gitv&id=H265-5500k-1080P-cctv11
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV12.png" group-title="TPTV.央视",CCTV-12 社会与法
 http://?p=gitv&id=G_CCTV-12-HD-265-8M
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV13.png" group-title="TPTV.央视",CCTV-13 新闻
 http://?p=gitv&id=G_CCTV-13-HD-265-8M
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV14.png" group-title="TPTV.央视",CCTV-14 少儿
-http://?p=cntv&id=H265-5500k-1080P-cctv14
+http://?p=gitv&id=G_CCTV-14-CQ
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV15.png" group-title="TPTV.央视",CCTV-15 音乐
-http://?p=cntv&id=H265-5500k-1080P-cctv15
+http://?p=gitv&id=H265-5500k-1080P-cctv15
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV16.png" group-title="TPTV.央视",CCTV-16 奥林匹克
-http://?p=cntv&id=HD-8000k-1080P-cctv16
+http://?p=gitv&id=G_CCTV-16-CQ
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV17.png" group-title="TPTV.央视",CCTV-17 农业农村
-http://?p=cntv&id=H265-5500k-1080P-cctv17
+http://?p=gitv&id=G_CCTV-17-CQ
 
 
 #TPTV.卫视
