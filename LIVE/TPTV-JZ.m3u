@@ -9,23 +9,23 @@ http://?p=cntv&id=HD-20M-2160P-tchunxiang4k
 http://?p=gitv&id=G_CCTV-16-4K
 #EXTINF:-1,tvg-id="CCTV4K"  tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="TPTV.央视",CCTV-4K
 http://?p=gitv&id=G_CCTV-4K-HD
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV1.png" group-title="TPTV.央视",CCTV-1ᴴᴰ 综合
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV1.png" group-title="TPTV.央视",CCTV-1ᴴᴰ综合
 http://?p=gitv&id=G_CCTV-1-AVS-4K264  
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV2.png" group-title="TPTV.央视",CCTV-2 财经
 http://?p=gitv&id=G_CCTV-2-HD-265-8M
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV3.png" group-title="TPTV.央视",CCTV-3ᴴᴰ 综艺
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV3.png" group-title="TPTV.央视",CCTV-3ᴴᴰ综艺
 http://?p=gitv&id=G_CCTV-3-AVS-4K264
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV4.png" group-title="TPTV.央视",CCTV-4 中文国际
 http://?p=gitv&id=G_CCTV-4-HD-265-8M
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5.png" group-title="TPTV.央视",CCTV-5ᴴᴰ 体育
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5.png" group-title="TPTV.央视",CCTV-5ᴴᴰ体育
 http://?p=gitv&id=G_CCTV-5-AVS-4K264
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5+.png" group-title="TPTV.央视",CCTV-5+体育赛事
 http://?p=gitv&id=G_CCTV-5PLUS-HD-265-8M
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV6.png" group-title="TPTV.央视",CCTV-6ᴴᴰ 电影
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV6.png" group-title="TPTV.央视",CCTV-6ᴴᴰ电影
 http://?p=gitv&id=G_CCTV-6-AVS-4K264
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV7.png" group-title="TPTV.央视",CCTV-7 国防军事
 http://?p=gitv&id=G_CCTV-7-HD-265-8M
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV8.png" group-title="TPTV.央视",CCTV-8ᴴᴰ 电视剧
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV8.png" group-title="TPTV.央视",CCTV-8ᴴᴰ电视剧
 http://?p=gitv&id=G_CCTV-8-AVS-4K264
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV9.png" group-title="TPTV.央视",CCTV-9 纪录
 http://?p=gitv&id=G_CCTV-9-HD-265-8M
@@ -66,42 +66,42 @@ http://?p=gitv&id=G_JIANGSU-HD-265-8M
 http://?p=gitv&id=G_ANHUI-HD-265-8M
 #EXTINF:-1,tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/广东卫视.png" group-title="TPTV.卫视",广东卫视
 http://?p=gitv&id=G_GUANGDONG-HD-265-8M
-#EXTINF:-1,tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/山东卫视.png" group-title="TPTV.卫视",山东卫视
-http://?p=gitv&id=G_SHANDONG-HD-265-8M
 #EXTINF:-1,tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/深圳卫视.png" group-title="TPTV.卫视",深圳卫视
 http://?p=gitv&id=G_SHENZHEN-HD-265-8M
-#EXTINF:-1,tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/湖北卫视.png" group-title="TPTV.卫视",湖北卫视
-http://?p=gitv&id=G_HUBEI-HD-265-8M
+#EXTINF:-1,tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/广西卫视.png" group-title="TPTV.卫视",广西卫视
+http://?p=cntv&id=HD-8000k-1080P-guangxistv
 #EXTINF:-1,tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/河南卫视.png" group-title="TPTV.卫视",河南卫视
 http://?p=gitv&id=G_HENAN-CQ
+#EXTINF:-1,tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/湖北卫视.png" group-title="TPTV.卫视",湖北卫视
+http://?p=gitv&id=G_HUBEI-HD-265-8M
 #EXTINF:-1,tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京卫视.png" group-title="TPTV.卫视",北京卫视
 http://?p=gitv&id=G_BEIJING-HD-265-8M
 #EXTINF:-1,tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/天津卫视.png" group-title="TPTV.卫视",天津卫视
 http://?p=gitv&id=G_TIANJIN-HD-265-8M
-#EXTINF:-1,tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/广西卫视.png" group-title="TPTV.卫视",广西卫视
-http://?p=cntv&id=HD-8000k-1080P-guangxistv
+#EXTINF:-1,tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/山东卫视.png" group-title="TPTV.卫视",山东卫视
+http://?p=gitv&id=G_SHANDONG-HD-265-8M
 #EXTINF:-1,tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/辽宁卫视.png" group-title="TPTV.卫视",辽宁卫视
 http://?p=gitv&id=G_LIAONING-HD-265-8M
-#EXTINF:-1,tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/东南卫视.png" group-title="TPTV.卫视",东南卫视
-http://?p=cntv&id=H265-5500k-1080P-dongnanstv
-#EXTINF:-1,tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/吉林卫视.png" group-title="TPTV.卫视",吉林卫视
-http://?p=gitv&id=G_JILIN-CQ
-#EXTINF:-1,tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/四川卫视.png" group-title="TPTV.卫视",四川卫视
-http://?p=gitv&id=G_SICHUAN-CQ
-#EXTINF:-1,tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/江西卫视.png" group-title="TPTV.卫视",江西卫视
-http://?p=gitv&id=G_JIANGXI-CQ
 #EXTINF:-1,tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/河北卫视.png" group-title="TPTV.卫视",河北卫视
 http://?p=gitv&id=G_HEBEI-CQ
+#EXTINF:-1,tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/江西卫视.png" group-title="TPTV.卫视",江西卫视
+http://?p=gitv&id=G_JIANGXI-CQ
+#EXTINF:-1,tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/四川卫视.png" group-title="TPTV.卫视",四川卫视
+http://?p=gitv&id=G_SICHUAN-CQ
 #EXTINF:-1,tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/贵州卫视.png" group-title="TPTV.卫视",贵州卫视
 http://?p=gitv&id=G_GUIZHOU-CQ
 #EXTINF:-1,tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/重庆卫视.png" group-title="TPTV.卫视",重庆卫视
 http://?p=gitv&id=G_CHONGQING-CQ
 #EXTINF:-1,tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/云南卫视.png" group-title="TPTV.卫视",云南卫视
 http://?p=gitv&id=G_YUNNAN-HQ
+#EXTINF:-1,tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/东南卫视.png" group-title="TPTV.卫视",东南卫视
+http://?p=cntv&id=H265-5500k-1080P-dongnanstv
 #EXTINF:-1,tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/三沙卫视.png" group-title="TPTV.卫视",三沙卫视
 http://?p=gitv&id=G_SANSHA-HQ
 #EXTINF:-1,tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/海南卫视.png" group-title="TPTV.卫视",海南卫视
 http://?p=cntv&id=HD-8000k-1080P-lvyoustv
+#EXTINF:-1,tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/吉林卫视.png" group-title="TPTV.卫视",吉林卫视
+http://?p=gitv&id=G_JILIN-CQ
 #EXTINF:-1,tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/黑龙江卫视.png" group-title="TPTV.卫视",黑龙江卫视
 http://?p=gitv&id=G_HEILONGJIANG-HD-265-8M
 
