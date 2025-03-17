@@ -694,3 +694,188 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbL
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=toShengfen&mode=1&$5M FHD
 
 
+
+#TPTV.央卫
+#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png" group-title="TPTV.央卫",CCTV-8K HLG-40M
+http://jsyd.js?p=cntv&id=HD-20M-2160P-tchunxiang4k
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="TPTV.央卫",CCTV16-4K
+http://jsyd.js?p=gitv&id=G_CCTV-16-4K
+#EXTINF:-1,tvg-id="CCTV4K"  tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="TPTV.央卫",CCTV-4K
+http://jsyd.js?p=gitv&id=G_CCTV-4K-HD
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV1.png" group-title="TPTV.央卫",CCTV1 高码
+http://jsyd.js?p=gitv&id=G_CCTV-1-AVS-4K264
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV3.png" group-title="TPTV.央卫",CCTV3 高码
+http://jsyd.js?p=gitv&id=G_CCTV-3-AVS-4K264
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5.png" group-title="TPTV.央卫",CCTV5 高码
+http://jsyd.js?p=gitv&id=G_CCTV-5-AVS-4K264
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV6.png" group-title="TPTV.央卫",CCTV6 高码
+http://jsyd.js?p=gitv&id=G_CCTV-6-AVS-4K264
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV8.png" group-title="TPTV.央卫",CCTV8 高码
+http://jsyd.js?p=gitv&id=G_CCTV-8-AVS-4K264
+
+#EXTINF:-1,tvg-name="风云剧场" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/风云剧场.png" group-title="TPTV.央卫",风云剧场
+http://jsyd.js?p=gitv&id=G_FENGYUNJC-CQ
+#EXTINF:-1,tvg-name="第一剧场" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/第一剧场.png" group-title="TPTV.央卫",第一剧场
+http://jsyd.js?p=gitv&id=G_DIYIJC-CQ
+#EXTINF:-1,tvg-name="风云音乐" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/风云音乐.png" group-title="TPTV.央卫",风云音乐
+http://jsyd.js?p=gitv&id=G_FENGYUNYY-CQ
+#EXTINF:-1,tvg-name="风云足球" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/风云足球.png" group-title="TPTV.央卫",风云足球
+http://jsyd.js?p=gitv&id=G_FENGSHANGZQ-CQ
+#EXTINF:-1,tvg-name="央视台球" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/央视台球.png" group-title="TPTV.央卫",央视台球
+http://jsyd.js?p=gitv&id=G_TAIQIU-CQ
+#EXTINF:-1,tvg-name="高尔夫网球" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/高尔夫网球.png" group-title="TPTV.央卫",高尔夫网球
+http://jsyd.js?p=gitv&id=G_CCTV-GOLF-CQ
+#EXTINF:-1,tvg-name="央视文化精品" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/文化精品.png" group-title="TPTV.央卫",央视文化精品
+http://jsyd.js?p=gitv&id=G_CCTV-WENHUA-CQ
+#EXTINF:-1,tvg-name="怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/怀旧剧场.png" group-title="TPTV.央卫",怀旧剧场
+http://jsyd.js?p=gitv&id=G_HUAIJIUJC-CQ
+#EXTINF:-1,tvg-name="女性时尚" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/女性时尚.png" group-title="TPTV.央卫",女性时尚
+http://jsyd.js?p=gitv&id=G_NVXINGSS-CQ
+#EXTINF:-1,tvg-name="世界地理" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/世界地理.png" group-title="TPTV.央卫",世界地理
+http://jsyd.js?p=gitv&id=G_SHIJIEDL-CQ
+#EXTINF:-1,tvg-name="电视指南" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/电视指南1.png" group-title="TPTV.央卫",电视指南
+http://jsyd.js?p=gitv&id=G_DIANSHIZN-CQ
+#EXTINF:-1,tvg-name="兵器科技" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/CCTV兵器科技.png" group-title="TPTV.央卫",兵器科技
+http://jsyd.js?p=gitv&id=G_BINGQIKJ-CQ
+
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰卫视中文台" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix1.png" group-title="TPTV.央卫",凤凰中文 FHD
+http://jsyd.js?p=cntv&id=HD-10000k-1080P-fhchinese5s
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰卫视资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix2.png" group-title="TPTV.央卫",凤凰资讯 FHD
+http://jsyd.js?p=cntv&id=HD-10000k-1080P-fhzixun5s
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix3.png" group-title="TPTV.央卫",凤凰香港 FHD
+http://jsyd.js?p=cntv&id=HD-10000k-1080P-fhhongkong5s
+#EXTINF:-1,tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/东方卫视.png" group-title="TPTV.央卫",东方卫视
+http://jsyd.js?p=gitv&id=G_DONGFANG-HD-265-8M
+#EXTINF:-1,tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/湖南卫视.png" group-title="TPTV.央卫",湖南卫视
+http://jsyd.js?p=gitv&id=G_HUNAN-HD-265-8M
+#EXTINF:-1,tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/浙江卫视.png" group-title="TPTV.央卫",浙江卫视
+http://jsyd.js?p=gitv&id=G_ZHEJIANG-HD-265-8M
+#EXTINF:-1,tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/江苏卫视.png" group-title="TPTV.央卫",江苏卫视
+http://jsyd.js?p=gitv&id=G_JIANGSU-HD-265-8M
+#EXTINF:-1,tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/安徽卫视.png" group-title="TPTV.央卫",安徽卫视
+http://jsyd.js?p=gitv&id=G_ANHUI-HD-265-8M
+#EXTINF:-1,tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/广东卫视.png" group-title="TPTV.央卫",广东卫视
+http://jsyd.js?p=gitv&id=G_GUANGDONG-HD-265-8M
+#EXTINF:-1,tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/山东卫视.png" group-title="TPTV.央卫",山东卫视
+http://jsyd.js?p=gitv&id=G_SHANDONG-HD-265-8M
+#EXTINF:-1,tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/深圳卫视.png" group-title="TPTV.央卫",深圳卫视
+http://jsyd.js?p=gitv&id=G_SHENZHEN-HD-265-8M
+#EXTINF:-1,tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/湖北卫视.png" group-title="TPTV.央卫",湖北卫视
+http://jsyd.js?p=gitv&id=G_HUBEI-HD-265-8M
+#EXTINF:-1,tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/河南卫视.png" group-title="TPTV.央卫",河南卫视
+http://jsyd.js?p=gitv&id=G_HENAN-CQ
+#EXTINF:-1,tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京卫视.png" group-title="TPTV.央卫",北京卫视
+http://jsyd.js?p=gitv&id=G_BEIJING-HD-265-8M
+#EXTINF:-1,tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/天津卫视.png" group-title="TPTV.央卫",天津卫视
+http://jsyd.js?p=gitv&id=G_TIANJIN-HD-265-8M
+#EXTINF:-1,tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/广西卫视.png" group-title="TPTV.央卫",广西卫视
+http://jsyd.js?p=cntv&id=HD-8000k-1080P-guangxistv
+#EXTINF:-1,tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/辽宁卫视.png" group-title="TPTV.央卫",辽宁卫视
+http://jsyd.js?p=gitv&id=G_LIAONING-HD-265-8M
+#EXTINF:-1,tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/东南卫视.png" group-title="TPTV.央卫",东南卫视
+http://jsyd.js?p=cntv&id=H265-5500k-1080P-dongnanstv
+#EXTINF:-1,tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/吉林卫视.png" group-title="TPTV.央卫",吉林卫视
+http://jsyd.js?p=gitv&id=G_JILIN-CQ
+#EXTINF:-1,tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/四川卫视.png" group-title="TPTV.央卫",四川卫视
+http://jsyd.js?p=gitv&id=G_SICHUAN-CQ
+#EXTINF:-1,tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/江西卫视.png" group-title="TPTV.央卫",江西卫视
+http://jsyd.js?p=gitv&id=G_JIANGXI-CQ
+#EXTINF:-1,tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/河北卫视.png" group-title="TPTV.央卫",河北卫视
+http://jsyd.js?p=gitv&id=G_HEBEI-CQ
+#EXTINF:-1,tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/贵州卫视.png" group-title="TPTV.央卫",贵州卫视
+http://jsyd.js?p=gitv&id=G_GUIZHOU-CQ
+#EXTINF:-1,tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/重庆卫视.png" group-title="TPTV.央卫",重庆卫视
+http://jsyd.js?p=gitv&id=G_CHONGQING-CQ
+#EXTINF:-1,tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/云南卫视.png" group-title="TPTV.央卫",云南卫视
+http://jsyd.js?p=gitv&id=G_YUNNAN-HQ
+#EXTINF:-1,tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/三沙卫视.png" group-title="TPTV.央卫",三沙卫视
+http://jsyd.js?p=gitv&id=G_SANSHA-HQ
+#EXTINF:-1,tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/海南卫视.png" group-title="TPTV.央卫",海南卫视
+http://jsyd.js?p=cntv&id=HD-8000k-1080P-lvyoustv
+#EXTINF:-1,tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/黑龙江卫视.png" group-title="TPTV.央卫",黑龙江卫视
+http://jsyd.js?p=gitv&id=G_HEILONGJIANG-HD-265-8M
+
+
+#TPTV.影剧
+#EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/纯享4K.png" group-title="TPTV.影剧",纯享4K
+http://jsyd.js?p=cntv&id=HD-20M-2160P-chunxiang4k
+#EXTINF:-1,tvg-id="修复4K" tvg-name="修复4K" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/真4K.png" group-title="TPTV.影剧",4K修复 
+http://jsyd.js?p=gitv&id=GITV-YN-7
+#EXTINF:-1,tvg-id="百姓生活" tvg-name="百姓生活" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/百姓生活.png" group-title="TPTV.影剧",百姓生活
+http://jsyd.js?p=cntv&id=baixingsh
+#EXTINF:-1,tvg-id="咪咕音乐" tvg-name="咪咕音乐" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/咪咕音乐.png" group-title="TPTV.影剧",咪咕音乐
+http://jsyd.js?p=gitv&id=GITV-JS-5
+#EXTINF:-1,tvg-id="音乐心情" tvg-name="音乐心情" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/MTVLIVE.png" group-title="TPTV.影剧",腾讯音乐
+http://jsyd.js?p=gitv&id=GITV-JS-15
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",百炼成钢
+http://jsyd.js?p=gitv&id=GITV-JS-62
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",与凤行
+http://jsyd.js?p=gitv&id=GITV-JS-3
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",永安梦
+http://jsyd.js?p=cntv&id=cos-yonganmeng
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",花千骨
+http://jsyd.js?p=gitv&id=GITV-JS-57
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",漫长的季节
+http://jsyd.js?p=cntv&id=manchangdjj
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",梦中的那片海
+http://jsyd.js?p=cntv&id=mengzhongdnph
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",玫瑰的故事
+http://jsyd.js?p=gitv&id=GITV-JS-68
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",繁花
+http://jsyd.js?p=cntv&id=fanhua
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",庆余年
+http://jsyd.js?p=cntv&id=zhifouzf
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",烟火人间
+http://jsyd.js?p=cntv&id=cos-yanhuorenjia
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",黑土无言
+http://jsyd.js?p=cntv&id=COSHD-4000k-1080P-htwy
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",问心
+http://jsyd.js?p=cntv&id=COSHD-4000k-1080P-wenxin
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",父辈的荣耀
+http://jsyd.js?p=cntv&id=COSHD-4000k-1080P-fbdry
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",繁城之下
+http://jsyd.js?p=cntv&id=COSHD-4000k-1080P-fczx
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",小日子
+http://jsyd.js?p=cntv&id=COSHD-4000k-1080P-xiaorizi
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",谢谢你温暖我
+http://jsyd.js?p=cntv&id=COSHD-4000k-1080P-xxnwnw
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",猎冰
+http://jsyd.js?p=cntv&id=cos-liebing
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",哈尔滨一九四四
+http://jsyd.js?p=gitv&id=GITV-JS-28
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",南来北往
+http://jsyd.js?p=gitv&id=GITV-JS-39
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",狂飙
+http://jsyd.js?p=gitv&id=GITV-JS-41
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",狗剩快跑
+http://jsyd.js?p=gitv&id=GITV-JS-40
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",人世间
+http://jsyd.js?p=gitv&id=GITV-JS-42
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",大江大河
+http://jsyd.js?p=gitv&id=GITV-JS-43
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",山海情
+http://jsyd.js?p=gitv&id=GITV-JS-44
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",乡村爱情
+http://jsyd.js?p=gitv&id=GITV-JS-24
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",亮剑
+http://jsyd.js?p=gitv&id=GITV-JS-70
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",当你沉睡时*韩
+http://jsyd.js?p=cntv&id=COSHD-4000k-1080P-dncss
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",邪恶与疯狂*韩
+http://jsyd.js?p=gitv&id=GITV-JS-46
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",来自星星的你*韩
+http://jsyd.js?p=gitv&id=GITV-JS-47
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",哦我的鬼神大人*韩
+http://jsyd.js?p=gitv&id=GITV-JS-48
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",太阳的后裔*韩
+http://jsyd.js?p=gitv&id=GITV-JS-49
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",请回答1988*韩
+http://jsyd.js?p=gitv&id=GITV-JS-50
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",信号*韩
+http://jsyd.js?p=cntv&id=COSHD-1500k-1080P-xh
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",小猪佩奇
+http://jsyd.js?p=gitv&id=GITV-JS-12
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",熊出没
+http://jsyd.js?p=gitv&id=GITV-JS-10
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="TPTV.影剧",迪咖奥特曼
+http://jsyd.js?p=gitv&id=GITV-JS-9
