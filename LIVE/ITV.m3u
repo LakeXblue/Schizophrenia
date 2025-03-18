@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml.gz" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 
 
 #CCTV
