@@ -197,7 +197,7 @@ http://aktv-stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 
 #LITV
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://logo.doube.eu.org/中天新闻.png" group-title="LITV",中天新闻
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://logo.doube.eu.org/中天新闻.png" group-title="LITV",中天新闻台
 http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv009
 #EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲台" tvg-logo="https://logo.doube.eu.org/中天亚洲.png" group-title="LITV",中天亚洲台
 http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv109
