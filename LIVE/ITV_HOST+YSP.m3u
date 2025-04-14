@@ -1,60 +1,60 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml.gz" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 
 
-#YSP
-#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png" group-title="YSP",CCTV-8K HLG-36M
+#CCTV
+#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png" group-title="CCTV",CCTV-8K HLG-36M
 http://192.168.1.66:35455/gaoma/cctv8k_36m.m3u8
-#EXTINF:-1,tvg-id="CCTV4K"  tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="YSP",CCTV-4K HLG-36M
+#EXTINF:-1,tvg-id="CCTV4K"  tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="CCTV",CCTV-4K HLG-36M
 http://192.168.1.66:35455/gaoma/cctv4k.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="YSP",CCTV16-4K HLG-36M
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="CCTV",CCTV16-4K HLG-36M
 http://192.168.1.66:35455/gaoma/cctv4k16.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV1.png" group-title="YSP",CCTV1-综合 50-FPS
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV1.png" group-title="CCTV",CCTV1-综合 50-FPS
 http://192.168.1.66:35455/gaoma/cctv1.m3u8
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV2.png" group-title="YSP",CCTV2-财经 50-FPS
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV2.png" group-title="CCTV",CCTV2-财经 50-FPS
 http://192.168.1.66:35455/gaoma/cctv2.m3u8
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV3.png" group-title="YSP",CCTV3-综艺 50-FPS
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV3.png" group-title="CCTV",CCTV3-综艺 50-FPS
 http://192.168.1.66:35455/gaoma/cctv3.m3u8
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV4.png" group-title="YSP",CCTV4-中文国际 50-FPS
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV4.png" group-title="CCTV",CCTV4-中文国际 50-FPS
 http://192.168.1.66:35455/gaoma/cctv4.m3u8
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5.png" group-title="YSP",CCTV5-体育 50-FPS
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5.png" group-title="CCTV",CCTV5-体育 50-FPS
 http://192.168.1.66:35455/gaoma/cctv5.m3u8
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5+.png" group-title="YSP",CCTV5+体育赛事 50-FPS
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5+.png" group-title="CCTV",CCTV5+体育赛事 50-FPS
 http://192.168.1.66:35455/gaoma/cctv5p.m3u8
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV6.png" group-title="YSP",CCTV6-电影 50-FPS
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV6.png" group-title="CCTV",CCTV6-电影 50-FPS
 http://192.168.1.66:35455//bptv/10000100000000050000000003870749.m3u8
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV7.png" group-title="YSP",CCTV7-国防军事 50-FPS
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV7.png" group-title="CCTV",CCTV7-国防军事 50-FPS
 http://192.168.1.66:35455/gaoma/cctv7.m3u8
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV8.png" group-title="YSP",CCTV8-电视剧 50-FPS
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV8.png" group-title="CCTV",CCTV8-电视剧 50-FPS
 http://192.168.1.66:35455/gaoma/cctv8.m3u8
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV9.png" group-title="YSP",CCTV9-纪录 50-FPS
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV9.png" group-title="CCTV",CCTV9-纪录 50-FPS
 http://192.168.1.66:35455/gaoma/cctv9.m3u8
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV10.png" group-title="YSP",CCTV10-科教 50-FPS
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV10.png" group-title="CCTV",CCTV10-科教 50-FPS
 http://192.168.1.66:35455/gaoma/cctv10.m3u8
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV11.png" group-title="YSP",CCTV11-戏曲 50-FPS
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV11.png" group-title="CCTV",CCTV11-戏曲 50-FPS
 http://192.168.1.66:35455/gaoma/cctv11.m3u8
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV12.png" group-title="YSP",CCTV12-社会与法 50-FPS
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV12.png" group-title="CCTV",CCTV12-社会与法 50-FPS
 http://192.168.1.66:35455/gaoma/cctv12.m3u8
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV13.png" group-title="YSP",CCTV13-新闻 50-FPS
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV13.png" group-title="CCTV",CCTV13-新闻 50-FPS
 http://192.168.1.66:35455/gaoma/cctv13.m3u8
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV14.png" group-title="YSP",CCTV14-少儿 50-FPS
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV14.png" group-title="CCTV",CCTV14-少儿 50-FPS
 http://192.168.1.66:35455/gaoma/cctv14.m3u8
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV15.png" group-title="YSP",CCTV15-音乐 50-FPS
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV15.png" group-title="CCTV",CCTV15-音乐 50-FPS
 http://192.168.1.66:35455/gaoma/cctv15.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV16.png" group-title="YSP",CCTV16-奥林匹克 50-FPS
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV16.png" group-title="CCTV",CCTV16-奥林匹克 50-FPS
 http://192.168.1.66:35455/gaoma/cctv16.m3u8
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV17.png" group-title="YSP",CCTV17-农业农村 50-FPS
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV17.png" group-title="CCTV",CCTV17-农业农村 50-FPS
 http://192.168.1.66:35455/gaoma/cctv17.m3u8
-#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN.png" group-title="YSP",CGTN-英语 50-FPS
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN.png" group-title="CCTV",CGTN-英语 50-FPS
 http://192.168.1.66:35455/gaoma/cgtnen.m3u8
-#EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN法语.png" group-title="YSP",CGTN-法语 50-FPS
+#EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN法语.png" group-title="CCTV",CGTN-法语 50-FPS
 http://192.168.1.66:35455/gaoma/cgtnfr.m3u8
-#EXTINF:-1,tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN阿语.png" group-title="YSP",CGTN-阿拉伯语 50-FPS
+#EXTINF:-1,tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN阿语.png" group-title="CCTV",CGTN-阿拉伯语 50-FPS
 http://192.168.1.66:35455/gaoma/cgtnar.m3u8
-#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN俄语.png" group-title="YSP",CGTN-俄语 50-FPS
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN俄语.png" group-title="CCTV",CGTN-俄语 50-FPS
 http://192.168.1.66:35455/gaoma/cgtnru.m3u8
-#EXTINF:-1,tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN西语.png" group-title="YSP",CGTN-西班牙语 50-FPS
+#EXTINF:-1,tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN西语.png" group-title="CCTV",CGTN-西班牙语 50-FPS
 http://192.168.1.66:35455/gaoma/cgtnsp.m3u8
-#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv//CGTN纪录.png" group-title="YSP",CGTN-纪录片 50-FPS
+#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv//CGTN纪录.png" group-title="CCTV",CGTN-纪录片 50-FPS
 http://192.168.1.66:35455/gaoma/cgtndoc.m3u8
 
 
@@ -115,6 +115,20 @@ http://192.168.1.66:35455/bptv/10000100000000050000000004972569.m3u8
 http://192.168.1.66:35455/bptv/10000100000000050000000003873470.m3u8
 
 #亚洲
+#EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/亚洲新闻.png" group-title="亚洲",亞洲新聞台
+http://live_bin.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/中天新闻.png" group-title="亚洲",中天新聞台
+http://live_bin.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+#EXTINF:-1,tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/寰宇新闻.png" group-title="亚洲",寰宇新聞台
+http://live_bin.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+#EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/东森新闻.png" group-title="亚洲",東森新聞
+http://live_bin.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/凤凰中文.png" group-title="亚洲",鳳凰中文
+http://live_bin.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/凤凰资讯.png" group-title="亚洲",鳳凰資訊
+http://live_bin.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/凤凰香港.png" group-title="亚洲",鳳凰香港
+http://live_bin.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 #EXTINF:-1,tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/黄金翡翠.png" group-title="亚洲",黃金翡翠台
 http://live_bin.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/翡翠.png" group-title="亚洲",翡翠台4K
@@ -135,24 +149,10 @@ http://live_bin.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 http://live_bin.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
 #EXTINF:-1,tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVB娱乐新闻台.png" group-title="亚洲",娛樂新聞台(HK)
 http://live_bin.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/凤凰中文.png" group-title="亚洲",鳳凰中文
-http://live_bin.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/凤凰资讯.png" group-title="亚洲",鳳凰資訊
-http://live_bin.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/凤凰香港.png" group-title="亚洲",鳳凰香港
-http://live_bin.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
-#EXTINF:-1,tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/寰宇新闻.png" group-title="亚洲",寰宇新聞台
-http://live_bin.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-#EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/东森新闻.png" group-title="亚洲",東森新聞
-http://live_bin.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 #EXTINF:-1,tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/爱尔达娱乐.png" group-title="亚洲",愛爾達娛樂台
 http://live_bin.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
 #EXTINF:-1,tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVBS精采.png" group-title="亚洲",TVBS精采台
 http://live_bin.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
-#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/中天新闻.png" group-title="亚洲",中天新聞台
-http://live_bin.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-#EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/亚洲新闻.png" group-title="亚洲",亞洲新聞台
-http://live_bin.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1,tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/AMC电影.png" group-title="亚洲",amc電影台
 http://live_bin.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
 #EXTINF:-1,tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/龙华偶像.png" group-title="亚洲",龍華偶像台
@@ -213,182 +213,174 @@ http://live_bin.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 http://live_bin.m16tv.cfd/stream/useradd1/usmtvlive/AKTV.m3u8
 
 
-#LITVᴛ
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://logo.doube.eu.org/中天新闻.png" group-title="LITV",中天新闻台
+#LITV✈
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://logo.doube.eu.org/中天新闻.png" group-title="LITV✈",中天新聞
 http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv009
-#EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲台" tvg-logo="https://logo.doube.eu.org/中天亚洲.png" group-title="LITV",中天亚洲台
+#EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲台" tvg-logo="https://logo.doube.eu.org/中天亚洲.png" group-title="LITV✈",中天亞洲台
 http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv109
-#EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻" tvg-logo="https://logo.doube.eu.org/东森新闻台.png" group-title="LITV",东森新闻
+#EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻" tvg-logo="https://logo.doube.eu.org/东森新闻台.png" group-title="LITV✈",東森新聞
 http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv152
-#EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻" tvg-logo="https://logo.doube.eu.org/东森财经新闻台.png" group-title="LITV",东森财经新闻
+#EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻" tvg-logo="https://logo.doube.eu.org/东森财经新闻台.png" group-title="LITV✈",東森財經新聞
 http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv153
-#EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://logo.doube.eu.org/寰宇新闻台.png" group-title="LITV",寰宇新闻台
+#EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://logo.doube.eu.org/寰宇新闻台.png" group-title="LITV✈",寰宇新聞台
 http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn14
-#EXTINF:-1 tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="https://logo.doube.eu.org/寰宇新闻台湾台.png" group-title="LITV",寰宇新闻台湾台
+#EXTINF:-1 tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="https://logo.doube.eu.org/寰宇新闻台湾台.png" group-title="LITV✈",寰宇新聞台灣台
 http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv156
-#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://logo.doube.eu.org/民视新闻台.png" group-title="LITV",民视新闻台
+#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://logo.doube.eu.org/民视新闻台.png" group-title="LITV✈",民視新聞台
 http://192.168.1.66:50002/live?token=leifeng&id=litv-ftv13
-#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻" tvg-logo="https://logo.doube.eu.org/台视新闻台.png" group-title="LITV",台视新闻
+#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻" tvg-logo="https://logo.doube.eu.org/台视新闻台.png" group-title="LITV✈",台視新聞
 http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv051
-#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://logo.doube.eu.org/华视新闻.png" group-title="LITV",华视新闻
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://logo.doube.eu.org/华视新闻.png" group-title="LITV✈",華視新聞
 http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv052
-#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻台" tvg-logo="https://logo.doube.eu.org/TVBS新闻.png" group-title="LITV",TVBS新闻台
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻台" tvg-logo="https://logo.doube.eu.org/TVBS新闻.png" group-title="LITV✈",TVBS新聞台
 http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv072
-#EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻" tvg-logo="https://logo.doube.eu.org/中视新闻台.png" group-title="LITV",中视新闻
+#EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻" tvg-logo="https://logo.doube.eu.org/中视新闻台.png" group-title="LITV✈",中視新聞
 http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv074
-#EXTINF:-1 tvg-id="镜电视新闻台" tvg-name="镜新闻" tvg-logo="https://logo.doube.eu.org/镜电视新闻台.png" group-title="LITV",镜新闻
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv075
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://logo.doube.eu.org/TVBS.png" group-title="LITV",TVBS
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv073
-#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://logo.doube.eu.org/民视台湾台.png" group-title="LITV",民视台湾台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv001
-#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://logo.doube.eu.org/民视.png" group-title="LITV",民视
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv002
-#EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://logo.doube.eu.org/民视第一台.png" group-title="LITV",民视第一台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv003
-#EXTINF:-1 tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://logo.doube.eu.org/民视综艺台.png" group-title="LITV",民视综艺台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv004
-#EXTINF:-1 tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://logo.doube.eu.org/猪哥亮歌厅秀.png" group-title="LITV",猪哥亮歌厅秀
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv006
-#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://logo.doube.eu.org/非凡新闻.png" group-title="LITV",非凡新闻
+#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://logo.doube.eu.org/非凡新闻.png" group-title="LITV✈",非凡新聞
 http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv010
-#EXTINF:-1 tvg-id="影迷数位电影台" tvg-name="影迷数位电影台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="LITV",影迷数位电影台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv011
-#EXTINF:-1 tvg-id="视纳华仁纪实" tvg-name="视纳华仁纪实" tvg-logo="https://logo.doube.eu.org/视纳华仁纪实.png" group-title="LITV",视纳华仁纪实
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv013
-#EXTINF:-1 tvg-id="时尚运动X" tvg-name="时尚运动X" tvg-logo="https://logo.doube.eu.org/时尚运动X.png" group-title="LITV",时尚运动X
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv014
-#EXTINF:-1 tvg-id="Globetrotter" tvg-name="Globetrotter" tvg-logo="https://logo.doube.eu.org/Globetrotter.png" group-title="LITV",Globetrotter
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv016
-#EXTINF:-1 tvg-id="amc电影台" tvg-name="amc电影台" tvg-logo="https://logo.doube.eu.org/amc电影台.png" group-title="LITV",amc电影台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv017
-#EXTINF:-1 tvg-id="达文西频道" tvg-name="达文西频道" tvg-logo="https://logo.doube.eu.org/达文西频道.png" group-title="LITV",达文西频道
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv018
-#EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩台" tvg-logo="https://logo.doube.eu.org/八大精彩.png" group-title="LITV",八大精彩台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv034
-#EXTINF:-1 tvg-id="八大综艺" tvg-name="八大综艺台" tvg-logo="https://logo.doube.eu.org/八大综艺.png" group-title="LITV",八大综艺台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv039
-#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://logo.doube.eu.org/中视.png" group-title="LITV",中视
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv040
-#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://logo.doube.eu.org/华视.png" group-title="LITV",华视
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv041
-#EXTINF:-1 tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="https://logo.doube.eu.org/公视戏剧.png" group-title="LITV",公视戏剧
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv042
-#EXTINF:-1 tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://logo.doube.eu.org/客家电视台.png" group-title="LITV",客家电视台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv043
-#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://logo.doube.eu.org/靖天卡通台.png" group-title="LITV",靖天卡通台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv044
-#EXTINF:-1 tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台" tvg-logo="https://logo.doube.eu.org/靖洋戏剧台.png" group-title="LITV",靖洋戏剧台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv045
-#EXTINF:-1 tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="https://logo.doube.eu.org/靖天综合台.png" group-title="LITV",靖天综合台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv046
-#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://logo.doube.eu.org/靖天日本台.png" group-title="LITV",靖天日本台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv047
-#EXTINF:-1 tvg-id="非凡商业" tvg-name="非凡商业台" tvg-logo="https://logo.doube.eu.org/非凡商业.png" group-title="LITV",非凡商业台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv048
-#EXTINF:-1 tvg-id="采昌影剧台" tvg-name="采昌影剧台" tvg-logo="https://logo.doube.eu.org/采昌影剧台.png" group-title="LITV",采昌影剧台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv049
-#EXTINF:-1 tvg-id="GINXEsportsTV" tvg-name="GinxTV" tvg-logo="https://logo.doube.eu.org/GINXEsportsTV.png" group-title="LITV",GinxTV
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv053
-#EXTINF:-1 tvg-id="靖天欢乐台" tvg-name="靖天欢乐台" tvg-logo="https://logo.doube.eu.org/靖天欢乐台.png" group-title="LITV",靖天欢乐台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv054
-#EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://logo.doube.eu.org/靖天映画.png" group-title="LITV",靖天映画
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv055
-#EXTINF:-1 tvg-id="台视财经台" tvg-name="台视财经" tvg-logo="https://logo.doube.eu.org/台视财经台.png" group-title="LITV",台视财经
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv056
-#EXTINF:-1 tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://logo.doube.eu.org/靖洋卡通台.png" group-title="LITV",靖洋卡通台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv057
-#EXTINF:-1 tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" tvg-logo="https://logo.doube.eu.org/靖天戏剧台.png" group-title="LITV",靖天戏剧台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv058
-#EXTINF:-1 tvg-id="CLASSICA古典乐" tvg-name="古典音乐台" tvg-logo="https://logo.doube.eu.org/CLASSICA古典乐.png" group-title="LITV",古典音乐台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv059
-#EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://logo.doube.eu.org/靖天电影台.png" group-title="LITV",靖天电影台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv061
-#EXTINF:-1 tvg-id="靖天育乐台" tvg-name="靖天育乐台" tvg-logo="https://logo.doube.eu.org/靖天育乐台.png" group-title="LITV",靖天育乐台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv062
-#EXTINF:-1 tvg-id="靖天国际台" tvg-name="靖天国际台" tvg-logo="https://logo.doube.eu.org/靖天国际台.png" group-title="LITV",靖天国际台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv063
-#EXTINF:-1 tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="https://logo.doube.eu.org/中视菁采台.png" group-title="LITV",中视菁采台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv064
-#EXTINF:-1 tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="https://logo.doube.eu.org/靖天资讯台.png" group-title="LITV",靖天资讯台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv065
-#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://logo.doube.eu.org/台视.png" group-title="LITV",台视
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv066
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://logo.doube.eu.org/TVBS精采台.png" group-title="LITV",TVBS精采台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv067
-#EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://logo.doube.eu.org/TVBS欢乐台.png" group-title="LITV",TVBS欢乐台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv068
-#EXTINF:-1 tvg-id="ELTV娱乐" tvg-name="爱尔达娱乐" tvg-logo="https://logo.doube.eu.org/ELTV娱乐.png" group-title="LITV",爱尔达娱乐
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv070
-#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://logo.doube.eu.org/亚洲旅游台.png" group-title="LITV",亚洲旅游台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv076
-#EXTINF:-1 tvg-id="ARIRANG" tvg-name="阿里郎" tvg-logo="https://logo.doube.eu.org/ARIRANG.png" group-title="LITV",阿里郎
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv079
-#EXTINF:-1 tvg-id="中视经典台" tvg-name="中视经典台" tvg-logo="https://logo.doube.eu.org/中视经典台.png" group-title="LITV",中视经典台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv080
-#EXTINF:-1 tvg-id="TraceUrban" tvg-name="TRACE URBAN" tvg-logo="https://logo.doube.eu.org/TraceUrban.png" group-title="LITV",TRACE URBAN
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv082
-#EXTINF:-1 tvg-id="MezzoLiveHD" tvg-name="MEZZO LIVE" tvg-logo="https://logo.doube.eu.org/MezzoLiveHD.png" group-title="LITV",MEZZO LIVE
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv083
-#EXTINF:-1 tvg-id="国会频道1" tvg-name="国会频道1" tvg-logo="https://logo.doube.eu.org/国会频道1.png" group-title="LITV",国会频道1
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv084
-#EXTINF:-1 tvg-id="国会频道2" tvg-name="国会频道2" tvg-logo="https://logo.doube.eu.org/国会频道2.png" group-title="LITV",国会频道2
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv085
-#EXTINF:-1 tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://logo.doube.eu.org/智林体育台.png" group-title="LITV",智林体育台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv101
-#EXTINF:-1 tvg-id="第1商业台" tvg-name="第1商业台" tvg-logo="https://logo.doube.eu.org/第1商业台.png" group-title="LITV",第1商业台
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv104
-#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://logo.doube.eu.org/民视.png" group-title="LITV",民视
-http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv155
-#EXTINF:-1 tvg-id="美国之音" tvg-name="美国之音" tvg-logo="https://logo.doube.eu.org/美国之音.png" group-title="LITV",美国之音
-http://192.168.1.66:50002/live?token=leifeng&id=litv-ftv03
-#EXTINF:-1 tvg-id="民视旅游台" tvg-name="民视旅游" tvg-logo="https://logo.doube.eu.org/民视旅游台.png" group-title="LITV",民视旅游
-http://192.168.1.66:50002/live?token=leifeng&id=litv-ftv07
-#EXTINF:-1 tvg-id="民视影剧台" tvg-name="民视影剧" tvg-logo="https://logo.doube.eu.org/民视影剧台.png" group-title="LITV",民视影剧
-http://192.168.1.66:50002/live?token=leifeng&id=litv-ftv09
-#EXTINF:-1 tvg-id="半岛国际新闻" tvg-name="半岛新闻" tvg-logo="https://logo.doube.eu.org/半岛国际新闻.png" group-title="LITV",半岛新闻
+#EXTINF:-1 tvg-id="半岛国际新闻" tvg-name="半岛新闻" tvg-logo="https://logo.doube.eu.org/半岛国际新闻.png" group-title="LITV✈",半島新聞
 http://192.168.1.66:50002/live?token=leifeng&id=litv-ftv10
-#EXTINF:-1 tvg-id="好消息1" tvg-name="好消息1" tvg-logo="https://logo.doube.eu.org/好消息1.png" group-title="LITV",好消息1
-http://192.168.1.66:50002/live?token=leifeng&id=litv-ftv16
-#EXTINF:-1 tvg-id="好消息2" tvg-name="好消息2" tvg-logo="https://logo.doube.eu.org/好消息2.png" group-title="LITV",好消息2
-http://192.168.1.66:50002/live?token=leifeng&id=litv-ftv17
-#EXTINF:-1 tvg-id="龙华卡通台" tvg-name="龙华卡通" tvg-logo="https://logo.doube.eu.org/龙华卡通台.png" group-title="LITV",龙华卡通
+#EXTINF:-1 tvg-id="镜电视新闻台" tvg-name="镜新闻" tvg-logo="https://logo.doube.eu.org/镜电视新闻台.png" group-title="LITV✈",镜新聞
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv075
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://logo.doube.eu.org/中视.png" group-title="LITV✈",中視
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv040
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://logo.doube.eu.org/华视.png" group-title="LITV✈",华視
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv041
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://logo.doube.eu.org/台视.png" group-title="LITV✈",台視
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv066
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://logo.doube.eu.org/民视.png" group-title="LITV✈",民視
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv002
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://logo.doube.eu.org/TVBS.png" group-title="LITV✈",TVBS
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv073
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://logo.doube.eu.org/TVBS精采台.png" group-title="LITV✈",TVBS精采台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv067
+#EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://logo.doube.eu.org/TVBS欢乐台.png" group-title="LITV✈",TVBS歡樂台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv068
+#EXTINF:-1 tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="https://logo.doube.eu.org/中视菁采台.png" group-title="LITV✈",中視菁采台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv064
+#EXTINF:-1 tvg-id="中视经典台" tvg-name="中视经典台" tvg-logo="https://logo.doube.eu.org/中视经典台.png" group-title="LITV✈",中視經典台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv080
+#EXTINF:-1 tvg-id="台视财经台" tvg-name="台视财经" tvg-logo="https://logo.doube.eu.org/台视财经台.png" group-title="LITV✈",台視財經
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv056
+#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://logo.doube.eu.org/民视台湾台.png" group-title="LITV✈",民視台灣台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv001
+#EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://logo.doube.eu.org/民视第一台.png" group-title="LITV✈",民視第一台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv003
+#EXTINF:-1 tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://logo.doube.eu.org/民视综艺台.png" group-title="LITV✈",民視綜藝台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv004
+#EXTINF:-1 tvg-id="民视旅游台" tvg-name="民视旅游" tvg-logo="https://logo.doube.eu.org/民视旅游台.png" group-title="LITV✈",民視旅遊
+http://192.168.1.66:50002/live?token=leifeng&id=litv-ftv07
+#EXTINF:-1 tvg-id="民视影剧台" tvg-name="民视影剧" tvg-logo="https://logo.doube.eu.org/民视影剧台.png" group-title="LITV✈",民視影劇
+http://192.168.1.66:50002/live?token=leifeng&id=litv-ftv09
+#EXTINF:-1 tvg-id="影迷数位电影台" tvg-name="影迷数位电影台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/影迷数位电影.png" group-title="LITV✈",影迷數位電影台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv011
+#EXTINF:-1 tvg-id="时尚运动X" tvg-name="时尚运动X" tvg-logo="https://logo.doube.eu.org/时尚运动X.png" group-title="LITV✈",時尚運動X
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv014
+#EXTINF:-1 tvg-id="Globetrotter" tvg-name="Globetrotter" tvg-logo="https://logo.doube.eu.org/Globetrotter.png" group-title="LITV✈",Globetrotter
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv016
+#EXTINF:-1 tvg-id="amc电影台" tvg-name="amc电影台" tvg-logo="https://logo.doube.eu.org/amc电影台.png" group-title="LITV✈",amc電影台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv017
+#EXTINF:-1 tvg-id="达文西频道" tvg-name="达文西频道" tvg-logo="https://logo.doube.eu.org/达文西频道.png" group-title="LITV✈",達文西频道
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv018
+#EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩台" tvg-logo="https://logo.doube.eu.org/八大精彩.png" group-title="LITV✈",八大精彩台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv034
+#EXTINF:-1 tvg-id="八大综艺" tvg-name="八大综艺台" tvg-logo="https://logo.doube.eu.org/八大综艺.png" group-title="LITV✈",八大綜藝台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv039
+#EXTINF:-1 tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="https://logo.doube.eu.org/公视戏剧.png" group-title="LITV✈",公視戲劇
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv042
+#EXTINF:-1 tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://logo.doube.eu.org/客家电视台.png" group-title="LITV✈",客家電視台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv043
+#EXTINF:-1 tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="https://logo.doube.eu.org/靖天资讯台.png" group-title="LITV✈",靖天資訊台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv065
+#EXTINF:-1 tvg-id="靖天国际台" tvg-name="靖天国际台" tvg-logo="https://logo.doube.eu.org/靖天国际台.png" group-title="LITV✈",靖天國際台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv063
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://logo.doube.eu.org/靖天卡通台.png" group-title="LITV✈",靖天卡通台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv044
+#EXTINF:-1 tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="https://logo.doube.eu.org/靖天综合台.png" group-title="LITV✈",靖天綜合台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv046
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://logo.doube.eu.org/靖天日本台.png" group-title="LITV✈",靖天日本台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv047
+#EXTINF:-1 tvg-id="靖天欢乐台" tvg-name="靖天欢乐台" tvg-logo="https://logo.doube.eu.org/靖天欢乐台.png" group-title="LITV✈",靖天歡樂台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv054
+#EXTINF:-1 tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" tvg-logo="https://logo.doube.eu.org/靖天戏剧台.png" group-title="LITV✈",靖天戲劇台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv058
+#EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://logo.doube.eu.org/靖天电影台.png" group-title="LITV✈",靖天電影台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv061
+#EXTINF:-1 tvg-id="靖天育乐台" tvg-name="靖天育乐台" tvg-logo="https://logo.doube.eu.org/靖天育乐台.png" group-title="LITV✈",靖天育樂台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv062
+#EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://logo.doube.eu.org/靖天映画.png" group-title="LITV✈",靖天映畫
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv055
+#EXTINF:-1 tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://logo.doube.eu.org/靖洋卡通台.png" group-title="LITV✈",靖洋卡通台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv057
+#EXTINF:-1 tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台" tvg-logo="https://logo.doube.eu.org/靖洋戏剧台.png" group-title="LITV✈",靖洋戲劇台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv045
+#EXTINF:-1 tvg-id="龙华卡通台" tvg-name="龙华卡通" tvg-logo="https://logo.doube.eu.org/龙华卡通台.png" group-title="LITV✈",龍華卡通
 http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn01
-#EXTINF:-1 tvg-id="龙华洋片台" tvg-name="龙华洋片" tvg-logo="https://logo.doube.eu.org/龙华洋片台.png" group-title="LITV",龙华洋片
+#EXTINF:-1 tvg-id="龙华洋片台" tvg-name="龙华洋片" tvg-logo="https://logo.doube.eu.org/龙华洋片台.png" group-title="LITV✈",龍華洋片
 http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn02
-#EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影" tvg-logo="https://logo.doube.eu.org/龙华电影台.png" group-title="LITV",龙华电影
+#EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影" tvg-logo="https://logo.doube.eu.org/龙华电影台.png" group-title="LITV✈",龍華电影
 http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn03
-#EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩" tvg-logo="https://logo.doube.eu.org/龙华日韩台.png" group-title="LITV",龙华日韩
+#EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩" tvg-logo="https://logo.doube.eu.org/龙华日韩台.png" group-title="LITV✈",龍華日韓
 http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn11
-#EXTINF:-1 tvg-id="龙华偶像台" tvg-name="龙华偶像" tvg-logo="https://logo.doube.eu.org/龙华偶像台.png" group-title="LITV",龙华偶像
+#EXTINF:-1 tvg-id="龙华偶像台" tvg-name="龙华偶像" tvg-logo="https://logo.doube.eu.org/龙华偶像台.png" group-title="LITV✈",龍華偶像
 http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn12
-#EXTINF:-1 tvg-id="龙华经典台" tvg-name="龙华经典" tvg-logo="https://logo.doube.eu.org/龙华经典台.png" group-title="LITV",龙华经典
+#EXTINF:-1 tvg-id="龙华经典台" tvg-name="龙华经典" tvg-logo="https://logo.doube.eu.org/龙华经典台.png" group-title="LITV✈",龍華經典
 http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn21
-#EXTINF:-1 tvg-id="龙华戏剧台" tvg-name="龙华戏剧" tvg-logo="https://logo.doube.eu.org/龙华戏剧台.png" group-title="LITV",龙华戏剧
+#EXTINF:-1 tvg-id="龙华戏剧台" tvg-name="龙华戏剧" tvg-logo="https://logo.doube.eu.org/龙华戏剧台.png" group-title="LITV✈",龍華戲劇
 http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn18
-#EXTINF:-1 tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="https://logo.doube.eu.org/博斯魅力.png" group-title="LITV",博斯魅力
+#EXTINF:-1 tvg-id="非凡商业" tvg-name="非凡商业台" tvg-logo="https://logo.doube.eu.org/非凡商业.png" group-title="LITV✈",非凡商業台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv048
+#EXTINF:-1 tvg-id="采昌影剧台" tvg-name="采昌影剧台" tvg-logo="https://logo.doube.eu.org/采昌影剧台.png" group-title="LITV✈",采昌影劇台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv049
+#EXTINF:-1 tvg-id="GINXEsportsTV" tvg-name="GinxTV" tvg-logo="https://logo.doube.eu.org/GINXEsportsTV.png" group-title="LITV✈",GinxTV
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv053
+#EXTINF:-1 tvg-id="CLASSICA古典乐" tvg-name="古典音乐台" tvg-logo="https://logo.doube.eu.org/CLASSICA古典乐.png" group-title="LITV✈",古典音樂台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv059
+#EXTINF:-1 tvg-id="ELTV娱乐" tvg-name="爱尔达娱乐" tvg-logo="https://logo.doube.eu.org/ELTV娱乐.png" group-title="LITV✈",愛爾達娛樂
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv070
+#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://logo.doube.eu.org/亚洲旅游台.png" group-title="LITV✈",亞洲旅遊台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv076
+#EXTINF:-1 tvg-id="ARIRANG" tvg-name="阿里郎" tvg-logo="https://logo.doube.eu.org/ARIRANG.png" group-title="LITV✈",阿里郎
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv079
+#EXTINF:-1 tvg-id="TraceUrban" tvg-name="TRACE URBAN" tvg-logo="https://logo.doube.eu.org/TraceUrban.png" group-title="LITV✈",TRACE URBAN
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv082
+#EXTINF:-1 tvg-id="MezzoLiveHD" tvg-name="MEZZO LIVE" tvg-logo="https://logo.doube.eu.org/MezzoLiveHD.png" group-title="LITV✈",MEZZO LIVE
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv083
+#EXTINF:-1 tvg-id="国会频道1" tvg-name="国会频道1" tvg-logo="https://logo.doube.eu.org/国会频道1.png" group-title="LITV✈",國會頻道1
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv084
+#EXTINF:-1 tvg-id="国会频道2" tvg-name="国会频道2" tvg-logo="https://logo.doube.eu.org/国会频道2.png" group-title="LITV✈",國會頻道2
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv085
+#EXTINF:-1 tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://logo.doube.eu.org/智林体育台.png" group-title="LITV✈",智林體育台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv101
+#EXTINF:-1 tvg-id="第1商业台" tvg-name="第1商业台" tvg-logo="https://logo.doube.eu.org/第1商业台.png" group-title="LITV✈",第1商業台
+http://192.168.1.66:50002/live?token=leifeng&id=4gtv-4gtv104
+#EXTINF:-1 tvg-id="美国之音" tvg-name="美国之音" tvg-logo="https://logo.doube.eu.org/美国之音.png" group-title="LITV✈",美國之音
+http://192.168.1.66:50002/live?token=leifeng&id=litv-ftv03
+#EXTINF:-1 tvg-id="好消息1" tvg-name="好消息1" tvg-logo="https://logo.doube.eu.org/好消息1.png" group-title="LITV✈",好消息1
+http://192.168.1.66:50002/live?token=leifeng&id=litv-ftv16
+#EXTINF:-1 tvg-id="好消息2" tvg-name="好消息2" tvg-logo="https://logo.doube.eu.org/好消息2.png" group-title="LITV✈",好消息2
+http://192.168.1.66:50002/live?token=leifeng&id=litv-ftv17
+#EXTINF:-1 tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="https://logo.doube.eu.org/博斯魅力.png" group-title="LITV✈",博斯魅力
 http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn04
-#EXTINF:-1 tvg-id="博斯高球1" tvg-name="博斯高球1" tvg-logo="https://logo.doube.eu.org/博斯高球1.png" group-title="LITV",博斯高球1
+#EXTINF:-1 tvg-id="博斯高球1" tvg-name="博斯高球1" tvg-logo="https://logo.doube.eu.org/博斯高球1.png" group-title="LITV✈",博斯高球1
 http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn05
-#EXTINF:-1 tvg-id="博斯高球2" tvg-name="博斯高球2" tvg-logo="https://logo.doube.eu.org/博斯高球2.png" group-title="LITV",博斯高球2
+#EXTINF:-1 tvg-id="博斯高球2" tvg-name="博斯高球2" tvg-logo="https://logo.doube.eu.org/博斯高球2.png" group-title="LITV✈",博斯高球2
 http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn06
-#EXTINF:-1 tvg-id="博斯运动1" tvg-name="博斯运动1" tvg-logo="https://logo.doube.eu.org/博斯运动1.png" group-title="LITV",博斯运动1
+#EXTINF:-1 tvg-id="博斯运动1" tvg-name="博斯运动1" tvg-logo="https://logo.doube.eu.org/博斯运动1.png" group-title="LITV✈",博斯運動1
 http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn07
-#EXTINF:-1 tvg-id="博斯运动2" tvg-name="博斯运动2" tvg-logo="https://logo.doube.eu.org/博斯运动2.png" group-title="LITV",博斯运动2
+#EXTINF:-1 tvg-id="博斯运动2" tvg-name="博斯运动2" tvg-logo="https://logo.doube.eu.org/博斯运动2.png" group-title="LITV✈",博斯運動2
 http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn08
-#EXTINF:-1 tvg-id="博斯网球1" tvg-name="博斯网球" tvg-logo="https://logo.doube.eu.org/博斯网球1.png" group-title="LITV",博斯网球
+#EXTINF:-1 tvg-id="博斯网球1" tvg-name="博斯网球" tvg-logo="https://logo.doube.eu.org/博斯网球1.png" group-title="LITV✈",博斯網球
 http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn09
-#EXTINF:-1 tvg-id="博斯无限1" tvg-name="博斯无限" tvg-logo="https://logo.doube.eu.org/博斯无限1.png" group-title="LITV",博斯无限
+#EXTINF:-1 tvg-id="博斯无限1" tvg-name="博斯无限" tvg-logo="https://logo.doube.eu.org/博斯无限1.png" group-title="LITV✈",博斯無限
 http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn10
-#EXTINF:-1 tvg-id="博斯无限2" tvg-name="博斯无限2" tvg-logo="https://logo.doube.eu.org/博斯无限2.png" group-title="LITV",博斯无限2
+#EXTINF:-1 tvg-id="博斯无限2" tvg-name="博斯无限2" tvg-logo="https://logo.doube.eu.org/博斯无限2.png" group-title="LITV✈",博斯無限2
 http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn13
-#EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://logo.doube.eu.org/寰宇新闻台.png" group-title="LITV",寰宇新闻台
-http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn14
-#EXTINF:-1 tvg-id="Smart知识台" tvg-name="Smart知识台" tvg-logo="https://logo.doube.eu.org/Smart知识台.png" group-title="LITV",Smart知识台
+#EXTINF:-1 tvg-id="Smart知识台" tvg-name="Smart知识台" tvg-logo="https://logo.doube.eu.org/Smart知识台.png" group-title="LITV✈",Smart知識台
 http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn19
-#EXTINF:-1 tvg-id="ELTV生活英语台" tvg-name="生活英语台" tvg-logo="https://logo.doube.eu.org/ELTV生活英语台.png" group-title="LITV",生活英语台
+#EXTINF:-1 tvg-id="ELTV生活英语台" tvg-name="生活英语台" tvg-logo="https://logo.doube.eu.org/ELTV生活英语台.png" group-title="LITV✈",生活英語台
 http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn20
-#EXTINF:-1 tvg-id="台湾戏剧台" tvg-name="台湾戏剧台" tvg-logo="https://logo.doube.eu.org/台湾戏剧台.png" group-title="LITV",台湾戏剧台
+#EXTINF:-1 tvg-id="台湾戏剧台" tvg-name="台湾戏剧台" tvg-logo="https://logo.doube.eu.org/台湾戏剧台.png" group-title="LITV✈",台灣戲劇台
 http://192.168.1.66:50002/live?token=leifeng&id=litv-longturn22
 
 
