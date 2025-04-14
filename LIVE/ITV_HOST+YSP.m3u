@@ -182,7 +182,7 @@ http://live_bin.m16tv.cfd/stream/useradd1/espnnews/AKTV.m3u8
 #EXTINF:-1,tvg-id="TennisChannel2US" tvg-name="TennisChannel2US" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TennisChannelPlus.png" group-title="亚洲",TennisChannel 2US
 http://live_bin.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
 #EXTINF:-1,tvg-id="TennisChannelUS" tvg-name="TennisChannelUS" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TennisChannelUS.png" group-title="亚洲",TennisChannel US
-http://live_bin.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
+http://live_bin.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
 #EXTINF:-1,tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ASTROSUPERSPORT1.png" group-title="亚洲",Astro Football
 http://live_bin.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 #EXTINF:-1,tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ASTROXINGHE.png" group-title="亚洲",Astro 欢喜台
