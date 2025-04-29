@@ -3,41 +3,41 @@
 
 #CCTV
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV1.png" group-title="CCTV",CCTV1-综合 50-FPS
-http://192.168.50.58:35455/bptv/10000100000000050000000003864351.m3u8
+http://192.168.1.66:35455/bptv/10000100000000050000000003864351.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV2.png" group-title="CCTV",CCTV2-财经 50-FPS
-http://192.168.50.58:35455/bptv/10000100000000050000000003870745.m3u8
+http://192.168.1.66:35455/bptv/10000100000000050000000003870745.m3u8
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV3.png" group-title="CCTV",CCTV3-综艺 50-FPS
-http://192.168.50.58:35455/bptv/10000100000000050000000003870746.m3u8
+http://192.168.1.66:35455/bptv/10000100000000050000000003870746.m3u8
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV4.png" group-title="CCTV",CCTV4-中文国际 50-FPS
-http://192.168.50.58:35455/bptv/10000100000000050000000003870747.m3u8
+http://192.168.1.66:35455/bptv/10000100000000050000000003870747.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5.png" group-title="CCTV",CCTV5-体育 50-FPS
-http://192.168.50.58:35455/bptv/10000100000000050000000003870748.m3u8
+http://192.168.1.66:35455/bptv/10000100000000050000000003870748.m3u8
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5+.png" group-title="CCTV",CCTV5+体育赛事 50-FPS
-http://192.168.50.58:35455/bptv/10000100000000050000000003870759.m3u8
+http://192.168.1.66:35455/bptv/10000100000000050000000003870759.m3u8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV6.png" group-title="CCTV",CCTV6-电影 50-FPS
-http://192.168.50.58:35455//bptv/10000100000000050000000003870749.m3u8
+http://192.168.1.66:35455//bptv/10000100000000050000000003870749.m3u8
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV7.png" group-title="CCTV",CCTV7-国防军事 50-FPS
-http://192.168.50.58:35455/bptv/10000100000000050000000003870750.m3u8
+http://192.168.1.66:35455/bptv/10000100000000050000000003870750.m3u8
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV8.png" group-title="CCTV",CCTV8-电视剧 50-FPS
-http://192.168.50.58:35455/bptv/10000100000000050000000003870838.m3u8
+http://192.168.1.66:35455/bptv/10000100000000050000000003870838.m3u8
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV9.png" group-title="CCTV",CCTV9-纪录 50-FPS
-http://192.168.50.58:35455/bptv/10000100000000050000000003870752.m3u8
+http://192.168.1.66:35455/bptv/10000100000000050000000003870752.m3u8
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV10.png" group-title="CCTV",CCTV10-科教 50-FPS
-http://192.168.50.58:35455/bptv/10000100000000050000000003870753.m3u8
+http://192.168.1.66:35455/bptv/10000100000000050000000003870753.m3u8
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV11.png" group-title="CCTV",CCTV11-戏曲 50-FPS
-http://192.168.50.58:35455/bptv/10000100000000050000000003870754.m3u8
+http://192.168.1.66:35455/bptv/10000100000000050000000003870754.m3u8
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV12.png" group-title="CCTV",CCTV12-社会与法 50-FPS
-http://192.168.50.58:35455/bptv/10000100000000050000000003870755.m3u8
+http://192.168.1.66:35455/bptv/10000100000000050000000003870755.m3u8
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV13.png" group-title="CCTV",CCTV13-新闻 50-FPS
-http://192.168.50.58:35455/bptv/10000100000000050000000004796248.m3u8
+http://192.168.1.66:35455/bptv/10000100000000050000000004796248.m3u8
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV14.png" group-title="CCTV",CCTV14-少儿 50-FPS
-http://192.168.50.58:35455/bptv/10000100000000050000000003870756.m3u8
+http://192.168.1.66:35455/bptv/10000100000000050000000003870756.m3u8
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV15.png" group-title="CCTV",CCTV15-音乐 50-FPS
-http://192.168.50.58:35455/bptv/10000100000000050000000003870757.m3u8
+http://192.168.1.66:35455/bptv/10000100000000050000000003870757.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV16.png" group-title="CCTV",CCTV16-奥林匹克 50-FPS
-http://192.168.50.58:35455/bptv/10000100000000050000000004972604.m3u8
+http://192.168.1.66:35455/bptv/10000100000000050000000004972604.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV17.png" group-title="CCTV",CCTV17-农业农村 50-FPS
-http://192.168.50.58:35455/bptv/10000100000000050000000003870758.m3u8
+http://192.168.1.66:35455/bptv/10000100000000050000000003870758.m3u8
 
 
 #卫视
