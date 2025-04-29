@@ -97,107 +97,78 @@ http://192.168.1.66:35455/bptv/10000100000000050000000004972569.m3u8
 http://192.168.1.66:35455/bptv/10000100000000050000000003873470.m3u8
 
 
-#亚洲
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/凤凰中文.png" group-title="亚洲",鳳凰中文
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/凤凰资讯.png" group-title="亚洲",鳳凰資訊
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-2/AKTV.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/凤凰香港.png" group-title="亚洲",鳳凰香港
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-5/AKTV.m3u8
-#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/中天新闻.png" group-title="亚洲",中天新聞台
-http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
-#EXTINF:-1,tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/寰宇新闻.png" group-title="亚洲",寰宇新聞台
-http://aktv_stream.m16tv.cfd/stream/yt/null-1/AKTV.m3u8
-#EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/东森新闻.png" group-title="亚洲",東森新聞
-http://aktv_stream.m16tv.cfd/stream/yt/null-2/AKTV.m3u8
-#EXTINF:-1,tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/黄金翡翠.png" group-title="亚洲",黃金翡翠台
-http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/翡翠.png" group-title="亚洲",翡翠台4K
-http://aktv_stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/翡翠.png" group-title="亚洲",翡翠台
-http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/明珠.png" group-title="亚洲",明珠台
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVBPLUS.png" group-title="亚洲", TVB PLUS
-http://aktv_stream.m16tv.cfd/stream/aktv1/tvbplus/AKTV.m3u8
-#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/VIUTV.png" group-title="亚洲",VIUTV
-http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
-#EXTINF:-1,tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/无线新闻.png" group-title="亚洲",無線新聞台
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
-#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/美亚电影.png" group-title="亚洲",美亞電影台(HK)
-http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
-#EXTINF:-1,tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/千禧经典台.png" group-title="亚洲",千禧經典台(HK)
-http://aktv_stream.m16tv.cfd/stream/aktv2/hk-2/AKTV.m3u8
-#EXTINF:-1,tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/天映.png" group-title="亚洲",天映頻道(HK)
-http://aktv_stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVB娱乐新闻台.png" group-title="亚洲",娛樂新聞台(HK)
-http://aktv_stream.m16tv.cfd/stream/aktv2/hk-1/AKTV.m3u8
-#EXTINF:-1,tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/纬来体育.png" group-title="亚洲",緯來體育
-http://aktv_stream.m16tv.cfd/stream/aktv5/null/AKTV.m3u8
-#EXTINF:-1,tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/爱尔达娱乐.png" group-title="亚洲",愛爾達娛樂台
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVBS精采.png" group-title="亚洲",TVBS精采台
-http://aktv_stream.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
-#EXTINF:-1,tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/AMC电影.png" group-title="亚洲",amc電影台
-http://aktv_stream.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
-#EXTINF:-1,tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/龙华偶像.png" group-title="亚洲",龍華偶像台
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
-#EXTINF:-1,tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/龙华日韩.png" group-title="亚洲",龍華日韓台
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
-#EXTINF:-1,tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/龙华电影.png" group-title="亚洲",龍華電影台
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
-#EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/亚洲新闻.png" group-title="亚洲",亞洲新聞台
-http://aktv_stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1,tvg-id="Channel5" tvg-name="Channel5" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/c5.png" group-title="亚洲",Channel 5 HD
-http://aktv_stream.m16tv.cfd/stream/aktv1/channel5hd/AKTV.m3u8
-#EXTINF:-1,tvg-id="Channel8" tvg-name="Channel8" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/c8.png" group-title="亚洲",Channel 8 HD
-http://aktv_stream.m16tv.cfd/stream/aktv1/channel8hd/AKTV.m3u8
-#EXTINF:-1,tvg-id="ChannelU" tvg-name="ChannelU" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/cu.png" group-title="亚洲",Channel U HD
-http://aktv_stream.m16tv.cfd/stream/aktv1/channeluhd/AKTV.m3u8
-#EXTINF:-1,tvg-id="Sukan" tvg-name="Sukan" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/Sukan.png" group-title="亚洲",Sukan
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
-#EXTINF:-1,tvg-id="Unifi Sport" tvg-name="Unifi Sport" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/Unifi Sport1.png" group-title="亚洲",Unifi Sport
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
-#EXTINF:-1,tvg-id="RedBullTV" tvg-name="RedBullTV" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/redbulltv.png" group-title="亚洲",Red Bull Sports
-http://aktv_stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
-#EXTINF:-1,tvg-id="nba tv" tvg-name="nbatv" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/NBATV.png" group-title="亚洲",NBA TV
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
-#EXTINF:-1,tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ESPN.png" group-title="亚洲",ESPN
-http://aktv_stream.m16tv.cfd/stream/useradd1/espn/AKTV.m3u8
-#EXTINF:-1,tvg-id="ESPNNEWS" tvg-name="ESPNNEWS" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ESPNNEWS.png" group-title="亚洲",ESPNNEWS
-http://aktv_stream.m16tv.cfd/stream/useradd1/espnnews/AKTV.m3u8
-#EXTINF:-1,tvg-id="TennisChannel2US" tvg-name="TennisChannel2US" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TennisChannelPlus.png" group-title="亚洲",TennisChannel 2US
-http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
-#EXTINF:-1,tvg-id="TennisChannelUS" tvg-name="TennisChannelUS" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TennisChannelUS.png" group-title="亚洲",TennisChannel US
-http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
-#EXTINF:-1,tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ASTROSUPERSPORT1.png" group-title="亚洲",Astro Football
-http://aktv_stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
-#EXTINF:-1,tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ASTROXINGHE.png" group-title="亚洲",Astro 欢喜台
-http://aktv_stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
-#EXTINF:-1,tvg-id="AstroIQIYI" tvg-name="AstroIQIYI" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ASTROIQIYI.png" group-title="亚洲", Astro IQIYI
-http://aktv_stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
-#EXTINF:-1,tvg-id="AstroQJ" tvg-name="AstroQJ" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ASTROCRICKET.png" group-title="亚洲", Astro QJ
-http://aktv_stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
-#EXTINF:-1,tvg-id="DW Deutsch" tvg-name="DW Deutsch" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/DW.png" group-title="亚洲",DW
-http://aktv_stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
-#EXTINF:-1,tvg-id="kix" tvg-name="kix" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/KIX.png" group-title="亚洲",KIX
-http://aktv_stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVB PLUS" tvg-name="tvbplus" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVBPLUS.png" group-title="亚洲",TVB Plus
-http://aktv_stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1,tvg-id="PopC" tvg-name="PopC" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/POPC.png" group-title="亚洲",PopC
-http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
-#EXTINF:-1,tvg-id="tvn" tvg-name="tvn" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVN.png" group-title="亚洲",tvN
-http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
-#EXTINF:-1,tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ROCKACTION.png" group-title="亚洲",ROCK Action
-http://aktv_stream.m16tv.cfd/stream/aktv2/rockaction/AKTV.m3u8
-#EXTINF:-1,tvg-id="axn" tvg-name="axn" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/AXN.png" group-title="亚洲",AXN
-http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-#EXTINF:-1,tvg-id="ANIMAXHK" tvg-name="ANIMAXHK" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ANIMAX.png" group-title="亚洲",Animax(HK)
-http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
-#EXTINF:-1,tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ZOOMOO1.png" group-title="亚洲",ZooMoo
-http://aktv_stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1,tvg-id="MTVLIVE" tvg-name="MTVLIVE" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/MTVLIVEHD.png" group-title="亚洲",MTV LIVE
-http://aktv_stream.m16tv.cfd/stream/useradd1/usmtvlive/AKTV.m3u8
+#亚洲✈
+#EXTINF:-1,tvg-id="Channel5" tvg-name="Channel5" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/c5.png" group-title="亚洲✈",Channel 5 HD
+https://cdn6.163189.xyz/live/ch5/stream.m3u8
+#EXTINF:-1,tvg-id="Channel8" tvg-name="Channel8" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/c8.png" group-title="亚洲✈",Channel 8 HD
+https://cdn6.163189.xyz/live/ch8/stream.m3u8
+#EXTINF:-1,tvg-id="ChannelU" tvg-name="ChannelU" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/cu.png" group-title="亚洲✈",Channel U HD
+https://cdn6.163189.xyz/live/chu/stream.m3u8
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix1.png" group-title="亚洲✈",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix2.png" group-title="亚洲✈",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix3.png" group-title="亚洲✈",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1,tvg-id="JADE翡翠台" tvg-name="Jade翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVB翡翠.png" group-title="亚洲✈", 翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1,tvg-id="翡翠4K" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/翡翠.png" group-title="亚洲✈", 翡翠台4K
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1,tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/华丽翡翠台.png" group-title="亚洲✈", 华丽翡翠台
+http://php.jdshipin.com/smt.php?id=Tvbjade
+#EXTINF:-1,tvg-id="翡翠4K" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVBJ1.png" group-title="亚洲✈", TVB J1
+http://php.jdshipin.com/TVOD/iptv.php?id=j1 
+#EXTINF:-1,tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVBPLUS.png" group-title="亚洲✈", TVB PLUS
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+#EXTINF:-1,tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVB娱乐新闻台.png" group-title="亚洲✈", TVB 娱乐新闻台
+http://php.jdshipin.com/smt.php?id=Tvbentertainment
+#EXTINF:-1,tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVB星河.png" group-title="亚洲✈", TVB 星河台
+http://php.jdshipin.com/smt.php?id=Xinhe
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="News 新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/无线新闻.png" group-title="亚洲✈", 无线新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+#EXTINF:-1,tvg-id="明珠台" tvg-name="Pearl 明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVB明珠.png" group-title="亚洲✈", 明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1,tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/千禧经典台.png" group-title="亚洲✈", 千禧经典台
+http://php.jdshipin.com/smt.php?id=Tvbclassic
+#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/美亚电影.png" group-title="亚洲✈", 美亚电影台
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1,tvg-id="HOYTV" tvg-name="HOY TV" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/HOYTV.png" group-title="亚洲✈", HOYTV77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/VIUTV.png" group-title="亚洲✈",VIUTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1,tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ASTROXINGHE.png" group-title="亚洲✈",Astro欢喜台
+http://php.jdshipin.com/smt.php?id=Huahee
+#EXTINF:-1,tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ASTROIQIYI.png" group-title="亚洲✈", Astro IQIYI
+http://php.jdshipin.com/smt.php?id=Qiyi
+#EXTINF:-1,tvg-id="Astro AEC" tvg-name="Astro AEC" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/AstroAEC.png" group-title="亚洲✈", Astro AEC
+http://php.jdshipin.com/smt.php?id=AEC
+#EXTINF:-1,tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/ASTROCRICKET.png" group-title="亚洲✈", Astro QJ
+http://php.jdshipin.com/smt.php?id=Quanjia
+#EXTINF:-1,tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/天映经典.png" group-title="亚洲✈", 天映经典
+http://php.jdshipin.com/smt.php?id=Celestial2
+#EXTINF:-1,tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/天映.png" group-title="亚洲✈", 天映频道
+http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1,tvg-id="RTHK31" tvg-name="港台電視 31" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/RTHK31.png" group-title="亚洲✈", RTHK31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1,tvg-id="RTHK32" tvg-name="港台電視 32" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/RTHK32.png" group-title="亚洲✈", RTHK32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1,tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/龙华电影.png" group-title="亚洲✈", 龙华电影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+#EXTINF:-1,tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/龙华经典.png" group-title="亚洲✈", 龙华经典
+https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+#EXTINF:-1,tvg-id="龙华卡通" tvg-name="龙华卡通" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/龙华卡通.png" group-title="亚洲✈", 龙华卡通
+https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+#EXTINF:-1,tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/龙华偶像.png" group-title="亚洲✈", 龙华偶像
+https://cdn8.163189.xyz/live/lhox/stream.m3u8
+#EXTINF:-1,tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/龙华日韩.png" group-title="亚洲✈", 龙华日韩
+https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+#EXTINF:-1,tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/龙华戏剧.png" group-title="亚洲✈", 龙华戏剧
+https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+#EXTINF:-1,tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/龙华洋片.png" group-title="亚洲✈", 龙华洋片
+https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/广东珠江.png" group-title="亚洲✈",广东珠江
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
 
 #LITV✈
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://logo.doube.eu.org/中天新闻.png" group-title="LITV✈",中天新聞
