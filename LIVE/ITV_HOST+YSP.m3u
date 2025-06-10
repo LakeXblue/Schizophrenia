@@ -368,18 +368,12 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 
 
 #数字ʰ
-#EXTINF:-1,tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京淘电影.png" group-title="数字ʰ",淘电影
-http://192.168.1.66:35455/bptv/10000100000000050000000003887498.m3u8
-#EXTINF:-1,tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京淘剧场.png" group-title="数字ʰ",淘剧场
-http://192.168.1.66:35455/bptv/10000100000000050000000003887497.m3u8
-#EXTINF:-1,tvg-id="北京淘娱乐" tvg-name="北京淘娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京淘娱乐.png" group-title="数字ʰ",淘娱乐
-http://192.168.1.66:35455/bptv/10000100000000050000000003887499.m3u8
-#EXTINF:-1,tvg-id="北京淘BABY" tvg-name="北京淘BABY" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京淘BABY.png" group-title="数字ʰ",淘BABY
-http://192.168.1.66:35455/bptv/10000100000000050000000003887496.m3u8
-#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/重温经典.png" group-title="数字ʰ",BTV-重温经典
-http://192.168.1.66:35455/bptv/10000100000000050000000003887494.m3u8
-#EXTINF:-1,tvg-id="北京萌宠TV" tvg-name="北京萌宠TV" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京萌宠TV.png" group-title="数字ʰ",萌宠TV
-http://192.168.1.66:35455/bptv/10000100000000050000000003887495.m3u8
+#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/CHC影迷电影.png" group-title="数字电影",CHC影迷电影
+http://192.168.1.66:35455/mgtv/952383261.m3u8
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/CHC动作电影.png" group-title="数字电影",CHC动作电影
+http://192.168.1.66:35455/mgtv/644368714.m3u8
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/CHC家庭影院.png" group-title="数字电影",CHC家庭影院
+http://192.168.1.66:35455/mgtv/644368373.m3u8
 #EXTINF:-1,tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/精彩影视.png" group-title="数字ʰ",精彩影视
 http://gslbserv.itv.cmvideo.cn:80/2000000004000000063/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000063&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/精彩影视.png" group-title="数字ʰ",精彩影视
