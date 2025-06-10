@@ -356,6 +356,10 @@ http://192.168.50.58:35455/mgtv/952383261.m3u8
 http://192.168.50.58:35455/mgtv/644368714.m3u8
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/CHC家庭影院.png" group-title="数字电影",CHC家庭影院
 http://192.168.50.58:35455/mgtv/644368373.m3u8
+#EXTINF:-1,tvg-id="咪咕音乐" tvg-name="咪咕音乐" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/咪咕音乐.png" group-title="数字电影",咪咕音乐
+http://192.168.50.58:35455/mgtv/707671890.m3u8
+#EXTINF:-1,tvg-id="音乐心情" tvg-name="音乐心情" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/MTVLIVE.png" group-title="数字电影",腾讯音乐
+http://192.168.50.58:35455/mgtv/625133682.m3u8
 #EXTINF:-1,tvg-id="北京4K超清" tvg-name="北京4K超清" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京4K超清.png" group-title="数字ʰ",淘4K超清 HLG
 http://192.168.50.58:35455/bptv/10000100000000050000000003887500.m3u8
 #EXTINF:-1,tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京淘电影.png" group-title="数字ʰ",淘电影

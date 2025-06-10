@@ -374,6 +374,10 @@ http://192.168.1.66:35455/mgtv/952383261.m3u8
 http://192.168.1.66:35455/mgtv/644368714.m3u8
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/CHC家庭影院.png" group-title="数字电影",CHC家庭影院
 http://192.168.1.66:35455/mgtv/644368373.m3u8
+#EXTINF:-1,tvg-id="咪咕音乐" tvg-name="咪咕音乐" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/咪咕音乐.png" group-title="数字电影",咪咕音乐
+http://192.168.1.66:35455/mgtv/707671890.m3u8
+#EXTINF:-1,tvg-id="音乐心情" tvg-name="音乐心情" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/MTVLIVE.png" group-title="数字电影",腾讯音乐
+http://192.168.1.66:35455/mgtv/625133682.m3u8
 #EXTINF:-1,tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/精彩影视.png" group-title="数字ʰ",精彩影视
 http://gslbserv.itv.cmvideo.cn:80/2000000004000000063/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000063&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1,tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/精彩影视.png" group-title="数字ʰ",精彩影视
