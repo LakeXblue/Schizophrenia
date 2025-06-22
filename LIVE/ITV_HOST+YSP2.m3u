@@ -108,16 +108,10 @@ https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=ctient
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix1.png" group-title="亚洲✈",凤凰中文
 http://cdn.jdshipin.com/jisu.php?id=fhzw
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix1.png" group-title="亚洲✈",凤凰中文
-http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix2.png" group-title="亚洲✈",凤凰资讯
 http://cdn.jdshipin.com/jisu.php?id=fhzx
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix2.png" group-title="亚洲✈",凤凰资讯
-http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix3.png" group-title="亚洲✈",凤凰香港
 http://cdn.jdshipin.com/jisu.php?id=fhxg
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix3.png" group-title="亚洲✈",凤凰香港
-http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
 #EXTINF:-1,tvg-id="Channel5" tvg-name="Channel5" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/c5.png" group-title="亚洲✈",Channel 5 HD
 https://cdn6.163189.xyz/live/ch5/stream.m3u8
 #EXTINF:-1,tvg-id="Channel8" tvg-name="Channel8" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/c8.png" group-title="亚洲✈",Channel 8 HD
