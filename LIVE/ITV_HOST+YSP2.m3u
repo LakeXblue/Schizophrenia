@@ -100,12 +100,14 @@ http://192.168.50.58:35455/nptv/heilongjiang.m3u8
 
 
 #亚洲✈
-#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/中天新闻.png" group-title="亚洲✈",中天新聞台 Smart
-https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 #EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/中天新闻.png" group-title="亚洲✈",中天新聞台 AKTV
 https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
-#EXTINF:-1,tvg-id="中天娱乐台" tvg-name="中天娱乐台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/中天娱乐.png" group-title="亚洲✈",中天娱乐台
-https://smart.pendy.dpdns.org/Smart.php?id=ctient
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/凤凰中文.png" group-title="亚洲✈",鳳凰中文 AKTV
+https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/凤凰资讯.png" group-title="亚洲✈",鳳凰資訊 AKTV
+https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/凤凰香港.png" group-title="亚洲✈",鳳凰香港 AKTV
+https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix1.png" group-title="亚洲✈",凤凰中文
 http://cdn.jdshipin.com/jisu.php?id=fhzw
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix2.png" group-title="亚洲✈",凤凰资讯
