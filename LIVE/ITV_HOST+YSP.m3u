@@ -356,33 +356,19 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 #EXTINF:-1,tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/FASHIONTV.png" group-title="数字ʰ",FashionTV N「时尚」
 https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
-#EXTINF:-1,tvg-id="北京4K超清" tvg-name="北京4K超清" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京4K超清.png" group-title="数字ʰ",淘4K超清 HLG
-http://192.168.1.66:35455/bptv/3221226550.m3u8
-#EXTINF:-1,tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京淘电影.png" group-title="数字ʰ",淘电影
-http://192.168.1.66:35455/bptv/3221226552.m3u8
-#EXTINF:-1,tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京淘剧场.png" group-title="数字ʰ",淘剧场
-http://192.168.1.66:35455/bptv/3221226553.m3u8
-#EXTINF:-1,tvg-id="北京淘娱乐" tvg-name="北京淘娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京淘娱乐.png" group-title="数字ʰ",淘娱乐
-http://192.168.1.66:35455/bptv/3221226551.m3u8
-#EXTINF:-1,tvg-id="北京淘BABY" tvg-name="北京淘BABY" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京淘BABY.png" group-title="数字ʰ",淘BABY
-http://192.168.1.66:35455/bptv/3221226554.m3u8
-#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/重温经典.png" group-title="数字ʰ",BTV-重温经典
-http://192.168.1.66:35455/bptv/3221226556.m3u8
-#EXTINF:-1,tvg-id="北京萌宠TV" tvg-name="北京萌宠TV" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/北京萌宠TV.png" group-title="数字ʰ",萌宠TV
-http://192.168.1.66:35455/bptv/3221226555.m3u8
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/CHC影迷电影.png" group-title="数字ʰ",CHC影迷电影
 http://192.168.1.66:35455/mgtv/952383261.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/CHC动作电影.png" group-title="数字ʰ",CHC动作电影
 http://192.168.1.66:35455/mgtv/644368714.m3u8
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/CHC家庭影院.png" group-title="数字ʰ",CHC家庭影院
 http://192.168.1.66:35455/mgtv/644368373.m3u8
+#EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.v1.mk/logo/黑莓电影.png" group-title="数字ʰ",黑莓电影
+http://192.168.1.66:35455/bptv/3221226939.m3u8
+#EXTINF:-1,tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.v1.mk/logo/黑莓动画.png" group-title="数字ʰ",黑莓动画
+http://192.168.1.66:35455/bptv/3221226935.m3u8
 
 
 #NewTV
-#EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.v1.mk/logo/黑莓电影.png" group-title="NewTV",黑莓电影
-http://192.168.1.66:35455/bptv/3221226939.m3u8
-#EXTINF:-1,tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.v1.mk/logo/黑莓动画.png" group-title="NewTV",黑莓动画
-http://192.168.1.66:35455/bptv/3221226935.m3u8
 #EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.v1.mk/logo/NEWTV超级电视剧.png" group-title="NewTV",超级电视剧
 http://192.168.1.66:35455/bptv/3221226972.m3u8
 #EXTINF:-1,tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://epg.v1.mk/logo/NEWTV超级电影.png" group-title="NewTV",超级电影
