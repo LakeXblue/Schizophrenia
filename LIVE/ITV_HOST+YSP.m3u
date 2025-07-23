@@ -2,6 +2,8 @@
 
 
 #CCTV
+#EXTINF:-1,tvg-id="CCTV4K"  tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="CCTV",CCTV-4K HLG-36M
+http://192.168.1.66:35455/yhyx/IP-CCTV-4K.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV1.png" group-title="CCTV",CCTV1-综合
 http://192.168.1.66:35455/mgtv/608807420.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV2.png" group-title="CCTV",CCTV2-财经
@@ -99,27 +101,27 @@ http://192.168.1.66:35455/nptv/heilongjiang.m3u8
 
 #亚洲✈
 #EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/中天新闻.png" group-title="亚洲✈",中天新聞台 Smart
-https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
 #EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/中天新闻.png" group-title="亚洲✈",中天新聞台 AKTV
-https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
+http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/凤凰中文.png" group-title="亚洲✈",鳳凰中文 AKTV
-https://s1.tvm4a1.cfd/aktv/CH-3/AKTV.m3u8
+http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/凤凰资讯.png" group-title="亚洲✈",鳳凰資訊 AKTV
-https://s1.tvm4a1.cfd/aktv/CH-4/AKTV.m3u8
+http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/凤凰香港.png" group-title="亚洲✈",鳳凰香港 AKTV
-https://s1.tvm4a1.cfd/aktv/CH-5/AKTV.m3u8
+http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix1.png" group-title="亚洲✈",凤凰中文
-http://cdn.jdshipin.com/jisu.php?id=fhzw
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix2.png" group-title="亚洲✈",凤凰资讯
-http://cdn.jdshipin.com/jisu.php?id=fhzx
+https://edge.163189.xyz/163189/fhzx
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Phoenix3.png" group-title="亚洲✈",凤凰香港
-http://cdn.jdshipin.com/jisu.php?id=fhxg
+https://edge.163189.xyz/163189/fhhk
 #EXTINF:-1,tvg-id="Channel5" tvg-name="Channel5" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/c5.png" group-title="亚洲✈",Channel 5 HD
-https://cdn6.163189.xyz/live/ch5/stream.m3u8
+https://edge.163189.xyz/163189/ch5
 #EXTINF:-1,tvg-id="Channel8" tvg-name="Channel8" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/c8.png" group-title="亚洲✈",Channel 8 HD
-https://cdn6.163189.xyz/live/ch8/stream.m3u8
+https://edge.163189.xyz/163189/ch8
 #EXTINF:-1,tvg-id="ChannelU" tvg-name="ChannelU" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/cu.png" group-title="亚洲✈",Channel U HD
-https://cdn6.163189.xyz/live/chu/stream.m3u8
+https://edge.163189.xyz/163189/chu
 #EXTINF:-1,tvg-id="翡翠4K" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/翡翠.png" group-title="亚洲✈", 翡翠台
 http://cdn.jdshipin.com/jisu.php?id=fct
 #EXTINF:-1,tvg-id="翡翠4K" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/TVBJ1.png" group-title="亚洲✈", TVB J1
@@ -357,15 +359,14 @@ https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 #EXTINF:-1,tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/FASHIONTV.png" group-title="数字ʰ",FashionTV N「时尚」
 https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/CHC影迷电影.png" group-title="数字ʰ",CHC影迷电影
-http://192.168.1.66:35455/mgtv/952383261.m3u8
+http://192.168.1.66:35455/yhyx/IP-HCGQ-HD.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/CHC动作电影.png" group-title="数字ʰ",CHC动作电影
-http://192.168.1.66:35455/mgtv/644368714.m3u8
+http://192.168.1.66:35455/yhyx/IP-JTYY-HD.m3u8
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/CHC家庭影院.png" group-title="数字ʰ",CHC家庭影院
-http://192.168.1.66:35455/mgtv/644368373.m3u8
-#EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.v1.mk/logo/黑莓电影.png" group-title="数字ʰ",黑莓电影
-http://192.168.1.66:35455/bptv/3221226939.m3u8
-#EXTINF:-1,tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.v1.mk/logo/黑莓动画.png" group-title="数字ʰ",黑莓动画
-http://192.168.1.66:35455/bptv/3221226935.m3u8
+http://192.168.1.66:35455/yhyx/IP-DZDY-HD.m3u8
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/都市剧场.png" group-title="数字ʰ",SiTV都市剧场
+http://192.168.1.66:35455/yhyx/IP-DSJC-HD.m3u8
+
 
 
 #NewTV
