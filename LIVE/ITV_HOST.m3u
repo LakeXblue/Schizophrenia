@@ -1,61 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml.gz" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 
 
-#YSP
-#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png" group-title="YSP",CCTV-8K HLG-36M
-http://192.168.1.66:35455/gaoma/cctv8k_36m.m3u8
-#EXTINF:-1,tvg-id="CCTV4K"  tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="YSP",CCTV-4K HLG-36M
-http://192.168.1.66:35455/gaoma/cctv4k.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="YSP",CCTV16-4K HLG-36M
-http://192.168.1.66:35455/gaoma/cctv4k16.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV1.png" group-title="YSP",CCTV1-综合 50-FPS
-http://192.168.1.66:35455/gaoma/cctv1.m3u8
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV2.png" group-title="YSP",CCTV2-财经 50-FPS
-http://192.168.1.66:35455/gaoma/cctv2.m3u8
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV3.png" group-title="YSP",CCTV3-综艺 50-FPS
-http://192.168.1.66:35455/gaoma/cctv3.m3u8
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV4.png" group-title="YSP",CCTV4-中文国际 50-FPS
-http://192.168.1.66:35455/gaoma/cctv4.m3u8
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5.png" group-title="YSP",CCTV5-体育 50-FPS
-http://192.168.1.66:35455/gaoma/cctv5.m3u8
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5+.png" group-title="YSP",CCTV5+体育赛事 50-FPS
-http://192.168.1.66:35455/gaoma/cctv5p.m3u8
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV7.png" group-title="YSP",CCTV7-国防军事 50-FPS
-http://192.168.1.66:35455/gaoma/cctv7.m3u8
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV8.png" group-title="YSP",CCTV8-电视剧 50-FPS
-http://192.168.1.66:35455/gaoma/cctv8.m3u8
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV9.png" group-title="YSP",CCTV9-纪录 50-FPS
-http://192.168.1.66:35455/gaoma/cctv9.m3u8
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV10.png" group-title="YSP",CCTV10-科教 50-FPS
-http://192.168.1.66:35455/gaoma/cctv10.m3u8
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV11.png" group-title="YSP",CCTV11-戏曲 50-FPS
-http://192.168.1.66:35455/gaoma/cctv11.m3u8
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV12.png" group-title="YSP",CCTV12-社会与法 50-FPS
-http://192.168.1.66:35455/gaoma/cctv12.m3u8
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV13.png" group-title="YSP",CCTV13-新闻 50-FPS
-http://192.168.1.66:35455/gaoma/cctv13.m3u8
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV14.png" group-title="YSP",CCTV14-少儿 50-FPS
-http://192.168.1.66:35455/gaoma/cctv14.m3u8
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV15.png" group-title="YSP",CCTV15-音乐 50-FPS
-http://192.168.1.66:35455/gaoma/cctv15.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV16.png" group-title="YSP",CCTV16-奥林匹克 50-FPS
-http://192.168.1.66:35455/gaoma/cctv16.m3u8
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV17.png" group-title="YSP",CCTV17-农业农村 50-FPS
-http://192.168.1.66:35455/gaoma/cctv17.m3u8
-#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN.png" group-title="YSP",CGTN-英语 50-FPS
-http://192.168.1.66:35455/gaoma/cgtnen.m3u8
-#EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN法语.png" group-title="YSP",CGTN-法语 50-FPS
-http://192.168.1.66:35455/gaoma/cgtnfr.m3u8
-#EXTINF:-1,tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN阿语.png" group-title="YSP",CGTN-阿拉伯语 50-FPS
-http://192.168.1.66:35455/gaoma/cgtnar.m3u8
-#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN俄语.png" group-title="YSP",CGTN-俄语 50-FPS
-http://192.168.1.66:35455/gaoma/cgtnru.m3u8
-#EXTINF:-1,tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN西语.png" group-title="YSP",CGTN-西班牙语 50-FPS
-http://192.168.1.66:35455/gaoma/cgtnsp.m3u8
-#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv//CGTN纪录.png" group-title="YSP",CGTN-纪录片 50-FPS
-http://192.168.1.66:35455/gaoma/cgtndoc.m3u8
-
-
 #CCTV
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV1.png" group-title="CCTV",CCTV1-综合 50-FPS
 http://gslbserv.itv.cmvideo.cn:80/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=toShengfen&mode=1&$8M FHD 50FPS
