@@ -55,7 +55,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225739/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225720/1.m3u8
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Guangdong.png" group-title="卫视",广东卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225731/1.m3u8
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/河南卫视2.png" group-title="卫视",河南卫视
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/LakeXblue/Schizophrenia/icon/河南卫视AA.png" group-title="卫视",河南卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226132/1.m3u8
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo/img/Guangxi.png" group-title="卫视",广西卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226130/1.m3u8
